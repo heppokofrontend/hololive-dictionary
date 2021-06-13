@@ -4,7 +4,13 @@ export const kiryuCoco: LiverData = {
     ['かいちょう', '会長'],
   ],
   marks: ['🐉'],
-  tags: ['#桐生ココ', '#ココここ', '#みかじ絵', '#cocoArt'],
+  tags: [
+    '#桐生ココ',
+    '#ココここ',
+    '#みかじ絵',
+    '#cocoArt',
+    '#asacocoleak',
+  ],
   fans: ['たつのこ', '桐生会'],
   twitter: ['@kiryucoco'],
   others: [
