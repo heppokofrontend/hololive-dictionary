@@ -43,8 +43,8 @@ const dataSet: any[] = (() => {
   return dictionary.map(({name, alias, marks, tags, fans, twitter}) => {
     const data: WordSet[] = [];
     const nameSet = {
-      yomi: [name[0].replace(/\s/g, ''), ...name[0]?.split(/\s/)],
-      kaki: [name[1].replace(/\s/g, ''), ...name[1]?.split(/\s/)],
+      yomi: [...new Set([name[0].replace(/\s/g, ''), ...name[0]?.split(/\s/)])],
+      kaki: [...new Set([name[1].replace(/\s/g, ''), ...name[1]?.split(/\s/)])],
     };
 
     // あだ名の読みをnameに追加
