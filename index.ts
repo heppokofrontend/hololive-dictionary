@@ -17,19 +17,21 @@ type WordSet = [string, string, PartsOfSpeech];
  */
 const dataSet: WordSet[] = (() => {
   /** 1つの読みに対して語句が複数ある */
-  // const multi = (name, marks = [], type) => {
-  //   const result: WordSet[] = [];
+  const multi = (names: string[] = [], marks: string[] = [], type: PartsOfSpeech) => {
+    const result: WordSet[] = [];
 
-  //   for (const mark of marks) {
-  //     result.push([
-  //       `＠${name}`,
-  //       mark,
-  //       type,
-  //     ]);
-  //   }
+    for (const name of names) {
+      for (const mark of marks) {
+        result.push([
+          `＠${name}`,
+          mark,
+          type,
+        ]);
+      }
+    }
 
-  //   return result;
-  // };
+    return result;
+  };
 
   return dictionary.map(({name, marks}) => {
     const data: WordSet[] = [];
@@ -42,7 +44,7 @@ const dataSet: WordSet[] = (() => {
     data.push([nameYomi[2], nameKaki[2], '人名']);
 
     // その他の情報
-    // data.push(...multi(nameYomi[0], marks, '人名'));
+    data.push(...multi(nameYomi, marks, '人名'));
 
     return data;
   });
