@@ -33,7 +33,7 @@ const dataSet: WordSet[] = (() => {
     return result;
   };
 
-  return dictionary.map(({name, alias, marks}) => {
+  return dictionary.map(({name, alias, marks, tags, fans, twitter}) => {
     const data: WordSet[] = [];
     const nameSet = {
       yomi: [name[0].replace(/\s/g, ''), ...name[0]?.split(/\s/)],
@@ -53,6 +53,9 @@ const dataSet: WordSet[] = (() => {
 
     // その他の情報
     data.push(...multi(nameSet.yomi, marks, '人名', '：'));
+    data.push(...multi(nameSet.yomi, tags, '人名', '＃'));
+    data.push(...multi(nameSet.yomi, fans, '人名', '＊'));
+    data.push(...multi(nameSet.yomi, twitter, '人名', '＠'));
 
     return data;
   });
