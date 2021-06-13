@@ -24,7 +24,7 @@ export const dist = (wordSet: WordSet[], fileName: string) => {
       item[0] = item[0].replace(/[ぁ-ん]/g, replacer);
 
       return item.join('\t');
-    }).join('\n\r');
+    }).join('\r\n');
   })();
 
   // Mac向け辞書データの書き出し

@@ -14,8 +14,6 @@ export const kiryuCoco: LiverData = {
   fans: ['たつのこ', '桐生会'],
   twitter: ['@kiryucoco'],
   others: [
-    ['きりゅうちゃん', '桐生ちゃん'],
-    ['きりゅうちゃん', '奇龍ちゃん'],
     ['きりゅう', '奇龍'],
   ],
 };
