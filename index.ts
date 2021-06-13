@@ -34,6 +34,10 @@ const dataSet: WordSet[] = (() => {
     const result: WordSet[] = [];
 
     for (const yomi of yomiSet) {
+      if (!yomi) {
+        continue;
+      }
+
       for (const kaki of kakiSet) {
         result.push([
           `${prefix}${yomi}`,
@@ -73,7 +77,7 @@ const dataSet: WordSet[] = (() => {
     wordsets.push(...multi(nameSet.yomi, twitter, '名詞', '＠'));
 
     return wordsets;
-  }).flat().filter((item: any) => !!item[0]);
+  }).flat().filter(([yomi, kana]) => !!yomi && !!kana);
 })();
 const CSV = dataSet.map(item => item.join(',')).join('\n');
 const TSV = dataSet.map(item => item.join('\t')).join('\n');
