@@ -8,7 +8,21 @@ const dictionary = path.join(__dirname, '..', '..', 'dictionary');
  * @param wordSet - 辞書データ
  * @param fileName - 書き出しファイル名
  */
-export const dist = (wordSet: WordSet[], fileName: string) => {
+export const dist = (argWordSet: WordSet[], fileName: string) => {
+  /** 登録済みの辞書情報 */
+  const entried: string[] = [];
+  /** 重複を除いたデータ */
+  const wordSet = argWordSet.filter(item => {
+    const val = item.join('');
+
+    if (entried.includes(val)) {
+      return false;
+    }
+
+    entried.push(val);
+
+    return true;
+  });
   const CSV = wordSet.map(item => item.join(',')).join('\n');
   const TSV = wordSet.map(item => item.join('\t')).join('\n');
   const googleIME = (() => {
