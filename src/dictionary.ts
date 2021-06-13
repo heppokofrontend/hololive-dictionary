@@ -1,18 +1,18 @@
 type Dictionary = {
   /** よみ、語句 */
-  name: [string, string]
+  name: [string, string],
   /** あだ名。[よみがな, 語句][] */
-  alias: [string, string][]
+  alias: [string, string][],
   /** 推しマーク */
-  marks: string[]
+  marks: string[],
   /** ハッシュタグ */
-  tags: string[]
+  tags: string[],
   /** ファンネーム */
-  fans: string[]
+  fans: string[],
   /** Twitter */
-  twitter: string[]
+  twitter: string[],
   /** 通常の変換が難しいその他の関連用語を[よみがな, 語句][]形式で */
-  others?: [string, string][]
+  others?: [string, string][],
 }
 
 export const dictionary: Dictionary[] = [
