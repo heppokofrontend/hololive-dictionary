@@ -1,4 +1,4 @@
-export const yukokuRoberu: Dictionary = {
+export const yukokuRoberu: LiverData = {
   name: ['ゆうこく ろべる', '夕刻 ロベル'],
   alias: [
     ['', ''],

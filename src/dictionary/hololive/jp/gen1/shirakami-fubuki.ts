@@ -1,4 +1,4 @@
-export const shirakamiFubuki: Dictionary = {
+export const shirakamiFubuki: LiverData = {
   name: ['しらかみ ふぶき', '白上 フブキ'],
   alias: [
     ['ふぶきんぐ', 'フブキング'],

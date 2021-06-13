@@ -1,4 +1,4 @@
-export const ninomaeInanis: Dictionary = {
+export const ninomaeInanis: LiverData = {
   name: ['にのまえ いなにす', '一 伊那尓栖'],
   alias: [
     ['いな', 'イナ'],

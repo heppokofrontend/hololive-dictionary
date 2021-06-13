@@ -1,4 +1,4 @@
-export const kiryuCoco: Dictionary = {
+export const kiryuCoco: LiverData = {
   name: ['きりゅう ここ', '桐生 ココ'],
   alias: [
     ['かいちょう', '会長'],

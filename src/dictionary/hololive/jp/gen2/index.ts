@@ -4,7 +4,7 @@ import { nakiriAyame } from "./nakiri-ayame";
 import { oozoraSubaru } from "./oozora-subaru";
 import { yuzukiChoco } from "./yuzuki-choco";
 
-export const hololiveJpGen2: Dictionary[] = [
+export const hololiveJpGen2: LiverData[] = [
   minatoAqua,
   yuzukiChoco,
   nakiriAyame,

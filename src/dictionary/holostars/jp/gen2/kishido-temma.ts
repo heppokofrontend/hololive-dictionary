@@ -1,4 +1,4 @@
-export const kishidoTemma: Dictionary = {
+export const kishidoTemma: LiverData = {
   name: ['きしどう てんま', '岸堂 天真'],
   alias: [
     ['', ''],

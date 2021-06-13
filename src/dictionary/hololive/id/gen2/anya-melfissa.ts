@@ -1,4 +1,4 @@
-export const anyaMelfissa: Dictionary = {
+export const anyaMelfissa: LiverData = {
   name: ['あーにゃ めるふぃっさ', 'Anya Melfissa'],
   alias: [
     ['', ''],

@@ -1,5 +1,5 @@
 import { holostarsJp } from "./jp";
 
-export const holostars: Dictionary[] = [
+export const holostars: LiverData[] = [
   ...holostarsJp,
 ];

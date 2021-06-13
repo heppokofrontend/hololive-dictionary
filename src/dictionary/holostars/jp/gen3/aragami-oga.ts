@@ -1,4 +1,4 @@
-export const aragamiOga: Dictionary = {
+export const aragamiOga: LiverData = {
   name: ['あらがみ おうが', '荒咬 オウガ'],
   alias: [
     ['', ''],

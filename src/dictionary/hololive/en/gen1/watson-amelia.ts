@@ -1,4 +1,4 @@
-export const watsonAmelia: Dictionary = {
+export const watsonAmelia: LiverData = {
   name: ['わとそん あめりあ', 'ワトソン アメリア'],
   alias: [
     ['あめ', 'Ame'],

@@ -1,4 +1,4 @@
-export const sakuraMiko: Dictionary = {
+export const sakuraMiko: LiverData = {
   name: ['さくら みこ', 'さくら みこ'],
   alias: [
     ['みこち', 'みこち'],

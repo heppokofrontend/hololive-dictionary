@@ -1,4 +1,4 @@
-export const tsunomakiWatame: Dictionary = {
+export const tsunomakiWatame: LiverData = {
   name: ['つのまき わため', '角巻 わため'],
   alias: [
     ['わためぇ', 'わためぇ'],

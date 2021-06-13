@@ -1,4 +1,4 @@
-export const ookamiMio: Dictionary = {
+export const ookamiMio: LiverData = {
   name: ['おおかみ みお', '大神 ミオ'],
   alias: [
     ['みおしゃ', 'みおしゃ'],

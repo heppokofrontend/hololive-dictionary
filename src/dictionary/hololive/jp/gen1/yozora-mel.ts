@@ -1,4 +1,4 @@
-export const yozoraMel: Dictionary = {
+export const yozoraMel: LiverData = {
   name: ['よぞら める', '夜空 メル'],
   alias: [
     ['めるめる', 'メルメル'],

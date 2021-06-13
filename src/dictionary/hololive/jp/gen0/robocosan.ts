@@ -1,4 +1,4 @@
-export const robocosan: Dictionary = {
+export const robocosan: LiverData = {
   name: ['ろぼこ さん', 'ロボ子 さん'],
   alias: [
     ['', ''],

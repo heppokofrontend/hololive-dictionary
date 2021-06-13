@@ -1,4 +1,4 @@
-export const kagamiKira: Dictionary = {
+export const kagamiKira: LiverData = {
   name: ['かがみ きら', '鏡見 キラ'],
   alias: [
     ['', ''],

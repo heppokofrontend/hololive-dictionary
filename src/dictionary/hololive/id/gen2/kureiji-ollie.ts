@@ -1,4 +1,4 @@
-export const kureijiOllie: Dictionary = {
+export const kureijiOllie: LiverData = {
   name: ['くれいじー おりー', 'Kureiji Ollie'],
   alias: [
     ['', ''],

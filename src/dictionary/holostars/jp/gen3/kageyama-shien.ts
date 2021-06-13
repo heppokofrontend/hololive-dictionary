@@ -1,4 +1,4 @@
-export const kageyamaShien: Dictionary = {
+export const kageyamaShien: LiverData = {
   name: ['影山シエン', '影山シエン'],
   alias: [
     ['', ''],

@@ -1,4 +1,4 @@
-export const nakiriAyame: Dictionary = {
+export const nakiriAyame: LiverData = {
   name: ['なきり あやめ', '百鬼 あやめ'],
   alias: [
     ['おじょう', 'お嬢'],

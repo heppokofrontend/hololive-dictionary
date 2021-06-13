@@ -1,4 +1,4 @@
-export const shiranuiFlare: Dictionary = {
+export const shiranuiFlare: LiverData = {
   name: ['しらぬい ふれあ', '不知火 フレア'],
   alias: [
     ['ふーたん', 'ふーたん'],

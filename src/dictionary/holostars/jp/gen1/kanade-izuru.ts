@@ -1,4 +1,4 @@
-export const kanadeIzuru: Dictionary = {
+export const kanadeIzuru: LiverData = {
   name: ['かなで いづる', '奏手 イヅル'],
   alias: [
     ['かなでいずる', '奏手イヅル'],

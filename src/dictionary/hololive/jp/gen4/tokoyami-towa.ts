@@ -1,4 +1,4 @@
-export const tokoyamiTowa: Dictionary = {
+export const tokoyamiTowa: LiverData = {
   name: ['とこやみ とわ', '常闇 トワ'],
   alias: [
     ['とわち', 'とわち'],

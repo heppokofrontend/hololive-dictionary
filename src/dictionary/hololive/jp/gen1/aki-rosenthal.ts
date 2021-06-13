@@ -1,4 +1,4 @@
-export const akiRosenthal: Dictionary = {
+export const akiRosenthal: LiverData = {
   name: ['あきろーぜんたーる', 'アキ・ローゼンタール'],
   alias: [
     ['あき', 'アキ'],

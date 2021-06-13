@@ -1,4 +1,4 @@
-export const pavoliaReine: Dictionary = {
+export const pavoliaReine: LiverData = {
   name: ['ぱゔぉりあ れいね', 'Pavolia Reine'],
   alias: [
     ['', ''],

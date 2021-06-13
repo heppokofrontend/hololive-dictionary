@@ -1,4 +1,4 @@
-export const murasakiShion: Dictionary = {
+export const murasakiShion: LiverData = {
   name: ['むらさき しおん', '紫咲 シオン'],
   alias: [
     ['しおんたん', 'しおんたん'],

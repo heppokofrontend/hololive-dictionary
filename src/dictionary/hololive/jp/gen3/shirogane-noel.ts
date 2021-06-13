@@ -1,4 +1,4 @@
-export const shiroganeNoel: Dictionary = {
+export const shiroganeNoel: LiverData = {
   name: ['しろがね のえる', '白銀 ノエル'],
   alias: [
     ['のえちゃん', 'のえちゃん'],

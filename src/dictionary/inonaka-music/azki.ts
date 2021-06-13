@@ -1,4 +1,4 @@
-export const azki: Dictionary = {
+export const azki: LiverData = {
   name: ['あずき', 'AZKi'],
   alias: [
     ['あずきち', 'あずきち'],

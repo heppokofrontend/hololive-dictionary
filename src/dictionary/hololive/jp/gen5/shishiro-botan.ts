@@ -1,4 +1,4 @@
-export const shishiroBotan: Dictionary = {
+export const shishiroBotan: LiverData = {
   name: ['ししろ ぼたん', '獅白 ぼたん'],
   alias: [
     ['ししろん', 'ししろん'],

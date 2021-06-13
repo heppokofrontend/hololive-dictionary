@@ -1,4 +1,4 @@
-export const usadaPekora: Dictionary = {
+export const usadaPekora: LiverData = {
   name: ['うさだ ぺこら', '兎田 ぺこら'],
   alias: [
     ['おさ', '長'],

@@ -4,7 +4,7 @@ import { kiryuCoco } from "./kiryu-coco";
 import { tokoyamiTowa } from "./tokoyami-towa";
 import { tsunomakiWatame } from "./tsunomaki-watame";
 
-export const hololiveJpGen4: Dictionary[] = [
+export const hololiveJpGen4: LiverData[] = [
   amaneKanata,
   kiryuCoco,
   tsunomakiWatame,

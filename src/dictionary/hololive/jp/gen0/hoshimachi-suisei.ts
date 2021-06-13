@@ -1,4 +1,4 @@
-export const hoshimachiSuisei: Dictionary = {
+export const hoshimachiSuisei: LiverData = {
   name: ['ほしまち すいせい', '星街 すいせい'],
   alias: [
     ['すいちゃん', 'すいちゃん'],

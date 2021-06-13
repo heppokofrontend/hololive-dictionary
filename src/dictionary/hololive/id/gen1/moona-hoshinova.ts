@@ -1,4 +1,4 @@
-export const moonaHoshinova: Dictionary = {
+export const moonaHoshinova: LiverData = {
   name: ['むーな ほしのゔぁ', 'Moona Hoshinova'],
   alias: [
     ['ぶちょう', '部長'],

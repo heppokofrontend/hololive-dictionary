@@ -1,4 +1,4 @@
-export const himemoriLuna: Dictionary = {
+export const himemoriLuna: LiverData = {
   name: ['ひめもり るーな', '姫森 ルーナ'],
   alias: [
     ['るーなたん', 'るーなたん'],

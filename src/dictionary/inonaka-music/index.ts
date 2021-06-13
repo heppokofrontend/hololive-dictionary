@@ -1,5 +1,5 @@
 import { azki } from "./azki";
 
-export const inonaka: Dictionary[] = [
+export const inonaka: LiverData[] = [
   azki,
 ];

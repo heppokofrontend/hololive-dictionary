@@ -1,4 +1,4 @@
-export const nekomataOkayu: Dictionary = {
+export const nekomataOkayu: LiverData = {
   name: ['ねこまた おかゆ', '猫又 おかゆ'],
   alias: [
     ['おがゆ', 'おがゆ'],

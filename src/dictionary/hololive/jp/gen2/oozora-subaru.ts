@@ -1,4 +1,4 @@
-export const oozoraSubaru: Dictionary = {
+export const oozoraSubaru: LiverData = {
   name: ['おおぞら すばる', '大空 スバル'],
   alias: [
     ['すばう', 'すばう'],

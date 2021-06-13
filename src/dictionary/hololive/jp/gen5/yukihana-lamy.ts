@@ -1,4 +1,4 @@
-export const yukihanaLamy: Dictionary = {
+export const yukihanaLamy: LiverData = {
   name: ['ゆきはな らみぃ', '雪花 ラミィ'],
   alias: [
     ['', ''],

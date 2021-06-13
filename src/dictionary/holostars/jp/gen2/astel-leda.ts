@@ -1,4 +1,4 @@
-export const astelLeda: Dictionary = {
+export const astelLeda: LiverData = {
   name: ['あすてる れだ', 'アステル レダ'],
   alias: [
     ['', ''],

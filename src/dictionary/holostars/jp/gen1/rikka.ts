@@ -1,4 +1,4 @@
-export const rikka: Dictionary = {
+export const rikka: LiverData = {
   name: ['りっか', '律可'],
   alias: [
     ['', ''],

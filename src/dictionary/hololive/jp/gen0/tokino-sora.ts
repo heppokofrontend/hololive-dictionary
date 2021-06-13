@@ -1,4 +1,4 @@
-export const tokinoSora: Dictionary = {
+export const tokinoSora: LiverData = {
   name: ['ときの そら', 'ときの そら'],
   alias: [
     ['そらちゃん', 'そらちゃん'],

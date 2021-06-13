@@ -1,4 +1,4 @@
-export const momosuzuNene: Dictionary = {
+export const momosuzuNene: LiverData = {
   name: ['ももすず ねね', '桃鈴 ねね'],
   alias: [
     ['ねねち', 'ねねち'],

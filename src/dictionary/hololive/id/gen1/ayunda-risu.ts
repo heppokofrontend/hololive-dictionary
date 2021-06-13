@@ -1,4 +1,4 @@
-export const ayundaRisu: Dictionary = {
+export const ayundaRisu: LiverData = {
   name: ['あゆんだ りす', 'Ayunda Risu'],
   alias: [
     ['', ''],

@@ -1,4 +1,4 @@
-export const arurandeisu: Dictionary = {
+export const arurandeisu: LiverData = {
   name: ['あるらんでぃす', 'アルランディス'],
   alias: [
     ['', ''],

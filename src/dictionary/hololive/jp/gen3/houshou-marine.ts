@@ -1,4 +1,4 @@
-export const houshouMarine: Dictionary = {
+export const houshouMarine: LiverData = {
   name: ['ほうしょう まりん', '宝鐘 マリン'],
   alias: [
     ['せんちょう', '船長'],

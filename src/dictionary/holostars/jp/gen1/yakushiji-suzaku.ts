@@ -1,4 +1,4 @@
-export const yakushijiSuzaku: Dictionary = {
+export const yakushijiSuzaku: LiverData = {
   name: ['やくしじ すざく', '薬師寺 朱雀'],
   alias: [
     ['', ''],

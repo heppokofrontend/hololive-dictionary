@@ -1,4 +1,4 @@
-export const omaruPolka: Dictionary = {
+export const omaruPolka: LiverData = {
   name: ['おまる ぽるか', '尾丸 ポルカ'],
   alias: [
     ['おまるん', 'おまるん'],

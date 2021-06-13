@@ -1,4 +1,4 @@
-export const hanasakiMiyabi: Dictionary = {
+export const hanasakiMiyabi: LiverData = {
   name: ['はなさき みやび', '花咲 みやび'],
   alias: [
     ['', ''],

@@ -1,4 +1,4 @@
-export const airaniIofifteen: Dictionary = {
+export const airaniIofifteen: LiverData = {
   name: ['あいらに いおふぃふてぃーん', 'Airani Iofifteen'],
   alias: [
     ['いおふぃ', 'Iofi'],

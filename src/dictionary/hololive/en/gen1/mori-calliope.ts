@@ -1,4 +1,4 @@
-export const moriCalliope: Dictionary = {
+export const moriCalliope: LiverData = {
   name: ['もり かりおぺ', '森 美声'],
   alias: [
     ['かり', 'カリ'],

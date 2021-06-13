@@ -1,4 +1,4 @@
-export const gawrGura: Dictionary = {
+export const gawrGura: LiverData = {
   name: ['がうる ぐら', 'がうる ぐら'],
   alias: [
     ['あ', 'ａ'],

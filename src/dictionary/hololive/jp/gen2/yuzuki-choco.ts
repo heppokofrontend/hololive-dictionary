@@ -1,4 +1,4 @@
-export const yuzukiChoco: Dictionary = {
+export const yuzukiChoco: LiverData = {
   name: ['ゆづき ちょこ', '癒月 ちょこ'],
   alias: [
     ['ちょこせん', 'ちょこ先'],

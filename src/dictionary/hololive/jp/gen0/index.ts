@@ -3,7 +3,7 @@ import { robocosan } from "./robocosan";
 import { sakuraMiko } from "./sakura-miko";
 import { hoshimachiSuisei } from "./hoshimachi-suisei";
 
-export const hololiveJpGen0: Dictionary[] = [
+export const hololiveJpGen0: LiverData[] = [
   tokinoSora,
   robocosan,
   sakuraMiko,

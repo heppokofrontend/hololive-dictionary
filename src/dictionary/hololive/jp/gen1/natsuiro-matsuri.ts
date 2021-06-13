@@ -1,4 +1,4 @@
-export const natsuiroMatsuri: Dictionary = {
+export const natsuiroMatsuri: LiverData = {
   name: ['なついろ まつり', '夏色 まつり'],
   alias: [
     ['', ''],

@@ -4,7 +4,7 @@ import { yozoraMel } from "./yozora-mel";
 import { akaiHaato } from "./akai-haato";
 import { akiRosenthal } from "./aki-rosenthal";
 
-export const hololiveJpGen1: Dictionary[] = [
+export const hololiveJpGen1: LiverData[] = [
   shirakamiFubuki,
   natsuiroMatsuri,
   yozoraMel,

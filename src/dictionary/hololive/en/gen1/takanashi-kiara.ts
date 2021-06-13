@@ -1,4 +1,4 @@
-export const takanashiKiara: Dictionary = {
+export const takanashiKiara: LiverData = {
   name: ['たかなし きあら', '小鳥遊 キアラ'],
   alias: [
     ['たかなし', 'Takanashi'],
