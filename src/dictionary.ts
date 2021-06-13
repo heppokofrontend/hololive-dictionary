@@ -563,6 +563,32 @@ export const dictionary: Dictionary[] = [
     fans: [''],
     twitter: [''],
   },
+  // 獅白ぼたん
+  {
+    name: ['ししろ ぼたん', '獅白 ぼたん'],
+    alias: [
+      ['', ''],
+    ],
+    marks: [''],
+    tags: [
+
+    ],
+    fans: [''],
+    twitter: [''],
+  },
+  // 尾丸ポルカ
+  {
+    name: ['おまる ぽるか', '尾丸 ポルカ'],
+    alias: [
+      ['', ''],
+    ],
+    marks: [''],
+    tags: [
+
+    ],
+    fans: [''],
+    twitter: [''],
+  },
   // 魔乃アロエ
   {
     name: ['まの あろえ', '魔乃 アロエ'],
@@ -576,4 +602,24 @@ export const dictionary: Dictionary[] = [
     fans: [''],
     twitter: [''],
   },
+  // 花咲みやび
+  // 奏手イヅル
+  // アルランディス
+  // 律可
+  // アステル・レダ
+  // 岸堂天真
+  // 夕刻ロベル
+  // 影山シエン
+  // 荒咬オウガ
+  // Ayunda Risu / アユンダ・リス
+  // Moona Hoshinova / ムーナ・ホシノヴァ
+  // Airani Iofifteen / アイラニ・イオフィフティーン
+  // Kureiji Ollie / クレイジー・オリー
+  // Anya Melfissa / アーニャ・メルフィッサ
+  // Pavolia Reine / パヴォリア・レイネ
+  // 森美声/もりかりおぺ
+  // 小鳥遊キアラ/たかなしきあら
+  // 一伊那尓栖/にのまえいなにす
+  // がうる・ぐら
+  // ワトソン・アメリア
 ];
