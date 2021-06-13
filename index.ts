@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import {dictionary} from './src/dictionary';
+import {dictionary} from './dictionary/all';
 
 /**
  * 品詞

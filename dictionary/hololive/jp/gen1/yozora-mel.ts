@@ -1,0 +1,17 @@
+export const yozoraMel: Dictionary = {
+  name: ['よぞら める', '夜空 メル'],
+  alias: [
+    ['めるめる', 'メルメル'],
+  ],
+  marks: ['🌟'],
+  tags: [
+    '#メルArt', // ファンアート
+    '#メル生放送', // 生放送
+    '#かぷ民', // ファントーク
+    '#かぷかぷボイス', // ボイス感想
+    '#かぷかぷ動画', // 切り抜き
+    '#メルメルD', // MMD素材*1
+  ],
+  fans: ['かぷ民'],
+  twitter: ['@yozoramel', '@YozoramelS'],
+};
