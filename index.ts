@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import {dictionary} from './src/dict';
+import {dictionary} from './src/dictionary';
 
 /**
  * 品詞について
@@ -15,16 +15,23 @@ type WordSet = [string, string, PartsOfSpeech];
 /**
  * dict.tsに書かれた内容を整形する
  */
-const dataSet: WordSet[] = (() => {
-  /** 1つの読みに対して語句が複数ある */
-  const multi = (names: string[] = [], marks: string[] = [], type: PartsOfSpeech, prefix: string) => {
+const dataSet: any[] = (() => {
+  /**
+   * 名前とあだ名の読みがな全てで、関連した情報に変換できる辞書データを作る
+   * @param yomiSet - 名前とあだ名の読み仮名セット
+   * @param kakiSet - 変換後語句のセット
+   * @param type - 品詞名
+   * @param prefix - 変換時に使うプレフィックス記号
+   * @returns - 辞書データのまとまり
+   */
+  const multi = (yomiSet: string[] = [], kakiSet: string[] = [], type: PartsOfSpeech, prefix: string = '') => {
     const result: WordSet[] = [];
 
-    for (const name of names) {
-      for (const mark of marks) {
+    for (const yomi of yomiSet) {
+      for (const kaki of kakiSet) {
         result.push([
-          `${prefix}${name}`,
-          mark,
+          `${prefix}${yomi}`,
+          kaki,
           type,
         ]);
       }
@@ -58,8 +65,8 @@ const dataSet: WordSet[] = (() => {
     data.push(...multi(nameSet.yomi, twitter, '人名', '＠'));
 
     return data;
-  });
-})().flat().filter((item: any) => !!item[0]);
+  }).flat().filter((item: any) => !!item[0]);
+})();
 const CSV = dataSet.map(item => item.join(',')).join('\n');
 const TSV = dataSet.map(item => item.join('\t')).join('\n');
 const googleIME = (() => {
