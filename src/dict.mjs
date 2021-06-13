@@ -1,6 +1,7 @@
 /**
  * @typedef Dictionary
  * @property {[string, string]} name - 名前
+ * @property {string[]} [marks] - 推しマーク
  */
 
 /** @type {Dictionary[]} */
@@ -8,6 +9,7 @@ const dictionary = [
   // ときのそら
   {
     name: ['ときのそら', 'ときのそら'],
+    marks: ['🐻💿'],
   },
   // AZKi
   {
