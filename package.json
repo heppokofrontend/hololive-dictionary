@@ -1,5 +1,5 @@
 {
-  "name": "dict-hololive",
+  "name": "hololive-dictionary",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heppokofrontend/dict-hololive.git"
+    "url": "git+https://github.com/heppokofrontend/hololive-dictionary.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/heppokofrontend/dict-hololive/issues"
+    "url": "https://github.com/heppokofrontend/hololive-dictionary/issues"
   },
-  "homepage": "https://github.com/heppokofrontend/dict-hololive#readme",
+  "homepage": "https://github.com/heppokofrontend/hololive-dictionary#readme",
   "devDependencies": {
     "@types/node": "^15.12.2",
     "ts-node": "^10.0.0",
