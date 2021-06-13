@@ -686,14 +686,206 @@ export const dictionary: Dictionary[] = [
   // 影山シエン
   // 荒咬オウガ
   // Ayunda Risu / アユンダ・リス
+  {
+    name: ['あゆんだ りす', 'Ayunda Risu'],
+    alias: [
+      ['', ''],
+    ],
+    marks: ['🐿'],
+    tags: [
+      '#Ayunda_Risu',
+      '#Risu_Live',
+      '#Risuggestion',
+      '#RisUpdate',
+      '#GambaRisu',
+      '#Risuners',
+      '#Risu_meme',
+    ],
+    fans: ['Risuners'],
+    twitter: ['@ayunda_risu'],
+  },
   // Moona Hoshinova / ムーナ・ホシノヴァ
+  {
+    name: ['むーな ほしのゔぁ', 'Moona Hoshinova'],
+    alias: [
+      ['ぶちょう', '部長'],
+    ],
+    marks: ['🔮'],
+    tags: [
+      '#Moona_LiveSchedule',
+      '#Moona_Hoshinova',
+      '#MoonA_Live',
+      '#GeeMoon',
+      '#MoonaBoona',
+      '#MoonUtau',
+      '#HoshinovArt',
+      '#GrassMoona',
+      '#HoshiTime',
+    ],
+    fans: ['Moonafic'],
+    twitter: ['@moonahoshinova'],
+  },
   // Airani Iofifteen / アイラニ・イオフィフティーン
+  {
+    name: ['あいらに いおふぃふてぃーん', 'Airani Iofifteen'],
+    alias: [
+      ['いおふぃ', 'Iofi'],
+    ],
+    marks: ['🎨'],
+    tags: [
+      '#ioarts',
+      '#iomemes',
+      '#IOFORIA',
+      '#ioLYFE',
+    ],
+    fans: ['IOFORIA'],
+    twitter: ['@airaniiofifteen'],
+  },
   // Kureiji Ollie / クレイジー・オリー
+  {
+    name: ['くれいじー おりー', 'Kureiji Ollie'],
+    alias: [
+      ['', ''],
+    ],
+    marks: ['🧟‍♀️'],
+    tags: [
+      '#Kureiji_Ollie',
+      '#OLLIEginal',
+      '#OLLInfo',
+      '#graveyART',
+      '#OLLIcin',
+      '#ZOMRADE',
+    ],
+    fans: ['ZOMRADE'],
+    twitter: ['@kureijiollie'],
+  },
   // Anya Melfissa / アーニャ・メルフィッサ
+  {
+    name: ['あーにゃ めるふぃっさ', 'Anya Melfissa'],
+    alias: [
+      ['', ''],
+    ],
+    marks: ['🍂'],
+    tags: [
+      '#Anya_Melfissa',
+      '#anyatelier',
+      '#Melfriends',
+      '#Liveissa',
+    ],
+    fans: ['Melfriends'],
+    twitter: ['@anyamelfissa'],
+  },
   // Pavolia Reine / パヴォリア・レイネ
-  // 森美声/もりかりおぺ
-  // 小鳥遊キアラ/たかなしきあら
-  // 一伊那尓栖/にのまえいなにす
+  {
+    name: ['ぱゔぉりあ れいね', 'Pavolia Reine'],
+    alias: [
+      ['', ''],
+    ],
+    marks: ['🦚'],
+    tags: [
+      '#Pavolia_Reine',
+      '#Pavolive',
+      '#Reinessance',
+      '#MERAKyats',
+      '#POGVOLIA',
+    ],
+    fans: ['MERAKyats'],
+    twitter: ['@pavoliareine'],
+  },
+  // 森美声 / もりかりおぺ
+  {
+    name: ['もり かりおぺ', '森 美声'],
+    alias: [
+      ['かり', 'カリ'],
+      ['かりおぺ', 'カリオペ'],
+      ['もり かりおぺ', 'Mori Calliope'],
+      ['かりおぺ', 'Calliope'],
+    ],
+    marks: ['💀'],
+    tags: [
+      '#callillust',
+      '#calliolive',
+      '#callioP ',
+    ],
+    fans: ['Dead Beats', 'デッドビーツ'],
+    twitter: ['@moricalliope'],
+  },
+  // 小鳥遊キアラ / たかなしきあら
+  {
+    name: ['たかなし きあら', '小鳥遊 キアラ'],
+    alias: [
+      ['たかなし', 'Takanashi'],
+      ['きあら', 'Kiara'],
+      ['たかなし きあら', 'Takanashi Kiara'],
+      ['てんちょう', '店長'],
+    ],
+    marks: ['🐔'],
+    tags: [
+      '#artsofashes',
+      '#絵ニックス',
+      '#kfp',
+      '#キアライブ',
+      '#kfpmemes',
+    ],
+    fans: ['KiaraFanClub'],
+    twitter: ['@takanashikiara'],
+  },
+  // 一伊那尓栖 / にのまえいなにす
+  {
+    name: ['にのまえ いなにす', '一 伊那尓栖'],
+    alias: [
+      ['いな', 'イナ'],
+      ['たこ', 'Tako'],
+      ['にのまえ', 'Ninomae'],
+      ['いなにす', 'Ina\'nis'],
+      ['にのまえ いなにす', 'Ninomae Ina\'nis'],
+    ],
+    marks: ['🐙'],
+    tags: [
+      '#TAKOTIME',
+      '#タコタイム',
+      '#inART',
+      '#いなート',
+    ],
+    fans: ['Takodachi'],
+    twitter: ['@ninomaeinanis'],
+  },
   // がうる・ぐら
+  {
+    name: ['がうる ぐら', 'がうる ぐら'],
+    alias: [
+      ['あ', 'ａ'],
+      ['さめ', 'さめ'],
+      ['さめちゃん', 'サメちゃん'],
+      ['がうる', 'Gawr'],
+      ['ぐら', 'Gura'],
+      ['がうる ぐら', 'Gawr Gura'],
+    ],
+    marks: ['🔱'],
+    tags: [
+      '#gawrt',
+      '#chumbuds',
+      '#gawrgura',
+    ],
+    fans: ['chumbuds'],
+    twitter: ['@gawrgura'],
+  },
   // ワトソン・アメリア
+  {
+    name: ['わとそん あめりあ', 'ワトソン アメリア'],
+    alias: [
+      ['あめ', 'Ame'],
+      ['わとそん', 'Watson'],
+      ['あめりあ', 'Amelia'],
+      ['わとそん あめりあ', 'Watson Amelia'],
+    ],
+    marks: ['🔎'],
+    tags: [
+      '#amelive',
+      '#ameliaRT',
+      '#teamates',
+    ],
+    fans: ['teamates'],
+    twitter: ['@watsonameliaEN'],
+  },
 ];
