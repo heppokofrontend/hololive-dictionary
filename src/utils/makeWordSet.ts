@@ -71,11 +71,11 @@ export const makeWordSet = (argDict: LiverData[], argOptions: Options = {}) => {
       wordsets.push([yomi, nameSet.kaki[idx], '人名']);
     });
 
-    // 名前意外の情報を辞書データに追加
-    wordsets.push(...compile(nameSet.yomi, marks, '名詞', '：'));
-    wordsets.push(...compile(nameSet.yomi, tags, '名詞', '＃'));
-    wordsets.push(...compile(nameSet.yomi, fans, '名詞', '＊'));
-    wordsets.push(...compile(nameSet.yomi, twitter, '名詞', '＠'));
+    // 名前意外の情報を辞書データに追加。残りの候補「！？＋＊｜ー」
+    wordsets.push(...compile(nameSet.yomi, marks, '名詞', '：')); //:絵文字: の表現から
+    wordsets.push(...compile(nameSet.yomi, tags, '名詞', '＃')); // ハッシュタグ
+    wordsets.push(...compile(nameSet.yomi, fans, '名詞', '〜')); // 繋がってるイメージから
+    wordsets.push(...compile(nameSet.yomi, twitter, '名詞', '＠')); // メンション
 
     if (!options.noSensitive) {
       wordsets.push(...compile(nameSet.yomi, sensitiveTags, '名詞', '＃'));
