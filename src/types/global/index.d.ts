@@ -29,7 +29,7 @@ declare type LiverData = {
  * その他は省略。基本「名詞」と「人名」のみを利用。Macは書き出し時に調整。
  * 基本はWindowsベースで記述すること。
  */
-namespace PartsOfSpeech {
+declare namespace PartsOfSpeech {
   /** @see　https://blogs.windows.com/japan/2017/02/17/imejptips4/ */
   export type win = '名詞' | '短縮よみ' | '人名' | '地名' | '顔文字';
   /** @see https://support.apple.com/ja-jp/guide/japanese-input-method/jpim10211/6.3/mac/11.0 */
@@ -37,4 +37,4 @@ namespace PartsOfSpeech {
 };
 
 /** 辞書データ１行分。[よびがな、語句、品詞] */
-type WordSet = [string, string, PartsOfSpeech.win];
+declare type WordSet = [string, string, PartsOfSpeech.win];

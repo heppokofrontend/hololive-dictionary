@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "ts-node index.ts"
+    "build": "ts-node ./src/index.ts"
   },
   "repository": {
     "type": "git",
