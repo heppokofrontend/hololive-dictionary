@@ -1,0 +1,20 @@
+{
+  "name": "dict-hololive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heppokofrontend/dict-hololive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heppokofrontend/dict-hololive/issues"
+  },
+  "homepage": "https://github.com/heppokofrontend/dict-hololive#readme"
+}
