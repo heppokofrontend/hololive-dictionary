@@ -1,5 +1,4 @@
 import fs from 'fs';
-import { sensitiveHeaders } from 'http2';
 import path from 'path';
 import {dictionary} from './src/all';
 
@@ -127,17 +126,17 @@ const dist = (wordSet: WordSet[], fileName: string) => {
 
   // Mac向け辞書データの書き出し
   fs.writeFileSync(
-    path.join(__dirname, 'dist', 'mac', `mac-ime-dict--${fileName}.txt`),
+    path.join(__dirname, 'dictionary', 'mac', `mac-ime-dict--${fileName}.txt`),
     CSV.replace(/,名詞$/gm, ',普通名詞')
   );
 
   // Win標準向け辞書データの書き出し
-  fs.writeFileSync(path.join(__dirname, 'dist', 'win', `ms-ime-dict--${fileName}.txt`), TSV, {
+  fs.writeFileSync(path.join(__dirname, 'dictionary', 'win', `ms-ime-dict--${fileName}.txt`), TSV, {
     encoding: 'utf16le',
   });
 
   // GoogleIME向け辞書データの書き出し
-  fs.writeFileSync(path.join(__dirname, 'dist', 'win', `google-ime-dict--${fileName}.txt`), googleIME);
+  fs.writeFileSync(path.join(__dirname, 'dictionary', 'win', `google-ime-dict--${fileName}.txt`), googleIME);
 };
 
 // 書き出し
