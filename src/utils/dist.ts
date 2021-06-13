@@ -24,7 +24,7 @@ export const dist = (wordSet: WordSet[], fileName: string) => {
       item[0] = item[0].replace(/[ぁ-ん]/g, replacer);
 
       return item.join('\t');
-    }).join('\n');
+    }).join('\n\r');
   })();
 
   // Mac向け辞書データの書き出し
@@ -36,7 +36,7 @@ export const dist = (wordSet: WordSet[], fileName: string) => {
   // Win標準向け辞書データの書き出し
   fs.writeFileSync(
     path.join(dictionary, 'win', `ms-ime-dict--${fileName}.txt`),
-    TSV.replace(/\n/g, '\n\r'),
+    TSV,
     {
       encoding: 'utf16le',
     },
@@ -45,6 +45,6 @@ export const dist = (wordSet: WordSet[], fileName: string) => {
   // GoogleIME向け辞書データの書き出し
   fs.writeFileSync(
     path.join(dictionary, 'win', `google-ime-dict--${fileName}.txt`),
-    googleIME.replace(/\n/g, '\n\r'),
+    googleIME,
   );
 };

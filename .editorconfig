@@ -7,3 +7,6 @@ indent_style = space
 
 [*.js]
 insert_final_newline = false
+
+[*.txt]
+end_of_line = crlf
