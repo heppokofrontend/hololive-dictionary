@@ -1,4 +1,5 @@
 import fs from 'fs';
+import { sensitiveHeaders } from 'http2';
 import path from 'path';
 import {dictionary} from './src/all';
 
@@ -17,11 +18,15 @@ namespace PartsOfSpeech {
 /** 辞書データ１行分。[よびがな、語句、品詞] */
 type WordSet = [string, string, PartsOfSpeech.win];
 
+type Options = {
+  noSensitive?: boolean,
+};
+
 /**
  * 辞書データを整形
  * @description - dictionary.tsに書かれた内容を整形したもの
  */
-const getWordSet = (argDict: Dictionary[]) => {
+const getWordSet = (argDict: Dictionary[], options: Options = {}) => {
   /**
    * 名前とあだ名の読みがな全てで、関連した情報に変換できる辞書データを作る
    * @param yomiSet - 名前とあだ名の読み仮名セット
@@ -50,7 +55,18 @@ const getWordSet = (argDict: Dictionary[]) => {
     return result;
   };
 
-  return argDict.map(({name, alias, marks, tags, fans, twitter, others}) => {
+  return argDict.map((data) => {
+    const {
+      name,
+      alias,
+      marks,
+      tags,
+      fans,
+      sensitiveTags,
+      twitter,
+      others,
+      flags,
+    } = data;
     /** １人分の辞書データのまとまり */
     const wordsets: WordSet[] = [];
     /** 名前の読みと書き。各変換のよみとして利用される */
@@ -75,6 +91,10 @@ const getWordSet = (argDict: Dictionary[]) => {
     wordsets.push(...multi(nameSet.yomi, tags, '名詞', '＃'));
     wordsets.push(...multi(nameSet.yomi, fans, '名詞', '＊'));
     wordsets.push(...multi(nameSet.yomi, twitter, '名詞', '＠'));
+
+    if (!options.noSensitive) {
+      wordsets.push(...multi(nameSet.yomi, sensitiveTags, '名詞', '＃'));
+    }
 
     // その他の関連用語を追加
     if (Array.isArray(others)) {
@@ -120,4 +140,8 @@ const dist = (wordSet: WordSet[], fileName: string) => {
   fs.writeFileSync(path.join(__dirname, 'dist', 'win', `google-ime-dict--${fileName}.txt`), googleIME);
 };
 
-dist(getWordSet(dictionary), 'all-no-sensitive');
+// 書き出し
+dist(getWordSet(dictionary), 'all');
+dist(getWordSet(dictionary, {
+  noSensitive: true,
+}), 'all-no-sensitive');
