@@ -1,1 +1,1 @@
-*.txt text eol=ctlf
+*.txt text encoding=UTF-16LE eol=CRLF
