@@ -60,6 +60,12 @@ export const makeWordSet = (argDict: LiverData[], argOptions: Options = {}) => {
       kaki: [...new Set([name[1].replace(/\s/g, ''), ...name[1]?.split(/\s/)])],
     };
 
+    // 英語表記名の場合を解決
+    if (/^[a-zA-Z0-9]+$/.test(name[1].replace(/\s/g, ''))) {
+      nameSet.yomi.push(name[0].replace(/\s/g, ''));
+      nameSet.kaki.push(name[1]);
+    }
+
     // あだ名の読みをnameに追加
     for (const [yomi, kaki] of alias) {
       nameSet.yomi.push(yomi);

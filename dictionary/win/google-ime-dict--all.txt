@@ -1748,6 +1748,7 @@
 アユンダリス	AyundaRisu	人名
 アユンダ	Ayunda	人名
 リス	Risu	人名
+アユンダリス	Ayunda Risu	人名
 ：アユンダリス	🐿	名詞
 ：アユンダ	🐿	名詞
 ：リス	🐿	名詞
@@ -1781,6 +1782,7 @@
 ムーナホシノゔァ	MoonaHoshinova	人名
 ムーナ	Moona	人名
 ホシノゔァ	Hoshinova	人名
+ムーナホシノゔァ	Moona Hoshinova	人名
 ブチョウ	部長	人名
 ：ムーナホシノゔァ	🔮	名詞
 ：ムーナ	🔮	名詞
@@ -1833,6 +1835,7 @@
 アイラニイオフィフティーン	AiraniIofifteen	人名
 アイラニ	Airani	人名
 イオフィフティーン	Iofifteen	人名
+アイラニイオフィフティーン	Airani Iofifteen	人名
 イオフィ	Iofi	人名
 ：アイラニイオフィフティーン	🎨	名詞
 ：アイラニ	🎨	名詞
@@ -1865,6 +1868,7 @@
 クレイジーオリー	KureijiOllie	人名
 クレイジー	Kureiji	人名
 オリー	Ollie	人名
+クレイジーオリー	Kureiji Ollie	人名
 ：クレイジーオリー	🧟‍♀️	名詞
 ：クレイジー	🧟‍♀️	名詞
 ：オリー	🧟‍♀️	名詞
@@ -1895,6 +1899,7 @@
 アーニャメルフィッサ	AnyaMelfissa	人名
 アーニャ	Anya	人名
 メルフィッサ	Melfissa	人名
+アーニャメルフィッサ	Anya Melfissa	人名
 ：アーニャメルフィッサ	🍂	名詞
 ：アーニャ	🍂	名詞
 ：メルフィッサ	🍂	名詞
@@ -1919,6 +1924,7 @@
 パゔォリアレイネ	PavoliaReine	人名
 パゔォリア	Pavolia	人名
 レイネ	Reine	人名
+パゔォリアレイネ	Pavolia Reine	人名
 ：パゔォリアレイネ	🦚	名詞
 ：パゔォリア	🦚	名詞
 ：レイネ	🦚	名詞
@@ -1948,13 +1954,12 @@
 カリオペ	美声	人名
 カリ	カリ	人名
 カリオペ	カリオペ	人名
-モリ カリオペ	Mori Calliope	人名
+モリカリオペ	Mori Calliope	人名
 カリオペ	Calliope	人名
 ：モリカリオペ	💀	名詞
 ：モリ	💀	名詞
 ：カリオペ	💀	名詞
 ：カリ	💀	名詞
-：モリ カリオペ	💀	名詞
 ＃モリカリオペ	#callillust	名詞
 ＃モリカリオペ	#calliolive	名詞
 ＃モリカリオペ	#callioP 	名詞
@@ -1967,9 +1972,6 @@
 ＃カリ	#callillust	名詞
 ＃カリ	#calliolive	名詞
 ＃カリ	#callioP 	名詞
-＃モリ カリオペ	#callillust	名詞
-＃モリ カリオペ	#calliolive	名詞
-＃モリ カリオペ	#callioP 	名詞
 〜モリカリオペ	Dead Beats	名詞
 〜モリカリオペ	デッドビーツ	名詞
 〜モリ	Dead Beats	名詞
@@ -1978,24 +1980,20 @@
 〜カリオペ	デッドビーツ	名詞
 〜カリ	Dead Beats	名詞
 〜カリ	デッドビーツ	名詞
-〜モリ カリオペ	Dead Beats	名詞
-〜モリ カリオペ	デッドビーツ	名詞
 ＠モリカリオペ	@moricalliope	名詞
 ＠モリ	@moricalliope	名詞
 ＠カリオペ	@moricalliope	名詞
 ＠カリ	@moricalliope	名詞
-＠モリ カリオペ	@moricalliope	名詞
 タカナシキアラ	小鳥遊キアラ	人名
 タカナシ	小鳥遊	人名
 キアラ	キアラ	人名
 タカナシ	Takanashi	人名
 キアラ	Kiara	人名
-タカナシ キアラ	Takanashi Kiara	人名
+タカナシキアラ	Takanashi Kiara	人名
 テンチョウ	店長	人名
 ：タカナシキアラ	🐔	名詞
 ：タカナシ	🐔	名詞
 ：キアラ	🐔	名詞
-：タカナシ キアラ	🐔	名詞
 ：テンチョウ	🐔	名詞
 ＃タカナシキアラ	#artsofashes	名詞
 ＃タカナシキアラ	#絵ニックス	名詞
@@ -2012,11 +2010,6 @@
 ＃キアラ	#kfp	名詞
 ＃キアラ	#キアライブ	名詞
 ＃キアラ	#kfpmemes	名詞
-＃タカナシ キアラ	#artsofashes	名詞
-＃タカナシ キアラ	#絵ニックス	名詞
-＃タカナシ キアラ	#kfp	名詞
-＃タカナシ キアラ	#キアライブ	名詞
-＃タカナシ キアラ	#kfpmemes	名詞
 ＃テンチョウ	#artsofashes	名詞
 ＃テンチョウ	#絵ニックス	名詞
 ＃テンチョウ	#kfp	名詞
@@ -2025,12 +2018,10 @@
 〜タカナシキアラ	KiaraFanClub	名詞
 〜タカナシ	KiaraFanClub	名詞
 〜キアラ	KiaraFanClub	名詞
-〜タカナシ キアラ	KiaraFanClub	名詞
 〜テンチョウ	KiaraFanClub	名詞
 ＠タカナシキアラ	@takanashikiara	名詞
 ＠タカナシ	@takanashikiara	名詞
 ＠キアラ	@takanashikiara	名詞
-＠タカナシ キアラ	@takanashikiara	名詞
 ＠テンチョウ	@takanashikiara	名詞
 ニノマエイナニス	一伊那尓栖	人名
 ニノマエ	一	人名
@@ -2039,13 +2030,12 @@
 タコ	Tako	人名
 ニノマエ	Ninomae	人名
 イナニス	Ina'nis	人名
-ニノマエ イナニス	Ninomae Ina'nis	人名
+ニノマエイナニス	Ninomae Ina'nis	人名
 ：ニノマエイナニス	🐙	名詞
 ：ニノマエ	🐙	名詞
 ：イナニス	🐙	名詞
 ：イナ	🐙	名詞
 ：タコ	🐙	名詞
-：ニノマエ イナニス	🐙	名詞
 ＃ニノマエイナニス	#TAKOTIME	名詞
 ＃ニノマエイナニス	#タコタイム	名詞
 ＃ニノマエイナニス	#inART	名詞
@@ -2066,22 +2056,16 @@
 ＃タコ	#タコタイム	名詞
 ＃タコ	#inART	名詞
 ＃タコ	#いなート	名詞
-＃ニノマエ イナニス	#TAKOTIME	名詞
-＃ニノマエ イナニス	#タコタイム	名詞
-＃ニノマエ イナニス	#inART	名詞
-＃ニノマエ イナニス	#いなート	名詞
 〜ニノマエイナニス	Takodachi	名詞
 〜ニノマエ	Takodachi	名詞
 〜イナニス	Takodachi	名詞
 〜イナ	Takodachi	名詞
 〜タコ	Takodachi	名詞
-〜ニノマエ イナニス	Takodachi	名詞
 ＠ニノマエイナニス	@ninomaeinanis	名詞
 ＠ニノマエ	@ninomaeinanis	名詞
 ＠イナニス	@ninomaeinanis	名詞
 ＠イナ	@ninomaeinanis	名詞
 ＠タコ	@ninomaeinanis	名詞
-＠ニノマエ イナニス	@ninomaeinanis	名詞
 ガウルグラ	がうるぐら	人名
 ガウル	がうる	人名
 グラ	ぐら	人名
@@ -2090,14 +2074,13 @@
 サメチャン	サメちゃん	人名
 ガウル	Gawr	人名
 グラ	Gura	人名
-ガウル グラ	Gawr Gura	人名
+ガウルグラ	Gawr Gura	人名
 ：ガウルグラ	🔱	名詞
 ：ガウル	🔱	名詞
 ：グラ	🔱	名詞
 ：ア	🔱	名詞
 ：サメ	🔱	名詞
 ：サメチャン	🔱	名詞
-：ガウル グラ	🔱	名詞
 ＃ガウルグラ	#gawrt	名詞
 ＃ガウルグラ	#chumbuds	名詞
 ＃ガウルグラ	#gawrgura	名詞
@@ -2116,35 +2099,29 @@
 ＃サメチャン	#gawrt	名詞
 ＃サメチャン	#chumbuds	名詞
 ＃サメチャン	#gawrgura	名詞
-＃ガウル グラ	#gawrt	名詞
-＃ガウル グラ	#chumbuds	名詞
-＃ガウル グラ	#gawrgura	名詞
 〜ガウルグラ	chumbuds	名詞
 〜ガウル	chumbuds	名詞
 〜グラ	chumbuds	名詞
 〜ア	chumbuds	名詞
 〜サメ	chumbuds	名詞
 〜サメチャン	chumbuds	名詞
-〜ガウル グラ	chumbuds	名詞
 ＠ガウルグラ	@gawrgura	名詞
 ＠ガウル	@gawrgura	名詞
 ＠グラ	@gawrgura	名詞
 ＠ア	@gawrgura	名詞
 ＠サメ	@gawrgura	名詞
 ＠サメチャン	@gawrgura	名詞
-＠ガウル グラ	@gawrgura	名詞
 ワトソンアメリア	ワトソンアメリア	人名
 ワトソン	ワトソン	人名
 アメリア	アメリア	人名
 アメ	Ame	人名
 ワトソン	Watson	人名
 アメリア	Amelia	人名
-ワトソン アメリア	Watson Amelia	人名
+ワトソンアメリア	Watson Amelia	人名
 ：ワトソンアメリア	🔎	名詞
 ：ワトソン	🔎	名詞
 ：アメリア	🔎	名詞
 ：アメ	🔎	名詞
-：ワトソン アメリア	🔎	名詞
 ＃ワトソンアメリア	#amelive	名詞
 ＃ワトソンアメリア	#ameliaRT	名詞
 ＃ワトソンアメリア	#teamates	名詞
@@ -2157,19 +2134,14 @@
 ＃アメ	#amelive	名詞
 ＃アメ	#ameliaRT	名詞
 ＃アメ	#teamates	名詞
-＃ワトソン アメリア	#amelive	名詞
-＃ワトソン アメリア	#ameliaRT	名詞
-＃ワトソン アメリア	#teamates	名詞
 〜ワトソンアメリア	teamates	名詞
 〜ワトソン	teamates	名詞
 〜アメリア	teamates	名詞
 〜アメ	teamates	名詞
-〜ワトソン アメリア	teamates	名詞
 ＠ワトソンアメリア	@watsonameliaEN	名詞
 ＠ワトソン	@watsonameliaEN	名詞
 ＠アメリア	@watsonameliaEN	名詞
 ＠アメ	@watsonameliaEN	名詞
-＠ワトソン アメリア	@watsonameliaEN	名詞
 ハナサキミヤビ	花咲みやび	人名
 ハナサキ	花咲	人名
 ミヤビ	みやび	人名
