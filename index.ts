@@ -50,7 +50,7 @@ const dataSet: WordSet[] = (() => {
     return result;
   };
 
-  return dictionary.map(({name, alias, marks, tags, fans, twitter}) => {
+  return dictionary.map(({name, alias, marks, tags, fans, twitter, others}) => {
     /** １人分の辞書データのまとまり */
     const wordsets: WordSet[] = [];
     /** 名前の読みと書き。各変換のよみとして利用される */
@@ -70,11 +70,18 @@ const dataSet: WordSet[] = (() => {
       wordsets.push([yomi, nameSet.kaki[idx], '人名']);
     });
 
-    // その他の情報を辞書データに追加
+    // 名前意外の情報を辞書データに追加
     wordsets.push(...multi(nameSet.yomi, marks, '名詞', '：'));
     wordsets.push(...multi(nameSet.yomi, tags, '名詞', '＃'));
     wordsets.push(...multi(nameSet.yomi, fans, '名詞', '＊'));
     wordsets.push(...multi(nameSet.yomi, twitter, '名詞', '＠'));
+
+    // その他の関連用語を追加
+    if (Array.isArray(others)) {
+      for (const [yomi, kaki] of others) {
+        wordsets.push([yomi, kaki, '名詞']);
+      }
+    }
 
     return wordsets;
   }).flat().filter(([yomi, kana]) => !!yomi && !!kana);
