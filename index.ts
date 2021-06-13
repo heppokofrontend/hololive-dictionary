@@ -17,13 +17,13 @@ type WordSet = [string, string, PartsOfSpeech];
  */
 const dataSet: WordSet[] = (() => {
   /** 1つの読みに対して語句が複数ある */
-  const multi = (names: string[] = [], marks: string[] = [], type: PartsOfSpeech) => {
+  const multi = (names: string[] = [], marks: string[] = [], type: PartsOfSpeech, prefix: string) => {
     const result: WordSet[] = [];
 
     for (const name of names) {
       for (const mark of marks) {
         result.push([
-          `＠${name}`,
+          `${prefix}${name}`,
           mark,
           type,
         ]);
@@ -33,18 +33,26 @@ const dataSet: WordSet[] = (() => {
     return result;
   };
 
-  return dictionary.map(({name, marks}) => {
+  return dictionary.map(({name, alias, marks}) => {
     const data: WordSet[] = [];
-    const nameYomi = [name[0].replace(/\s/g, ''), ...name[0]?.split(/\s/)];
-    const nameKaki = [name[1].replace(/\s/g, ''), ...name[1]?.split(/\s/)];
+    const nameSet = {
+      yomi: [name[0].replace(/\s/g, ''), ...name[0]?.split(/\s/)],
+      kaki: [name[1].replace(/\s/g, ''), ...name[1]?.split(/\s/)],
+    };
+
+    // あだ名の読みをnameに追加
+    for (const item of alias) {
+      nameSet.yomi.push(item[0]);
+      nameSet.kaki.push(item[1]);
+    }
 
     // 名前
-    data.push([nameYomi[0], nameKaki[0], '人名']);
-    data.push([nameYomi[1], nameKaki[1], '人名']);
-    data.push([nameYomi[2], nameKaki[2], '人名']);
+    nameSet.yomi.forEach((yomi, idx) => {
+      data.push([yomi, nameSet.kaki[idx], '人名']);
+    });
 
     // その他の情報
-    data.push(...multi(nameYomi, marks, '人名'));
+    data.push(...multi(nameSet.yomi, marks, '人名', '：'));
 
     return data;
   });
