@@ -18,10 +18,10 @@ namespace PartsOfSpeech {
 type WordSet = [string, string, PartsOfSpeech.win];
 
 /**
- * 辞書データ
+ * 辞書データを整形
  * @description - dictionary.tsに書かれた内容を整形したもの
  */
-const dataSet: WordSet[] = (() => {
+const getWordSet = (argDict: Dictionary[]) => {
   /**
    * 名前とあだ名の読みがな全てで、関連した情報に変換できる辞書データを作る
    * @param yomiSet - 名前とあだ名の読み仮名セット
@@ -50,7 +50,7 @@ const dataSet: WordSet[] = (() => {
     return result;
   };
 
-  return dictionary.map(({name, alias, marks, tags, fans, twitter, others}) => {
+  return argDict.map(({name, alias, marks, tags, fans, twitter, others}) => {
     /** １人分の辞書データのまとまり */
     const wordsets: WordSet[] = [];
     /** 名前の読みと書き。各変換のよみとして利用される */
@@ -85,35 +85,39 @@ const dataSet: WordSet[] = (() => {
 
     return wordsets;
   }).flat().filter(([yomi, kana]) => !!yomi && !!kana);
-})();
-const CSV = dataSet.map(item => item.join(',')).join('\n');
-const TSV = dataSet.map(item => item.join('\t')).join('\n');
-const googleIME = (() => {
-  /**
-   * String.prototype.replaceの第２引数用
-   * @param ｓ - ひらがな１文字
-   * @returns - カタカナ１文字
-   */
-  const replacer = (s: string) => String.fromCharCode(s.charCodeAt(0) + 0x60);
+};
+const dist = (wordSet: WordSet[], fileName: string) => {
+  const CSV = wordSet.map(item => item.join(',')).join('\n');
+  const TSV = wordSet.map(item => item.join('\t')).join('\n');
+  const googleIME = (() => {
+    /**
+    * String.prototype.replaceの第２引数用
+    * @param ｓ - ひらがな１文字
+    * @returns - カタカナ１文字
+    */
+    const replacer = (s: string) => String.fromCharCode(s.charCodeAt(0) + 0x60);
 
-  // GoogleIME用に読み仮名（`item[0]`）をカタカナに変換する
-  return dataSet.map(item => {
-    item[0] = item[0].replace(/[ぁ-ん]/g, replacer);
+    // GoogleIME用に読み仮名（`item[0]`）をカタカナに変換する
+    return wordSet.map(item => {
+      item[0] = item[0].replace(/[ぁ-ん]/g, replacer);
 
-    return item.join('\t');
-  }).join('\n');
-})();
+      return item.join('\t');
+    }).join('\n');
+  })();
 
-// Mac向け辞書データの書き出し
-fs.writeFileSync(
-  path.join(__dirname, 'dist', 'mac', 'mac-ime-dict.txt'),
-  CSV.replace(/,名詞$/gm, ',普通名詞')
-);
+  // Mac向け辞書データの書き出し
+  fs.writeFileSync(
+    path.join(__dirname, 'dist', 'mac', `mac-ime-dict--${fileName}.txt`),
+    CSV.replace(/,名詞$/gm, ',普通名詞')
+  );
 
-// Win標準向け辞書データの書き出し
-fs.writeFileSync(path.join(__dirname, 'dist', 'win', 'ms-ime-dict.txt'), TSV, {
-  encoding: 'utf16le',
-});
+  // Win標準向け辞書データの書き出し
+  fs.writeFileSync(path.join(__dirname, 'dist', 'win', `ms-ime-dict--${fileName}.txt`), TSV, {
+    encoding: 'utf16le',
+  });
 
-// GoogleIME向け辞書データの書き出し
-fs.writeFileSync(path.join(__dirname, 'dist', 'win', 'google-ime-dict.txt'), googleIME);
+  // GoogleIME向け辞書データの書き出し
+  fs.writeFileSync(path.join(__dirname, 'dist', 'win', `google-ime-dict--${fileName}.txt`), googleIME);
+};
+
+dist(getWordSet(dictionary), 'all-no-sensitive');
