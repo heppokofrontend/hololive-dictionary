@@ -3,14 +3,19 @@ import path from 'path';
 import {dictionary} from './src/dictionary';
 
 /**
- * 品詞について
- *
- * WinIME - 「名詞」「人名」「地名」「短縮よみ」「顔文字」「その他」
- * Mac - 「普通名詞」「サ変名詞」「人名」「地名」「形容詞」「副詞」「接尾語」「動詞」その他すべての品詞
+ * 品詞
+ * @description
+ * その他は省略。基本「名詞」と「人名」のみを利用。Macは書き出し時に調整。
+ * 基本はWindowsベースで記述すること。
  */
-type PartsOfSpeech = '普通名詞' | 'サ変名詞' | '人名' | '地名' | '形容詞' | '副詞' | '接尾語' | '動詞';
+namespace PartsOfSpeech {
+  /** @see　https://blogs.windows.com/japan/2017/02/17/imejptips4/ */
+  export type win = '名詞' | '短縮よみ' | '人名' | '地名' | '顔文字';
+  /** @see https://support.apple.com/ja-jp/guide/japanese-input-method/jpim10211/6.3/mac/11.0 */
+  export type mac = '普通名詞' | 'サ変名詞' | '人名' | '地名' | '形容詞' | '副詞' | '接尾語' | '動詞';
+};
 /** 辞書データ１行分。[よびがな、語句、品詞] */
-type WordSet = [string, string, PartsOfSpeech];
+type WordSet = [string, string, PartsOfSpeech.win];
 
 /**
  * 辞書データ
@@ -25,7 +30,7 @@ const dataSet: WordSet[] = (() => {
    * @param prefix - 変換時に使うプレフィックス記号
    * @returns - 辞書データのまとまり
    */
-  const multi = (yomiSet: string[] = [], kakiSet: string[] = [], type: PartsOfSpeech, prefix: string = '') => {
+  const multi = (yomiSet: string[] = [], kakiSet: string[] = [], type: PartsOfSpeech.win, prefix: string = '') => {
     const result: WordSet[] = [];
 
     for (const yomi of yomiSet) {
@@ -62,10 +67,10 @@ const dataSet: WordSet[] = (() => {
     });
 
     // その他の情報を辞書データに追加
-    wordsets.push(...multi(nameSet.yomi, marks, '人名', '：'));
-    wordsets.push(...multi(nameSet.yomi, tags, '人名', '＃'));
-    wordsets.push(...multi(nameSet.yomi, fans, '人名', '＊'));
-    wordsets.push(...multi(nameSet.yomi, twitter, '人名', '＠'));
+    wordsets.push(...multi(nameSet.yomi, marks, '名詞', '：'));
+    wordsets.push(...multi(nameSet.yomi, tags, '名詞', '＃'));
+    wordsets.push(...multi(nameSet.yomi, fans, '名詞', '＊'));
+    wordsets.push(...multi(nameSet.yomi, twitter, '名詞', '＠'));
 
     return wordsets;
   }).flat().filter((item: any) => !!item[0]);
@@ -88,9 +93,16 @@ const googleIME = (() => {
   }).join('\n');
 })();
 
-// 辞書データの書き出し
-fs.writeFileSync(path.join(__dirname, 'dist', 'mac', 'mac-ime-dict.txt'), CSV);
+// Mac向け辞書データの書き出し
+fs.writeFileSync(
+  path.join(__dirname, 'dist', 'mac', 'mac-ime-dict.txt'),
+  CSV.replace(/,名詞$/gm, ',普通名詞')
+);
+
+// Win標準向け辞書データの書き出し
 fs.writeFileSync(path.join(__dirname, 'dist', 'win', 'ms-ime-dict.txt'), TSV, {
   encoding: 'utf16le',
 });
+
+// GoogleIME向け辞書データの書き出し
 fs.writeFileSync(path.join(__dirname, 'dist', 'win', 'google-ime-dict.txt'), googleIME);
