@@ -9,8 +9,10 @@ export const arurandeisu: Dictionary = {
     '#アランストリーム', // ：生放送
     '#切り抜きナンディス', // ：切り抜き
     '#アランの画廊', // ：ファンアート
-    // '#Rナンディス', // ：R18ファンアート
     '#聞いたぞアラン', // ：ボイス
+  ],
+  sensitiveTags: [
+    '#Rナンディス', // ：R18ファンアート
   ],
   fans: ['ファミリアラン'],
   twitter: ['@arurandeisu'],

@@ -10,7 +10,9 @@ export const kanadeIzuru: Dictionary = {
     '#奏手イヅル', // 生放送
     '#イヅル描いたぞ', // ファンアート
     '#IZR_cover', // Cover Movie
-    // '#イヅル見るなよ', // 18禁ファンアート
+  ],
+  sensitiveTags: [
+    '#イヅル見るなよ', // 18禁ファンアート
   ],
   fans: [''],
   twitter: ['@kanadeizuru'],

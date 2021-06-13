@@ -7,6 +7,8 @@ declare type Dictionary = {
   marks: string[],
   /** ハッシュタグ */
   tags: string[],
+  /** センシティブなハッシュタグ */
+  sensitiveTags?: string[],
   /** ファンネーム */
   fans: string[],
   /** Twitter */

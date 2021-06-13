@@ -10,7 +10,9 @@ export const astelLeda: Dictionary = {
     '#アステル絵ダ', // ファンアート
     '#アステル聞ケタ', // ボイス
     '#アステルコード', // ???
-    // '#アステルエッだ', // R18ファンアート
+  ],
+  sensitiveTags: [
+    '#アステルエッだ', // R18ファンアート
   ],
   fans: ['アステラー'],
   twitter: ['@astelleda'],

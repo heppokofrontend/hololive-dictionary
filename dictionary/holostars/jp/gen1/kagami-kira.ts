@@ -9,7 +9,9 @@ export const kagamiKira: Dictionary = {
     '#キラ生', // 生放送
     '#キラ抜いたぞ', // 切り抜き
     '#キラ絵', // ファンアート
-    // '#キラ見ろ', // R18ファンアート
+  ],
+  sensitiveTags: [
+    '#キラ見ろ', // R18ファンアート
   ],
   fans: ['きらりあん'],
   twitter: ['@kagamikirach'],

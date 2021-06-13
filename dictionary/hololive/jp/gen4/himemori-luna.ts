@@ -10,7 +10,9 @@ export const himemoriLuna: Dictionary = {
     '#姫森ルーナ', // 一般
     '#なのらいぶ', // 生放送
     '#ルーナート', // ファンアート
-    // '#セクシールーナート', // R-18アート
+  ],
+  sensitiveTags: [
+    '#セクシールーナート', // R-18アート
   ],
   fans: ['ルーナイト'],
   twitter: ['@himemoriluna'],

@@ -8,8 +8,10 @@ export const nekomataOkayu: Dictionary = {
   tags: [
     '#生おかゆ', // 放送・関連ツイート
     '#絵かゆ', // ファンアート
-    // '#エロおにぎり', // R-18アート
     '#おにぎりゃー', // ファントーク・ボイス感想
+  ],
+  sensitiveTags: [
+    '#エロおにぎり', // R-18アート
   ],
   fans: ['おにぎりゃー'],
   twitter: ['@nekomataokayu'],
