@@ -3,7 +3,7 @@ export const moriCalliope: LiverData = {
   alias: [
     ['かり', 'カリ'],
     ['かりおぺ', 'カリオペ'],
-    ['もり かりおぺ', 'Mori Calliope'],
+    ['もりかりおぺ', 'Mori Calliope'],
     ['かりおぺ', 'Calliope'],
   ],
   marks: ['💀'],

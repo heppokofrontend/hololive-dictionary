@@ -6,7 +6,7 @@ export const gawrGura: LiverData = {
     ['さめちゃん', 'サメちゃん'],
     ['がうる', 'Gawr'],
     ['ぐら', 'Gura'],
-    ['がうる ぐら', 'Gawr Gura'],
+    ['がうるぐら', 'Gawr Gura'],
   ],
   marks: ['🔱'],
   tags: [

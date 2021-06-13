@@ -3,7 +3,7 @@ export const takanashiKiara: LiverData = {
   alias: [
     ['たかなし', 'Takanashi'],
     ['きあら', 'Kiara'],
-    ['たかなし きあら', 'Takanashi Kiara'],
+    ['たかなしきあら', 'Takanashi Kiara'],
     ['てんちょう', '店長'],
   ],
   marks: ['🐔'],

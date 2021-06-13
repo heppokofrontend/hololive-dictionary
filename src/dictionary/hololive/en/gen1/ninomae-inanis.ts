@@ -5,7 +5,7 @@ export const ninomaeInanis: LiverData = {
     ['たこ', 'Tako'],
     ['にのまえ', 'Ninomae'],
     ['いなにす', 'Ina\'nis'],
-    ['にのまえ いなにす', 'Ninomae Ina\'nis'],
+    ['にのまえいなにす', 'Ninomae Ina\'nis'],
   ],
   marks: ['🐙'],
   tags: [

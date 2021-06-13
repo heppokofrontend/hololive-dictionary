@@ -4,7 +4,7 @@ export const watsonAmelia: LiverData = {
     ['あめ', 'Ame'],
     ['わとそん', 'Watson'],
     ['あめりあ', 'Amelia'],
-    ['わとそん あめりあ', 'Watson Amelia'],
+    ['わとそんあめりあ', 'Watson Amelia'],
   ],
   marks: ['🔎'],
   tags: [
