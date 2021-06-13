@@ -13,4 +13,7 @@ export const tsukishitaKaoru: Dictionary = {
   ],
   fans: ['FUNデーション'],
   twitter: ['@tsukishitakaoru'],
+  flags: {
+    activity: '活動終了',
+  },
 };

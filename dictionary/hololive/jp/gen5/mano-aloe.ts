@@ -14,4 +14,7 @@ export const manoAloe: Dictionary = {
     ['まのとも', '魔の友'],
     ['あくまいく', 'あくマイク'],
   ],
+  flags: {
+    activity: '活動終了',
+  },
 };

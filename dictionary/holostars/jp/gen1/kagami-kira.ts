@@ -13,4 +13,7 @@ export const kagamiKira: Dictionary = {
   ],
   fans: ['きらりあん'],
   twitter: ['@kagamikirach'],
+  flags: {
+    activity: '卒業',
+  },
 };

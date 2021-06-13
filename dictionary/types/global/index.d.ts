@@ -13,4 +13,9 @@ declare type Dictionary = {
   twitter: string[],
   /** 通常の変換が難しいその他の関連用語を[よみがな, 語句][]形式で */
   others?: [string, string][],
+  /** メンバーの属性 */
+  flags?: {
+    /** 活動しているかどうか */
+    activity: '活動中' | '卒業' | '活動終了',
+  },
 }
