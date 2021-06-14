@@ -14,4 +14,7 @@ export const hoshimachiSuisei: LiverData = {
   ],
   fans: ['星詠み', 'こめとも'],
   twitter: ['@suisei_hosimati'],
+  others: [
+    ['ほしよみ', '星詠み'],
+  ],
 };

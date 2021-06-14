@@ -15,4 +15,7 @@ export const murasakiShion: LiverData = {
   ],
   fans: ['塩っ子'],
   twitter: ['@murasakishionch'],
+  others: [
+    ['しおっこ', '塩っ子'],
+  ],
 };

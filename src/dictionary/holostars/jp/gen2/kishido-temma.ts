@@ -13,4 +13,7 @@ export const kishidoTemma: LiverData = {
   ],
   fans: ['岸メン'],
   twitter: ['@kishidotemma'],
+  others: [
+    ['きしめん', '岸メン'],
+  ],
 };

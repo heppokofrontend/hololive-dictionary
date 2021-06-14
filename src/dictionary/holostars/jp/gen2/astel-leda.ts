@@ -16,4 +16,9 @@ export const astelLeda: LiverData = {
   ],
   fans: ['アステラー'],
   twitter: ['@astelleda'],
+  others: [
+    ['あすてるれだ', 'アステル生ダ'],
+    ['あすてるえだ', 'アステル絵ダ'],
+    ['あすてるきけた', 'アステル聞ケタ'],
+  ],
 };

@@ -18,4 +18,7 @@ export const natsuiroMatsuri: LiverData = {
   ],
   fans: ['🏮'],
   twitter: ['@natsuiromatsuri', '@7216_2nd'],
+  others: [
+    ['さいかい', '祭絵'],
+  ],
 };

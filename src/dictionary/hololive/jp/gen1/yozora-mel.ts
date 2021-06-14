@@ -14,4 +14,7 @@ export const yozoraMel: LiverData = {
   ],
   fans: ['かぷ民'],
   twitter: ['@yozoramel', '@YozoramelS'],
+  others: [
+    ['かぷみん', 'かぷ民'],
+  ],
 };

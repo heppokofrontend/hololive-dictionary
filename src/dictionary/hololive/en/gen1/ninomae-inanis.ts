@@ -16,4 +16,7 @@ export const ninomaeInanis: LiverData = {
   ],
   fans: ['Takodachi'],
   twitter: ['@ninomaeinanis'],
+  others: [
+    ['いなーと', 'いなート'],
+  ],
 };

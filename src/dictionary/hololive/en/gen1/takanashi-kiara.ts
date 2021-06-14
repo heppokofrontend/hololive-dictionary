@@ -16,4 +16,7 @@ export const takanashiKiara: LiverData = {
   ],
   fans: ['KiaraFanClub'],
   twitter: ['@takanashikiara'],
+  others: [
+    ['えにっくす', '絵ニックス'],
+  ],
 };

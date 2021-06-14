@@ -19,4 +19,7 @@ export const sakuraMiko: LiverData = {
   ],
   fans: ['35P', 'みこぴー'],
   twitter: ['@sakuramiko35'],
+  others: [
+    ['みこぴー', '35P'],
+  ],
 };

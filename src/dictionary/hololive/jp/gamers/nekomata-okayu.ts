@@ -15,4 +15,7 @@ export const nekomataOkayu: LiverData = {
   ],
   fans: ['おにぎりゃー'],
   twitter: ['@nekomataokayu'],
+  others: [
+    ['えかゆ', '絵かゆ'],
+  ],
 };

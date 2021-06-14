@@ -17,4 +17,7 @@ export const omaruPolka: LiverData = {
   ],
   fans: ['おまる座', '座員'],
   twitter: ['@omarupolka'],
+  others: [
+    ['えまる', '絵まる'],
+  ],
 };

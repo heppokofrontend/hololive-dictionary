@@ -13,6 +13,8 @@ export const manoAloe: LiverData = {
   others: [
     ['まのとも', '魔の友'],
     ['あくまいく', 'あくマイク'],
+    ['まのらいぶ', '魔のライブ'],
+    ['まのあろえ', 'まのあろ絵'],
   ],
   flags: {
     activity: '活動終了',

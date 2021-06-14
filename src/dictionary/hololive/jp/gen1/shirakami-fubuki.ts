@@ -17,4 +17,7 @@ export const shirakamiFubuki: LiverData = {
   ],
   fans: ['すこん部'],
   twitter: ['@shirakamifubuki'],
+  others: [
+    ['すこんぶ', 'すこん部'],
+  ],
 };

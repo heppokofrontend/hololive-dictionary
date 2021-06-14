@@ -1,5 +1,5 @@
 export const kageyamaShien: LiverData = {
-  name: ['影山シエン', '影山シエン'],
+  name: ['かげやま しえん', '影山シエン'],
   alias: [
     ['', ''],
   ],
@@ -18,4 +18,8 @@ export const kageyamaShien: LiverData = {
   ],
   fans: ['シエン組'],
   twitter: ['@kageyamashien'],
+  others: [
+    ['しえん', 'シ絵ン'],
+    ['せいえん', '声エン'],
+  ],
 };

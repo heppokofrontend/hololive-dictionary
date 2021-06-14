@@ -15,4 +15,7 @@ export const ookamiMio: LiverData = {
   ],
   fans: ['みおーんファミリー', 'ミオファ'],
   twitter: ['@ookamimio'],
+  others: [
+    ['みおーんえ', 'みおーん絵'],
+  ],
 };

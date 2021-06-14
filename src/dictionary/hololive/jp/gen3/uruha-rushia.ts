@@ -13,4 +13,7 @@ export const uruhaRushia: LiverData = {
   ],
   fans: ['ふぁんでっど'],
   twitter: ['@uruharushia'],
+  others: [
+    ['えくろまんさー', '絵クロマンサー'],
+  ],
 };

@@ -12,4 +12,7 @@ export const aragamiOga: LiverData = {
   ],
   fans: ['オマエさん'],
   twitter: ['@aragamioga'],
+  others: [
+    ['おうが', 'オウ画'],
+  ],
 };

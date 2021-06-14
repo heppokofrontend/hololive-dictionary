@@ -20,4 +20,7 @@ export const akiRosenthal: LiverData = {
   ],
   fans: ['ロゼ隊'],
   twitter: ['@akirosenthal'],
+  others: [
+    ['あろえ', 'アロ絵'],
+  ],
 };

@@ -18,5 +18,6 @@ export const momosuzuNene: LiverData = {
   twitter: ['@momosuzunene'],
   others: [
     ['ｖ', 'Vtuべｒ'],
+    ['ねっこ', 'ねっ子'],
   ],
 };

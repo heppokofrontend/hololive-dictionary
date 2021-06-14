@@ -14,4 +14,7 @@ export const moriCalliope: LiverData = {
   ],
   fans: ['Dead Beats', 'デッドビーツ'],
   twitter: ['@moricalliope'],
+  others: [
+    ['でっどびーつ', 'Dead Beats'],
+  ],
 };
