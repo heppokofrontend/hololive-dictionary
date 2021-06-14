@@ -13,7 +13,7 @@ export const nekomataOkayu: LiverData = {
   sensitiveTags: [
     '#エロおにぎり', // R-18アート
   ],
-  fans: ['おにぎりゃー'],
+  fans: ['おにぎりゃー', 'やきおにぎり'],
   twitter: ['@nekomataokayu'],
   others: [
     ['えかゆ', '絵かゆ'],

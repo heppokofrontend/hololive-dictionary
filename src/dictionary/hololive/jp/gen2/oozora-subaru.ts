@@ -16,7 +16,7 @@ export const oozoraSubaru: LiverData = {
     '#スバリー', // ホロリー*1
     '#きりぬきスバル', // 切り抜き動画
   ],
-  fans: ['スバ友', 'スタンド'],
+  fans: ['スバ友', 'アヒージョ'],
   twitter: ['@oozorasubaru'],
   others: [
     ['すばるどだっく', 'スバルドダック'],

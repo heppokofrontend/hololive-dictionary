@@ -12,9 +12,10 @@ export const hoshimachiSuisei: LiverData = {
     '#ほしまちうたった', // 歌ってみた投稿
     '#ほしまちりっすん', // ボイス感想
   ],
-  fans: ['星詠み', 'こめとも'],
+  fans: ['星詠み'],
   twitter: ['@suisei_hosimati'],
   others: [
     ['ほしよみ', '星詠み'],
+    ['どうきょーず', '同居ーず'],
   ],
 };

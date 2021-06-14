@@ -15,5 +15,7 @@ export const kiryuCoco: LiverData = {
   twitter: ['@kiryucoco'],
   others: [
     ['きりゅう', '奇龍'],
+    ['ちゅんぐす', ':^)'],
+    ['ちゅんぐす', '量子チキンスープグラスビッグチュングス'],
   ],
 };
