@@ -41,3 +41,10 @@
 |＠てんちょう|@takanashikiara|
 |かりおぺ|美声|
 |かりおぺ|Calliope|
+
+## タレント情報の参考資料
+
+- https://www.hololive.tv/member
+- https://seesaawiki.jp/hololivetv/
+- https://seesaawiki.jp/holostarstv/
+- https://virtualyoutuber.fandom.com/wiki/Category:Hololive
