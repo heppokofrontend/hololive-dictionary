@@ -42,7 +42,7 @@
 |かりおぺ|美声|
 |かりおぺ|Calliope|
 
-## タレント情報の参考資料
+## 配信者情報の参考資料
 
 - https://www.hololive.tv/member
 - https://seesaawiki.jp/hololivetv/
