@@ -2,7 +2,10 @@
 
 ホロライブ、イノナカミュージック、ホロスターズの関連用語の辞書ファイルです。
 
-[toc]
+## 使い方
+
+- [Windows10](WINDOWS.md)
+- [macOS](MACOS.md)
 
 ## 変換の法則
 
@@ -38,8 +41,3 @@
 |＠てんちょう|@takanashikiara|
 |かりおぺ|美声|
 |かりおぺ|Calliope|
-
-## 使い方
-
-- [Windows10](WINDOWS.md)
-- [macOS](MACOS.md)
