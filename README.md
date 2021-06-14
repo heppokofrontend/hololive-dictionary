@@ -4,7 +4,7 @@
 
 ## 使い方
 
-- [Windows10](WINDOWS.md)
+- [Windows 10](WINDOWS.md)
 - [macOS](MACOS.md)
 
 ## 変換の法則
