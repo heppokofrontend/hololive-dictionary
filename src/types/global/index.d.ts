@@ -3,7 +3,7 @@ declare type LiverData = {
   /** よみ、語句 */
   name: [string, string],
   /** あだ名。[よみがな, 語句][] */
-  alias: [string, string][],
+  alias: ([string, string] | [string])[],
   /** 推しマーク */
   marks: string[],
   /** ハッシュタグ */

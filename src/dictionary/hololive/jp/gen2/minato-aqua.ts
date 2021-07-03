@@ -1,7 +1,7 @@
 export const minatoAqua: LiverData = {
   name: ['みなと あくあ', '湊 あくあ'],
   alias: [
-    ['あくたん', 'あくたん'],
+    ['あくたん'],
     ['だいてんしあくあ', '大天使あくあ'],
     ['あくきん', 'AKUKIN'],
   ],

@@ -1,7 +1,7 @@
 export const shiranuiFlare: LiverData = {
   name: ['しらぬい ふれあ', '不知火 フレア'],
   alias: [
-    ['ふーたん', 'ふーたん'],
+    ['ふーたん'],
   ],
   marks: ['🔥'],
   tags: [

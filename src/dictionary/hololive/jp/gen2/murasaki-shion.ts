@@ -1,7 +1,7 @@
 export const murasakiShion: LiverData = {
   name: ['むらさき しおん', '紫咲 シオン'],
   alias: [
-    ['しおんたん', 'しおんたん'],
+    ['しおんたん'],
     ['くそがき', 'クソガキ'],
   ],
   marks: ['🌙'],

@@ -1,8 +1,8 @@
 export const uruhaRushia: LiverData = {
   name: ['うるは るしあ', '潤羽 るしあ'],
   alias: [
-    ['るーたん', 'るーたん'],
-    ['るーちゃん', 'るーちゃん'],
+    ['るーたん'],
+    ['るーちゃん'],
   ],
   marks: ['🦋'],
   tags: [

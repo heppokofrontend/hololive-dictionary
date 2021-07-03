@@ -1,7 +1,7 @@
 export const shishiroBotan: LiverData = {
   name: ['ししろ ぼたん', '獅白 ぼたん'],
   alias: [
-    ['ししろん', 'ししろん'],
+    ['ししろん'],
   ],
   marks: ['♌'],
   tags: [

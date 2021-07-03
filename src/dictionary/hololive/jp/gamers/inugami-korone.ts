@@ -1,7 +1,7 @@
 export const inugamiKorone: LiverData = {
   name: ['いぬがみ ころね', '戌神 ころね'],
   alias: [
-    ['ころさん', 'ころさん'],
+    ['ころさん'],
   ],
   marks: ['🥐'],
   tags: [

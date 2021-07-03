@@ -1,7 +1,7 @@
 export const akaiHaato: LiverData = {
   name: ['あかい はあと', '赤井 はあと'],
   alias: [
-    ['はあちゃま', 'はあちゃま'],
+    ['はあちゃま'],
     ['はぁちゃま', 'はあちゃま'],
   ],
   marks: ['❤️'],

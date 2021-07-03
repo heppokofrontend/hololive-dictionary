@@ -69,7 +69,7 @@ export const makeWordSet = (argDict: LiverData[], argOptions: Options = {}) => {
     // あだ名の読みをnameに追加
     for (const [yomi, kaki] of alias) {
       nameSet.yomi.push(yomi);
-      nameSet.kaki.push(kaki);
+      nameSet.kaki.push(kaki || yomi);
     }
 
     // 名前を辞書データに追加

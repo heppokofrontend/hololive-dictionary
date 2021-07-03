@@ -1,7 +1,7 @@
 export const manoAloe: LiverData = {
   name: ['まの あろえ', '魔乃 アロエ'],
   alias: [
-    ['まのあろ', 'まのあろ'],
+    ['まのあろ'],
   ],
   marks: ['👅'],
   tags: [

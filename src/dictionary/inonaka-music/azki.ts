@@ -1,7 +1,7 @@
 export const azki: LiverData = {
   name: ['あずき', 'AZKi'],
   alias: [
-    ['あずきち', 'あずきち'],
+    ['あずきち'],
   ],
   marks: ['⚒️'],
   tags: [

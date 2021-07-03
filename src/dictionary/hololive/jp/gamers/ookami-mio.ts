@@ -1,7 +1,7 @@
 export const ookamiMio: LiverData = {
   name: ['おおかみ みお', '大神 ミオ'],
   alias: [
-    ['みおしゃ', 'みおしゃ'],
+    ['みおしゃ'],
     ['みおまま', 'ミオママ'],
   ],
   marks: ['🌲'],
