@@ -2,7 +2,7 @@
 
 ## 1. 辞書データをダウンロード
 
-好きな方を選んでRawボタンを右クリックして、コンテキストメニューから「名前をつけてリンク先を保存」を選択します。
+好きな方を選んでRawボタン（またはDownloadボタン）を右クリックして、コンテキストメニューから「名前をつけてリンク先を保存」を選択します。
 
 - [全量テキストファイル (ms-ime-dict--all.txt)](./dictionary/win/ms-ime-dict--all.txt)
 - [センシティブ系ハッシュタグを除いたテキストファイル (ms-ime-dict--all-no-sensitive.txt)](./dictionary/win/ms-ime-dict--all-no-sensitive.txt)
