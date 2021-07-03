@@ -3,7 +3,7 @@ export const natsuiroMatsuri: LiverData = {
   alias: [
     ['', ''],
   ],
-  marks: ['まつりす'],
+  marks: ['🏮'],
   tags: [
     '#祭絵', // ファンアート（読みは「さいかい」）
     '#夏まつch', // 生放送
@@ -16,7 +16,7 @@ export const natsuiroMatsuri: LiverData = {
     '#肌色まつり', // 旧R-18アート
     '#まつりは絵っち', // R-18アート
   ],
-  fans: ['🏮'],
+  fans: ['まつりす'],
   twitter: ['@natsuiromatsuri', '@7216_2nd'],
   others: [
     ['さいかい', '祭絵'],
