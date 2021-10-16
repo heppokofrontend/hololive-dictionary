@@ -1,4 +1,4 @@
-/** ライバー情報のデータ構造 */
+/** ライバー情報のデータ構造 */
 declare type LiverData = {
   /** よみ、語句 */
   name: [string, string],
