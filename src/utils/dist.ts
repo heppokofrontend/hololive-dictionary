@@ -50,7 +50,7 @@ export const dist = (argWordSet: WordSet[], fileName: string) => {
   // Win標準向け辞書データの書き出し
   fs.writeFileSync(
     path.join(dictionary, 'win', `ms-ime-dict--${fileName}.txt`),
-    TSV,
+    TSV.replace(/〜/g, '～'),
     {
       encoding: 'utf16le',
     },
@@ -59,6 +59,6 @@ export const dist = (argWordSet: WordSet[], fileName: string) => {
   // GoogleIME向け辞書データの書き出し
   fs.writeFileSync(
     path.join(dictionary, 'win', `google-ime-dict--${fileName}.txt`),
-    googleIME,
+    googleIME.replace(/〜/g, '～'),
   );
 };
