@@ -4,6 +4,8 @@ export const hakosBaelz: LiverData = {
     ['はこす', 'Hakos'],
     ['べーるず', 'Baelz'],
     ['はこすべーるず', 'Hakos Baelz'],
+    ['はこすべーるず', 'カオス'],
+    ['はこすべーるず', 'Chaos'],
   ],
   marks: ['🎲'],
   tags: [
@@ -16,6 +18,5 @@ export const hakosBaelz: LiverData = {
   fans: ['BAERATS'],
   twitter: ['@hakosbaelz'],
   others: [
-    ['でっどびーつ', 'Dead Beats'],
   ],
 };

@@ -4,6 +4,8 @@ export const tsukumoSana: LiverData = {
     ['つくも', 'Tsukumo'],
     ['さな', 'Sana'],
     ['つくもさな', 'Tsukumo Sana'],
+    ['つくもさな', '空間の代弁者'],
+    ['つくもさな', 'Speaker of "Space"'],
   ],
   marks: ['🪐'],
   tags: [

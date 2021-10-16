@@ -4,6 +4,8 @@ export const ceresFauna: LiverData = {
     ['せれす', 'Ceres'],
     ['ファウナ', 'Fauna'],
     ['せれすふぁうな', 'Ceres Fauna'],
+    ['せれすふぁうな', '自然の番人'],
+    ['せれすふぁうな', 'Keeper of "Nature"'],
   ],
   marks: ['🌿'],
   tags: [
@@ -13,4 +15,6 @@ export const ceresFauna: LiverData = {
   ],
   fans: ['Saplings'],
   twitter: ['@ceresfauna'],
+  others: [
+  ],
 };

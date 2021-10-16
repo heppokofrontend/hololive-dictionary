@@ -4,6 +4,8 @@ export const nanashiMumei: LiverData = {
     ['ななし', 'Nanashi'],
     ['むめい', 'Mumei'],
     ['ななしむめい', 'Nanashi Mumei'],
+    ['ななしむめい', '文明の守護者'],
+    ['ななしむめい', 'Guardian of "Civilization"'],
   ],
   marks: ['🪶'],
   tags: [
