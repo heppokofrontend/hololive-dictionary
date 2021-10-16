@@ -2203,7 +2203,7 @@
 ＠サナ	@tsukumosana	名詞
 ホロギカイ	ホロ議会	名詞
 ホロギカイ	#holoCouncil	名詞
-ホロギカイ	holoCouncil	名詞
+ホロギカイ	HoloCouncil	名詞
 ホロギカイ	Council	名詞
 ホロギカイ	Hololive English -議会-	名詞
 ハコスベールズ	HakosBaelz	人名

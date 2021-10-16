@@ -2235,7 +2235,7 @@
 ＠さな,@tsukumosana,普通名詞
 ほろぎかい,ホロ議会,普通名詞
 ほろぎかい,#holoCouncil,普通名詞
-ほろぎかい,holoCouncil,普通名詞
+ほろぎかい,HoloCouncil,普通名詞
 ほろぎかい,Council,普通名詞
 ほろぎかい,Hololive English -議会-,普通名詞
 はこすべーるず,HakosBaelz,人名
