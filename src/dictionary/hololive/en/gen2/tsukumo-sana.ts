@@ -17,7 +17,7 @@ export const tsukumoSana: LiverData = {
   others: [
     ['ほろぎかい', 'ホロ議会'],
     ['ほろぎかい', '#holoCouncil'],
-    ['ほろぎかい', 'holoCouncil'],
+    ['ほろぎかい', 'HoloCouncil'],
     ['ほろぎかい', 'Council'],
     ['ほろぎかい', 'Hololive English -議会-'],
   ],
