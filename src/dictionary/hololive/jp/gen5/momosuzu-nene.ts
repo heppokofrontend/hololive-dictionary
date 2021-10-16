@@ -19,6 +19,7 @@ export const momosuzuNene: LiverData = {
   others: [
     ['ｖ', 'Vtuべｒ'],
     ['ねっこ', 'ねっ子'],
+    ['ねぽらぼ', 'ねぽらぼ'],
     ['おーれんず', 'O\'riends'],
   ],
 };
