@@ -15,5 +15,10 @@ export const tsukumoSana: LiverData = {
   fans: ['Sanallite'],
   twitter: ['@tsukumosana'],
   others: [
+    ['ほろぎかい', 'ホロ議会'],
+    ['ほろぎかい', '#holoCouncil'],
+    ['ほろぎかい', 'holoCouncil'],
+    ['ほろぎかい', 'Council'],
+    ['ほろぎかい', 'Hololive English -議会-'],
   ],
 };
