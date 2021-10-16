@@ -16,5 +16,9 @@ export const moriCalliope: LiverData = {
   twitter: ['@moricalliope'],
   others: [
     ['でっどびーつ', 'Dead Beats'],
+    ['ｍｙｔｈ', 'HoloMyth'],
+    ['ｍｙｔｈ', '#HoloMyth'],
+    ['ｍｙｔｈ', 'Myth'],
+    ['ｍｙｔｈ', 'Hololive English -Myth-'],
   ],
 };
