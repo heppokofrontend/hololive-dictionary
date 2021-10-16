@@ -4,8 +4,10 @@ import { hololiveEnGen2 } from "./gen2";
 
 export const hololiveEn: LiverData[] = [
   {
-    name: ['おめが あるふぁ', 'オメガα'],
+    name: ['おめがあるふぁ', 'オメガα'],
     alias: [
+      ['おめが', 'Omegaα'],
+      ['あるふぁ', 'Omegaα'],
       ['おめがあるふぁ', 'Omegaα'],
     ],
     marks: [],
