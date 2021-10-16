@@ -1,5 +1,5 @@
 export const irys: LiverData = {
-  name: ['あいりす', 'あいりす'],
+  name: ['あいりす', 'アイリス'],
   alias: [
     ['あいりす', 'IRyS'],
     ['あいりす', '██アイリス'],
