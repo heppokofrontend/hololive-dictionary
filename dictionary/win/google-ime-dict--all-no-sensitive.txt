@@ -1976,6 +1976,18 @@
 ｍｙｔｈ	#HoloMyth	名詞
 ｍｙｔｈ	Myth	名詞
 ｍｙｔｈ	Hololive English -Myth-	名詞
+Ｍｙｔｈ	HoloMyth	名詞
+Ｍｙｔｈ	#HoloMyth	名詞
+Ｍｙｔｈ	Myth	名詞
+Ｍｙｔｈ	Hololive English -Myth-	名詞
+myth	HoloMyth	名詞
+myth	#HoloMyth	名詞
+myth	Myth	名詞
+myth	Hololive English -Myth-	名詞
+Myth	HoloMyth	名詞
+Myth	#HoloMyth	名詞
+Myth	Myth	名詞
+Myth	Hololive English -Myth-	名詞
 タカナシキアラ	小鳥遊キアラ	人名
 タカナシ	小鳥遊	人名
 キアラ	キアラ	人名
