@@ -1,4 +1,4 @@
-# ホロライブ用語のIME用追加辞書
+# ホロライブ用語・単語辞書 for Win/mac
 
 https://user-images.githubusercontent.com/6637993/124358896-5b7e3880-dc5d-11eb-8f53-9b4702098a92.mp4
 
