@@ -70,6 +70,7 @@ export const makeWordSet = (argDict: LiverData[], argOptions: Options = {}) => {
     // あだ名の読みをnameに追加
     for (const [yomi, kaki] of alias) {
       nameSet.yomi.push(yomi);
+      // 読みと書きが同じ場合、書きが省略されることを考慮
       nameSet.kaki.push(kaki || yomi);
     }
 
