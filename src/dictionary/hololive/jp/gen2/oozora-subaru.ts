@@ -6,6 +6,7 @@ export const oozoraSubaru: LiverData = {
     ['すばたに', 'スバ谷'],
     ['すばお', 'スバ夫'],
     ['すばたにすばお', 'スバ谷スバ夫'],
+    ['しゅば'],
   ],
   marks: ['🚑'],
   tags: [
