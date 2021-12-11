@@ -5,6 +5,7 @@ import { hololiveJpGen2 } from "./gen2";
 import { hololiveJpGen3 } from "./gen3";
 import { hololiveJpGen4 } from "./gen4";
 import { hololiveJpGen5 } from "./gen5";
+import { hololiveJpGen6 } from "./gen6";
 
 export const hololiveJp: LiverData[] = [
   ...hololiveJpGen0,
@@ -14,4 +15,5 @@ export const hololiveJp: LiverData[] = [
   ...hololiveJpGen3,
   ...hololiveJpGen4,
   ...hololiveJpGen5,
+  ...hololiveJpGen6,
 ];
