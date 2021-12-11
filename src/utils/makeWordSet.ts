@@ -56,6 +56,7 @@ export const makeWordSet = (argDict: LiverData[], argOptions: Options = {}) => {
     const wordsets: WordSet[] = [];
     /** 名前の読みと書き。各変換のよみとして利用される */
     const nameSet = {
+      // フルネームと、スペース区切りで分けた値を処理するときに、名字がないパターンを想定して重複を処理
       yomi: [...new Set([name[0].replace(/\s/g, ''), ...name[0]?.split(/\s/)])],
       kaki: [...new Set([name[1].replace(/\s/g, ''), ...name[1]?.split(/\s/)])],
     };
