@@ -1,5 +1,3 @@
-import { azki } from "./azki";
+import { azki } from './azki';
 
-export const inonaka: LiverData[] = [
-  azki,
-];
+export const inonaka: LiverData[] = [azki];

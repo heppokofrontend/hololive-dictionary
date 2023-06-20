@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "prettier": "prettier --write --ignore-path .gitignore \"./**/*.{js,jsx,ts,tsx,json}\"",
     "build": "ts-node ./src/index.ts"
   },
   "repository": {
@@ -19,6 +20,7 @@
   "homepage": "https://github.com/heppokofrontend/hololive-dictionary#readme",
   "devDependencies": {
     "@types/node": "^15.12.2",
+    "prettier": "^2.8.8",
     "ts-node": "^10.0.0",
     "typescript": "^4.3.2"
   }

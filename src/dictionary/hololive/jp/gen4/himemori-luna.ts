@@ -1,10 +1,6 @@
 export const himemoriLuna: LiverData = {
   name: ['ひめもり るーな', '姫森 ルーナ'],
-  alias: [
-    ['るーなたん'],
-    ['んなひめ', 'んな姫'],
-    ['ひめさま', '姫様'],
-  ],
+  alias: [['るーなたん'], ['んなひめ', 'んな姫'], ['ひめさま', '姫様']],
   marks: ['🍬'],
   tags: [
     '#姫森ルーナ', // 一般
@@ -16,7 +12,5 @@ export const himemoriLuna: LiverData = {
   ],
   fans: ['ルーナイト'],
   twitter: ['@himemoriluna'],
-  others: [
-    ['んなひめ', 'んな姫'],
-  ],
+  others: [['んなひめ', 'んな姫']],
 };

@@ -1,11 +1,11 @@
-import { hololiveJpGamers } from "./gamers";
-import { hololiveJpGen0 } from "./gen0";
-import { hololiveJpGen1 } from "./gen1";
-import { hololiveJpGen2 } from "./gen2";
-import { hololiveJpGen3 } from "./gen3";
-import { hololiveJpGen4 } from "./gen4";
-import { hololiveJpGen5 } from "./gen5";
-import { hololiveJpGen6 } from "./gen6";
+import { hololiveJpGamers } from './gamers';
+import { hololiveJpGen0 } from './gen0';
+import { hololiveJpGen1 } from './gen1';
+import { hololiveJpGen2 } from './gen2';
+import { hololiveJpGen3 } from './gen3';
+import { hololiveJpGen4 } from './gen4';
+import { hololiveJpGen5 } from './gen5';
+import { hololiveJpGen6 } from './gen6';
 
 export const hololiveJp: LiverData[] = [
   ...hololiveJpGen0,

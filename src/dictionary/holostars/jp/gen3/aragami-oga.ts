@@ -1,8 +1,6 @@
 export const aragamiOga: LiverData = {
   name: ['あらがみ おうが', '荒咬 オウガ'],
-  alias: [
-    ['', ''],
-  ],
+  alias: [['', '']],
   marks: ['🐃'],
   tags: [
     '#荒咬オウガ', // 全般
@@ -12,7 +10,5 @@ export const aragamiOga: LiverData = {
   ],
   fans: ['オマエさん'],
   twitter: ['@aragamioga'],
-  others: [
-    ['おうが', 'オウ画'],
-  ],
+  others: [['おうが', 'オウ画']],
 };

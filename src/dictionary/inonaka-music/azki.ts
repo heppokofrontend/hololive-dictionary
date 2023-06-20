@@ -1,8 +1,6 @@
 export const azki: LiverData = {
   name: ['あずき', 'AZKi'],
-  alias: [
-    ['あずきち'],
-  ],
+  alias: [['あずきち']],
   marks: ['⚒️'],
   tags: [
     '#AZKiART', // ファンアート

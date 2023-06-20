@@ -1,9 +1,6 @@
 export const murasakiShion: LiverData = {
   name: ['むらさき しおん', '紫咲 シオン'],
-  alias: [
-    ['しおんたん'],
-    ['くそがき', 'クソガキ'],
-  ],
+  alias: [['しおんたん'], ['くそがき', 'クソガキ']],
   marks: ['🌙'],
   tags: [
     '#紫咲シオン', // 一般・生放送

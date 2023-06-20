@@ -12,7 +12,7 @@ export const dist = (argWordSet: WordSet[], fileName: string) => {
   /** 登録済みの辞書情報 */
   const entried: string[] = [];
   /** 重複を除いたデータ */
-  const wordSet = argWordSet.filter(item => {
+  const wordSet = argWordSet.filter((item) => {
     const val = item.join('');
 
     if (entried.includes(val)) {
@@ -23,22 +23,24 @@ export const dist = (argWordSet: WordSet[], fileName: string) => {
 
     return true;
   });
-  const CSV = wordSet.map(item => item.join(',')).join('\n');
-  const TSV = wordSet.map(item => item.join('\t')).join('\n');
+  const CSV = wordSet.map((item) => item.join(',')).join('\n');
+  const TSV = wordSet.map((item) => item.join('\t')).join('\n');
   const googleIME = (() => {
     /**
-    * String.prototype.replaceの第２引数用
-    * @param ｓ - ひらがな１文字
-    * @returns - カタカナ１文字
-    */
+     * String.prototype.replaceの第２引数用
+     * @param ｓ - ひらがな１文字
+     * @returns - カタカナ１文字
+     */
     const replacer = (s: string) => String.fromCharCode(s.charCodeAt(0) + 0x60);
 
     // GoogleIME用に読み仮名（`item[0]`）をカタカナに変換する
-    return wordSet.map(item => {
-      item[0] = item[0].replace(/[ぁ-ん]/g, replacer);
+    return wordSet
+      .map((item) => {
+        item[0] = item[0].replace(/[ぁ-ん]/g, replacer);
 
-      return item.join('\t');
-    }).join('\r\n');
+        return item.join('\t');
+      })
+      .join('\r\n');
   })();
 
   // Mac向け辞書データの書き出し

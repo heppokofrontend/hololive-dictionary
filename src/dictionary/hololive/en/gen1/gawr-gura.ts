@@ -9,11 +9,7 @@ export const gawrGura: LiverData = {
     ['がうるぐら', 'Gawr Gura'],
   ],
   marks: ['🔱'],
-  tags: [
-    '#gawrt',
-    '#chumbuds',
-    '#gawrgura',
-  ],
+  tags: ['#gawrt', '#chumbuds', '#gawrgura'],
   fans: ['chumbuds'],
   twitter: ['@gawrgura'],
 };

@@ -1,8 +1,6 @@
 export const tsukishitaKaoru: LiverData = {
   name: ['つきした かおる', '月下 カオル'],
-  alias: [
-    ['', ''],
-  ],
+  alias: [['', '']],
   marks: ['💅'],
   tags: [
     '#月下カオル', // 全般
