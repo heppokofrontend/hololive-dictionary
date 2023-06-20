@@ -12,5 +12,4 @@ export const himemoriLuna: LiverData = {
   ],
   fans: ['ルーナイト'],
   twitter: ['@himemoriluna'],
-  others: [['んなひめ', 'んな姫']],
 };

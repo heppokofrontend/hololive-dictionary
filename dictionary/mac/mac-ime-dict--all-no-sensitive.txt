@@ -1403,7 +1403,9 @@
 とわち,とわち,人名
 とわさま,トワ様,人名
 ｔｍｔ,TMT,人名
+Ｔｍｔ,TMT,人名
 ｔｍｔ,トワ様マジ天使,人名
+Ｔｍｔ,トワ様マジ天使,人名
 ：とこやみとわ,👾,普通名詞
 ：とこやみ,👾,普通名詞
 ：とわ,👾,普通名詞
@@ -1494,7 +1496,6 @@
 ＠るーなたん,@himemoriluna,普通名詞
 ＠んなひめ,@himemoriluna,普通名詞
 ＠ひめさま,@himemoriluna,普通名詞
-んなひめ,んな姫,普通名詞
 ゆきはならみぃ,雪花ラミィ,人名
 ゆきはな,雪花,人名
 らみぃ,ラミィ,人名
@@ -1589,7 +1590,8 @@
 ＠すーぱーねねちー,@momosuzunene,普通名詞
 ＠はいぱーねねちー,@momosuzunene,普通名詞
 ＠しゃちょう,@momosuzunene,普通名詞
-ｖ,Vtuべｒ,普通名詞
+v,Vtuべｒ,普通名詞
+V,Vtuべｒ,普通名詞
 ねっこ,ねっ子,普通名詞
 ねぽらぼ,ねぽらぼ,普通名詞
 おーれんず,Oriends,普通名詞
@@ -2190,21 +2192,13 @@
 ＠かり,@moricalliope,普通名詞
 でっどびーつ,Dead Beats,普通名詞
 ｍｙｔｈ,HoloMyth,普通名詞
-ｍｙｔｈ,#HoloMyth,普通名詞
-ｍｙｔｈ,Myth,普通名詞
-ｍｙｔｈ,Hololive English -Myth-,普通名詞
 Ｍｙｔｈ,HoloMyth,普通名詞
+ｍｙｔｈ,#HoloMyth,普通名詞
 Ｍｙｔｈ,#HoloMyth,普通名詞
+ｍｙｔｈ,Myth,普通名詞
 Ｍｙｔｈ,Myth,普通名詞
+ｍｙｔｈ,Hololive English -Myth-,普通名詞
 Ｍｙｔｈ,Hololive English -Myth-,普通名詞
-myth,HoloMyth,普通名詞
-myth,#HoloMyth,普通名詞
-myth,Myth,普通名詞
-myth,Hololive English -Myth-,普通名詞
-Myth,HoloMyth,普通名詞
-Myth,#HoloMyth,普通名詞
-Myth,Myth,普通名詞
-Myth,Hololive English -Myth-,普通名詞
 たかなしきあら,小鳥遊キアラ,人名
 たかなし,小鳥遊,人名
 きあら,キアラ,人名
