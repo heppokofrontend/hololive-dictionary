@@ -1,8 +1,6 @@
 export const kishidoTemma: LiverData = {
   name: ['きしどう てんま', '岸堂 天真'],
-  alias: [
-    ['', ''],
-  ],
+  alias: [['', '']],
   marks: ['🦔💨'],
   tags: [
     '#岸堂天真', // 全般
@@ -13,7 +11,5 @@ export const kishidoTemma: LiverData = {
   ],
   fans: ['岸メン'],
   twitter: ['@kishidotemma'],
-  others: [
-    ['きしめん', '岸メン'],
-  ],
+  others: [['きしめん', '岸メン']],
 };

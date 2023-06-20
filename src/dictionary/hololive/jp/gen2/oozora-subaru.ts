@@ -19,7 +19,5 @@ export const oozoraSubaru: LiverData = {
   ],
   fans: ['スバ友', 'アヒージョ'],
   twitter: ['@oozorasubaru'],
-  others: [
-    ['すばるどだっく', 'スバルドダック'],
-  ],
+  others: [['すばるどだっく', 'スバルドダック']],
 };

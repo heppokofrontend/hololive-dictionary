@@ -1,8 +1,6 @@
 export const ayundaRisu: LiverData = {
   name: ['あゆんだ りす', 'Ayunda Risu'],
-  alias: [
-    ['', ''],
-  ],
+  alias: [['', '']],
   marks: ['🐿'],
   tags: [
     '#Ayunda_Risu',

@@ -1,8 +1,6 @@
 export const yozoraMel: LiverData = {
   name: ['よぞら める', '夜空 メル'],
-  alias: [
-    ['めるめる', 'メルメル'],
-  ],
+  alias: [['めるめる', 'メルメル']],
   marks: ['🌟'],
   tags: [
     '#メルArt', // ファンアート
@@ -14,7 +12,5 @@ export const yozoraMel: LiverData = {
   ],
   fans: ['かぷ民'],
   twitter: ['@yozoramel', '@YozoramelS'],
-  others: [
-    ['かぷみん', 'かぷ民'],
-  ],
+  others: [['かぷみん', 'かぷ民']],
 };

@@ -1,8 +1,6 @@
 export const yakushijiSuzaku: LiverData = {
   name: ['やくしじ すざく', '薬師寺 朱雀'],
-  alias: [
-    ['', ''],
-  ],
+  alias: [['', '']],
   marks: ['💊'],
   tags: [
     '#薬師寺朱雀', // 全般

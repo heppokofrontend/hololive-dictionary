@@ -1,5 +1,3 @@
-import { holostarsJp } from "./jp";
+import { holostarsJp } from './jp';
 
-export const holostars: LiverData[] = [
-  ...holostarsJp,
-];
+export const holostars: LiverData[] = [...holostarsJp];

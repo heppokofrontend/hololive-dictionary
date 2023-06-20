@@ -1,8 +1,6 @@
 export const yukokuRoberu: LiverData = {
   name: ['ゆうこく ろべる', '夕刻 ロベル'],
-  alias: [
-    ['', ''],
-  ],
+  alias: [['', '']],
   marks: ['🍷'],
   tags: [
     '#夕刻ロベル', // 全般

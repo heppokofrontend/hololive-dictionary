@@ -5,12 +5,7 @@ export const irys: LiverData = {
     ['あいりす', '██アイリス'],
   ],
   marks: ['💎'],
-  tags: [
-    '#IRyS',
-    '#IRyShow',
-    '#IRySart',
-    '#IRyStocrats',
-  ],
+  tags: ['#IRyS', '#IRyShow', '#IRySart', '#IRyStocrats'],
   fans: ['IRyStocrats'],
   twitter: ['@irys_en'],
 };

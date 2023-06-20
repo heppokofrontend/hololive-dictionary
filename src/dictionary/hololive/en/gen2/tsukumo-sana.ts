@@ -8,10 +8,7 @@ export const tsukumoSana: LiverData = {
     ['つくもさな', 'Speaker of "Space"'],
   ],
   marks: ['🪐'],
-  tags: [
-    '#galaxillust',
-    '#SanaLanding',
-  ],
+  tags: ['#galaxillust', '#SanaLanding'],
   fans: ['Sanallite'],
   twitter: ['@tsukumosana'],
   others: [

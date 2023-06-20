@@ -1,8 +1,6 @@
 export const rikka: LiverData = {
   name: ['りっか', '律可'],
-  alias: [
-    ['', ''],
-  ],
+  alias: [['', '']],
   marks: ['⚙'],
   tags: [
     '#律可', // 全般
