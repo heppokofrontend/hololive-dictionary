@@ -1,6 +1,7 @@
 import { holostarsJpGen1 } from './gen1';
 import { holostarsJpGen2 } from './gen2';
 import { holostarsJpGen3 } from './gen3';
+import { holostarsJpUproar } from './uproar';
 
 export const holostarsJp: LiverData[] = [
   {
@@ -20,4 +21,5 @@ export const holostarsJp: LiverData[] = [
   ...holostarsJpGen1,
   ...holostarsJpGen2,
   ...holostarsJpGen3,
+  ...holostarsJpUproar,
 ];
