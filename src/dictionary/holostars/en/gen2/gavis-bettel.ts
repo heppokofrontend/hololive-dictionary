@@ -1,6 +1,6 @@
 export const gavisBettel: LiverData = {
   name: ['がびす べってる', 'Gavis Bettel'],
-  alias: [['がゔぃす', 'Gavis']],
+  alias: [['がヴぃす', 'Gavis']],
   marks: ['🎩'],
   tags: [
     ['#BettelBeThere', '生放送'],

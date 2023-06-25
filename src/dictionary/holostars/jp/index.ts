@@ -5,7 +5,7 @@ import { holostarsJpUproar } from './uproar';
 
 export const holostarsJp: LiverData[] = [
   {
-    name: ['だいどう しのゔ', '大道 シノヴ'],
+    name: ['だいどう しのヴ', '大道 シノヴ'],
     alias: [],
     marks: [],
     tags: [

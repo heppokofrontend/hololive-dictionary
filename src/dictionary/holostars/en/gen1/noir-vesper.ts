@@ -1,5 +1,5 @@
 export const noirVesper: LiverData = {
-  name: ['のわーるゔぇすぱー', 'Noir Vesper'],
+  name: ['のわーるヴぇすぱー', 'Noir Vesper'],
   alias: [],
   marks: ['📗'],
   tags: [

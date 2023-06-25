@@ -66,7 +66,13 @@ export const dist = (argWordSet: WordSet[], fileName: string) => {
   });
 
   // Mac向け辞書データの書き出し
-  const CSV = addHalfWidthPattern(addUpperCasePattern(wordSet))
+  const CSV = addHalfWidthPattern(
+    addUpperCasePattern(
+      wordSet.map(([yomi, ...wordData]) => {
+        return [yomi.replace(/ヴ/gm, 'ゔ'), ...wordData];
+      }),
+    ),
+  )
     .map((item) => item.join(','))
     .join('\n');
   fs.writeFileSync(

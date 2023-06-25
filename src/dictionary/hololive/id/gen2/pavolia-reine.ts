@@ -1,5 +1,5 @@
 export const pavoliaReine: LiverData = {
-  name: ['ぱゔぉりあ れいね', 'Pavolia Reine'],
+  name: ['ぱヴぉりあ れいね', 'Pavolia Reine'],
   alias: [],
   marks: ['🦚'],
   tags: [

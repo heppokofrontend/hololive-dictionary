@@ -2238,20 +2238,20 @@
 ＠アユンダリス	@ayunda_risu	名詞
 ＠アユンダ	@ayunda_risu	名詞
 ＠リス	@ayunda_risu	名詞
-ムーナホシノゔァ	MoonaHoshinova	人名
+ムーナホシノヴァ	MoonaHoshinova	人名
 ムーナ	Moona	人名
-ホシノゔァ	Hoshinova	人名
-ムーナホシノゔァ	Moona Hoshinova	人名
-：ムーナホシノゔァ	🔮	名詞
+ホシノヴァ	Hoshinova	人名
+ムーナホシノヴァ	Moona Hoshinova	人名
+：ムーナホシノヴァ	🔮	名詞
 ：ムーナ	🔮	名詞
-：ホシノゔァ	🔮	名詞
-＃ムーナホシノゔァ	#Moona_Hoshinova	名詞	全般
-＃ムーナホシノゔァ	#MoonA_Live	名詞	配信タグ
-＃ムーナホシノゔァ	#HoshinovArt	名詞	ファンアート
-＃ムーナホシノゔァ	#MoonUtau	名詞	歌の感想
-＃ムーナホシノゔァ	#GrassMoona	名詞	ミーム
-＃ムーナホシノゔァ	#MoonArchitect	名詞	マイクラ案
-＃ムーナホシノゔァ	#MoonAspace	名詞	Twitterスペース
+：ホシノヴァ	🔮	名詞
+＃ムーナホシノヴァ	#Moona_Hoshinova	名詞	全般
+＃ムーナホシノヴァ	#MoonA_Live	名詞	配信タグ
+＃ムーナホシノヴァ	#HoshinovArt	名詞	ファンアート
+＃ムーナホシノヴァ	#MoonUtau	名詞	歌の感想
+＃ムーナホシノヴァ	#GrassMoona	名詞	ミーム
+＃ムーナホシノヴァ	#MoonArchitect	名詞	マイクラ案
+＃ムーナホシノヴァ	#MoonAspace	名詞	Twitterスペース
 ＃ムーナ	#Moona_Hoshinova	名詞	全般
 ＃ムーナ	#MoonA_Live	名詞	配信タグ
 ＃ムーナ	#HoshinovArt	名詞	ファンアート
@@ -2259,19 +2259,19 @@
 ＃ムーナ	#GrassMoona	名詞	ミーム
 ＃ムーナ	#MoonArchitect	名詞	マイクラ案
 ＃ムーナ	#MoonAspace	名詞	Twitterスペース
-＃ホシノゔァ	#Moona_Hoshinova	名詞	全般
-＃ホシノゔァ	#MoonA_Live	名詞	配信タグ
-＃ホシノゔァ	#HoshinovArt	名詞	ファンアート
-＃ホシノゔァ	#MoonUtau	名詞	歌の感想
-＃ホシノゔァ	#GrassMoona	名詞	ミーム
-＃ホシノゔァ	#MoonArchitect	名詞	マイクラ案
-＃ホシノゔァ	#MoonAspace	名詞	Twitterスペース
-～ムーナホシノゔァ	Moonafic	名詞
+＃ホシノヴァ	#Moona_Hoshinova	名詞	全般
+＃ホシノヴァ	#MoonA_Live	名詞	配信タグ
+＃ホシノヴァ	#HoshinovArt	名詞	ファンアート
+＃ホシノヴァ	#MoonUtau	名詞	歌の感想
+＃ホシノヴァ	#GrassMoona	名詞	ミーム
+＃ホシノヴァ	#MoonArchitect	名詞	マイクラ案
+＃ホシノヴァ	#MoonAspace	名詞	Twitterスペース
+～ムーナホシノヴァ	Moonafic	名詞
 ～ムーナ	Moonafic	名詞
-～ホシノゔァ	Moonafic	名詞
-＠ムーナホシノゔァ	@moonahoshinova	名詞
+～ホシノヴァ	Moonafic	名詞
+＠ムーナホシノヴァ	@moonahoshinova	名詞
 ＠ムーナ	@moonahoshinova	名詞
-＠ホシノゔァ	@moonahoshinova	名詞
+＠ホシノヴァ	@moonahoshinova	名詞
 アイラニイオフィフティーン	AiraniIofifteen	人名
 アイラニ	Airani	人名
 イオフィフティーン	Iofifteen	人名
@@ -2355,79 +2355,79 @@
 ＠アーニャメルフィッサ	@anyamelfissa	名詞
 ＠アーニャ	@anyamelfissa	名詞
 ＠メルフィッサ	@anyamelfissa	名詞
-パゔォリアレイネ	PavoliaReine	人名
-パゔォリア	Pavolia	人名
+パヴォリアレイネ	PavoliaReine	人名
+パヴォリア	Pavolia	人名
 レイネ	Reine	人名
-パゔォリアレイネ	Pavolia Reine	人名
-：パゔォリアレイネ	🦚	名詞
-：パゔォリア	🦚	名詞
+パヴォリアレイネ	Pavolia Reine	人名
+：パヴォリアレイネ	🦚	名詞
+：パヴォリア	🦚	名詞
 ：レイネ	🦚	名詞
-＃パゔォリアレイネ	#Pavolia_Reine	名詞	一般
-＃パゔォリアレイネ	#Pavolive	名詞	配信タグ
-＃パゔォリアレイネ	#Reinessance	名詞	ファンアート
-＃パゔォリアレイネ	#POGVOLIA	名詞	ミーム
-＃パゔォリア	#Pavolia_Reine	名詞	一般
-＃パゔォリア	#Pavolive	名詞	配信タグ
-＃パゔォリア	#Reinessance	名詞	ファンアート
-＃パゔォリア	#POGVOLIA	名詞	ミーム
+＃パヴォリアレイネ	#Pavolia_Reine	名詞	一般
+＃パヴォリアレイネ	#Pavolive	名詞	配信タグ
+＃パヴォリアレイネ	#Reinessance	名詞	ファンアート
+＃パヴォリアレイネ	#POGVOLIA	名詞	ミーム
+＃パヴォリア	#Pavolia_Reine	名詞	一般
+＃パヴォリア	#Pavolive	名詞	配信タグ
+＃パヴォリア	#Reinessance	名詞	ファンアート
+＃パヴォリア	#POGVOLIA	名詞	ミーム
 ＃レイネ	#Pavolia_Reine	名詞	一般
 ＃レイネ	#Pavolive	名詞	配信タグ
 ＃レイネ	#Reinessance	名詞	ファンアート
 ＃レイネ	#POGVOLIA	名詞	ミーム
-～パゔォリアレイネ	MERAKyats	名詞
-～パゔォリア	MERAKyats	名詞
+～パヴォリアレイネ	MERAKyats	名詞
+～パヴォリア	MERAKyats	名詞
 ～レイネ	MERAKyats	名詞
-＠パゔォリアレイネ	@pavoliareine	名詞
-＠パゔォリア	@pavoliareine	名詞
+＠パヴォリアレイネ	@pavoliareine	名詞
+＠パヴォリア	@pavoliareine	名詞
 ＠レイネ	@pavoliareine	名詞
-ゔェスティアゼータ	VestiaZeta	人名
-ゔェスティア	Vestia	人名
+ヴェスティアゼータ	VestiaZeta	人名
+ヴェスティア	Vestia	人名
 ゼータ	Zeta	人名
-ゔェスティアゼータ	Vestia Zeta	人名
-：ゔェスティアゼータ	📜	名詞
-：ゔェスティア	📜	名詞
+ヴェスティアゼータ	Vestia Zeta	人名
+：ヴェスティアゼータ	📜	名詞
+：ヴェスティア	📜	名詞
 ：ゼータ	📜	名詞
-＃ゔェスティアゼータ	#VestiaZeta	名詞	一般
-＃ゔェスティアゼータ	#Zecretary	名詞	ファンネーム
-＃ゔェスティアゼータ	#ZecretLive	名詞	配信
-＃ゔェスティアゼータ	#Zetacrylic	名詞	ファンアート
-＃ゔェスティアゼータ	#Zetassets	名詞	ファンアート(素材提供)
-＃ゔェスティアゼータ	#DEEZeta	名詞	ミーム
-＃ゔェスティア	#VestiaZeta	名詞	一般
-＃ゔェスティア	#Zecretary	名詞	ファンネーム
-＃ゔェスティア	#ZecretLive	名詞	配信
-＃ゔェスティア	#Zetacrylic	名詞	ファンアート
-＃ゔェスティア	#Zetassets	名詞	ファンアート(素材提供)
-＃ゔェスティア	#DEEZeta	名詞	ミーム
+＃ヴェスティアゼータ	#VestiaZeta	名詞	一般
+＃ヴェスティアゼータ	#Zecretary	名詞	ファンネーム
+＃ヴェスティアゼータ	#ZecretLive	名詞	配信
+＃ヴェスティアゼータ	#Zetacrylic	名詞	ファンアート
+＃ヴェスティアゼータ	#Zetassets	名詞	ファンアート(素材提供)
+＃ヴェスティアゼータ	#DEEZeta	名詞	ミーム
+＃ヴェスティア	#VestiaZeta	名詞	一般
+＃ヴェスティア	#Zecretary	名詞	ファンネーム
+＃ヴェスティア	#ZecretLive	名詞	配信
+＃ヴェスティア	#Zetacrylic	名詞	ファンアート
+＃ヴェスティア	#Zetassets	名詞	ファンアート(素材提供)
+＃ヴェスティア	#DEEZeta	名詞	ミーム
 ＃ゼータ	#VestiaZeta	名詞	一般
 ＃ゼータ	#Zecretary	名詞	ファンネーム
 ＃ゼータ	#ZecretLive	名詞	配信
 ＃ゼータ	#Zetacrylic	名詞	ファンアート
 ＃ゼータ	#Zetassets	名詞	ファンアート(素材提供)
 ＃ゼータ	#DEEZeta	名詞	ミーム
-～ゔェスティアゼータ	Zecretary	名詞
-～ゔェスティアゼータ	Secret Unit	名詞
-～ゔェスティア	Zecretary	名詞
-～ゔェスティア	Secret Unit	名詞
+～ヴェスティアゼータ	Zecretary	名詞
+～ヴェスティアゼータ	Secret Unit	名詞
+～ヴェスティア	Zecretary	名詞
+～ヴェスティア	Secret Unit	名詞
 ～ゼータ	Zecretary	名詞
 ～ゼータ	Secret Unit	名詞
-＠ゔェスティアゼータ	@vestiazeta	名詞
-＠ゔェスティア	@vestiazeta	名詞
+＠ヴェスティアゼータ	@vestiazeta	名詞
+＠ヴェスティア	@vestiazeta	名詞
 ＠ゼータ	@vestiazeta	名詞
-カエラコゔァルスキア	KaelaKovalskia	人名
+カエラコヴァルスキア	KaelaKovalskia	人名
 カエラ	Kaela	人名
-コゔァルスキア	Kovalskia	人名
-カエラコゔァルスキア	Kaela Kovalskia	人名
-：カエラコゔァルスキア	🔨	名詞
+コヴァルスキア	Kovalskia	人名
+カエラコヴァルスキア	Kaela Kovalskia	人名
+：カエラコヴァルスキア	🔨	名詞
 ：カエラ	🔨	名詞
-：コゔァルスキア	🔨	名詞
-＃カエラコゔァルスキア	#KaelaKovalskia	名詞	一般
-＃カエラコゔァルスキア	#KaelAttention	名詞	告知
-＃カエラコゔァルスキア	#inKaela	名詞	ファンアート
-＃カエラコゔァルスキア	#KaeLaugh	名詞	ミーム
-＃カエラコゔァルスキア	#Kaelaif	名詞	配信＆切り抜き
-＃カエラコゔァルスキア	#ElaOnDuty	名詞	League Streams
-＃カエラコゔァルスキア	#Kaelaboration	名詞	Heart-to-heart Stream
+：コヴァルスキア	🔨	名詞
+＃カエラコヴァルスキア	#KaelaKovalskia	名詞	一般
+＃カエラコヴァルスキア	#KaelAttention	名詞	告知
+＃カエラコヴァルスキア	#inKaela	名詞	ファンアート
+＃カエラコヴァルスキア	#KaeLaugh	名詞	ミーム
+＃カエラコヴァルスキア	#Kaelaif	名詞	配信＆切り抜き
+＃カエラコヴァルスキア	#ElaOnDuty	名詞	League Streams
+＃カエラコヴァルスキア	#Kaelaboration	名詞	Heart-to-heart Stream
 ＃カエラ	#KaelaKovalskia	名詞	一般
 ＃カエラ	#KaelAttention	名詞	告知
 ＃カエラ	#inKaela	名詞	ファンアート
@@ -2435,19 +2435,19 @@
 ＃カエラ	#Kaelaif	名詞	配信＆切り抜き
 ＃カエラ	#ElaOnDuty	名詞	League Streams
 ＃カエラ	#Kaelaboration	名詞	Heart-to-heart Stream
-＃コゔァルスキア	#KaelaKovalskia	名詞	一般
-＃コゔァルスキア	#KaelAttention	名詞	告知
-＃コゔァルスキア	#inKaela	名詞	ファンアート
-＃コゔァルスキア	#KaeLaugh	名詞	ミーム
-＃コゔァルスキア	#Kaelaif	名詞	配信＆切り抜き
-＃コゔァルスキア	#ElaOnDuty	名詞	League Streams
-＃コゔァルスキア	#Kaelaboration	名詞	Heart-to-heart Stream
-～カエラコゔァルスキア	PEMALOE	名詞
+＃コヴァルスキア	#KaelaKovalskia	名詞	一般
+＃コヴァルスキア	#KaelAttention	名詞	告知
+＃コヴァルスキア	#inKaela	名詞	ファンアート
+＃コヴァルスキア	#KaeLaugh	名詞	ミーム
+＃コヴァルスキア	#Kaelaif	名詞	配信＆切り抜き
+＃コヴァルスキア	#ElaOnDuty	名詞	League Streams
+＃コヴァルスキア	#Kaelaboration	名詞	Heart-to-heart Stream
+～カエラコヴァルスキア	PEMALOE	名詞
 ～カエラ	PEMALOE	名詞
-～コゔァルスキア	PEMALOE	名詞
-＠カエラコゔァルスキア	@kaelakovalskia	名詞
+～コヴァルスキア	PEMALOE	名詞
+＠カエラコヴァルスキア	@kaelakovalskia	名詞
 ＠カエラ	@kaelakovalskia	名詞
-＠コゔァルスキア	@kaelakovalskia	名詞
+＠コヴァルスキア	@kaelakovalskia	名詞
 コボカナエル	KoboKanaeru	人名
 コボ	Kobo	人名
 カナエル	Kanaeru	人名
@@ -2839,21 +2839,21 @@
 ＠クロニー	@ourokronii	名詞
 ＠オウロ	@ourokronii	名詞
 ＠オウロクロニー	@ourokronii	名詞
-ダイドウシノゔ	大道シノヴ	人名
+ダイドウシノヴ	大道シノヴ	人名
 ダイドウ	大道	人名
-シノゔ	シノヴ	人名
-＃ダイドウシノゔ	#大道シノヴ	名詞	全般
-＃ダイドウシノゔ	#押忍絵	名詞	ファンアート
+シノヴ	シノヴ	人名
+＃ダイドウシノヴ	#大道シノヴ	名詞	全般
+＃ダイドウシノヴ	#押忍絵	名詞	ファンアート
 ＃ダイドウ	#大道シノヴ	名詞	全般
 ＃ダイドウ	#押忍絵	名詞	ファンアート
-＃シノゔ	#大道シノヴ	名詞	全般
-＃シノゔ	#押忍絵	名詞	ファンアート
-～ダイドウシノゔ	ホロスタ民	名詞
+＃シノヴ	#大道シノヴ	名詞	全般
+＃シノヴ	#押忍絵	名詞	ファンアート
+～ダイドウシノヴ	ホロスタ民	名詞
 ～ダイドウ	ホロスタ民	名詞
-～シノゔ	ホロスタ民	名詞
-＠ダイドウシノゔ	@daidoushinove	名詞
+～シノヴ	ホロスタ民	名詞
+＠ダイドウシノヴ	@daidoushinove	名詞
 ＠ダイドウ	@daidoushinove	名詞
-＠シノゔ	@daidoushinove	名詞
+＠シノヴ	@daidoushinove	名詞
 ハナサキミヤビ	花咲みやび	人名
 ハナサキ	花咲	人名
 ：ハナサキミヤビ	🌺	名詞
@@ -3384,24 +3384,24 @@
 ＠アクセルシリオス	@axelsyrios	名詞
 ＠アクセル	@axelsyrios	名詞
 ＠シリオス	@axelsyrios	名詞
-ノワールゔェスパー	NoirVesper	人名
-ノワールゔェスパー	Noir	人名
-：ノワールゔェスパー	📗	名詞
-＃ノワールゔェスパー	#vesperONLINE	名詞	生放送
-＃ノワールゔェスパー	#VespART	名詞	ファンアート
-＃ノワールゔェスパー	#ClipNoir	名詞	切り抜き
-＃ノワールゔェスパー	#Noirgrounds	名詞	memes
-～ノワールゔェスパー	VESFRIENDS	名詞
-＠ノワールゔェスパー	@noirvesper_en	名詞
+ノワールヴェスパー	NoirVesper	人名
+ノワールヴェスパー	Noir	人名
+：ノワールヴェスパー	📗	名詞
+＃ノワールヴェスパー	#vesperONLINE	名詞	生放送
+＃ノワールヴェスパー	#VespART	名詞	ファンアート
+＃ノワールヴェスパー	#ClipNoir	名詞	切り抜き
+＃ノワールヴェスパー	#Noirgrounds	名詞	memes
+～ノワールヴェスパー	VESFRIENDS	名詞
+＠ノワールヴェスパー	@noirvesper_en	名詞
 ガビスベッテル	GavisBettel	人名
 ガビス	Gavis	人名
 ベッテル	Bettel	人名
 ガビスベッテル	Gavis Bettel	人名
-ガゔィス	Gavis	人名
+ガヴィス	Gavis	人名
 ：ガビスベッテル	🎩	名詞
 ：ガビス	🎩	名詞
 ：ベッテル	🎩	名詞
-：ガゔィス	🎩	名詞
+：ガヴィス	🎩	名詞
 ＃ガビスベッテル	#BettelBeThere	名詞	生放送
 ＃ガビスベッテル	#Bettelful	名詞	ファンアート
 ＃ガビスベッテル	#BettelCallLol	名詞	memes
@@ -3414,18 +3414,18 @@
 ＃ベッテル	#Bettelful	名詞	ファンアート
 ＃ベッテル	#BettelCallLol	名詞	memes
 ＃ベッテル	#ABettelProduction	名詞	切り抜き
-＃ガゔィス	#BettelBeThere	名詞	生放送
-＃ガゔィス	#Bettelful	名詞	ファンアート
-＃ガゔィス	#BettelCallLol	名詞	memes
-＃ガゔィス	#ABettelProduction	名詞	切り抜き
+＃ガヴィス	#BettelBeThere	名詞	生放送
+＃ガヴィス	#Bettelful	名詞	ファンアート
+＃ガヴィス	#BettelCallLol	名詞	memes
+＃ガヴィス	#ABettelProduction	名詞	切り抜き
 ～ガビスベッテル	Bettelion	名詞
 ～ガビス	Bettelion	名詞
 ～ベッテル	Bettelion	名詞
-～ガゔィス	Bettelion	名詞
+～ガヴィス	Bettelion	名詞
 ＠ガビスベッテル	@gavisbettel	名詞
 ＠ガビス	@gavisbettel	名詞
 ＠ベッテル	@gavisbettel	名詞
-＠ガゔィス	@gavisbettel	名詞
+＠ガヴィス	@gavisbettel	名詞
 マキナ	Machina	人名
 フレオン	Flayon	人名
 マキナフレオン	Machina X Flayon	人名
