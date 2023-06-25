@@ -3104,31 +3104,15 @@
 ＠アクセルシリオス	@axelsyrios	名詞
 ＠アクセル	@axelsyrios	名詞
 ＠シリオス	@axelsyrios	名詞
-ノワールヴェスパー	NoirVesper	人名
-ノワール	Noir	人名
-ヴェスパー	Vesper	人名
-ノワールヴェスパー	Noir Vesper	人名
-：ノワールヴェスパー	📗	名詞
-：ノワール	📗	名詞
-：ヴェスパー	📗	名詞
-＃ノワールヴェスパー	#vesperONLINE	名詞	生放送
-＃ノワールヴェスパー	#VespART	名詞	ファンアート
-＃ノワールヴェスパー	#ClipNoir	名詞	切り抜き
-＃ノワールヴェスパー	#Noirgrounds	名詞	memes
-＃ノワール	#vesperONLINE	名詞	生放送
-＃ノワール	#VespART	名詞	ファンアート
-＃ノワール	#ClipNoir	名詞	切り抜き
-＃ノワール	#Noirgrounds	名詞	memes
-＃ヴェスパー	#vesperONLINE	名詞	生放送
-＃ヴェスパー	#VespART	名詞	ファンアート
-＃ヴェスパー	#ClipNoir	名詞	切り抜き
-＃ヴェスパー	#Noirgrounds	名詞	memes
-～ノワールヴェスパー	VESFRIENDS	名詞
-～ノワール	VESFRIENDS	名詞
-～ヴェスパー	VESFRIENDS	名詞
-＠ノワールヴェスパー	@noirvesper_en	名詞
-＠ノワール	@noirvesper_en	名詞
-＠ヴェスパー	@noirvesper_en	名詞
+ノワールゔェスパー	NoirVesper	人名
+ノワールゔェスパー	Noir	人名
+：ノワールゔェスパー	📗	名詞
+＃ノワールゔェスパー	#vesperONLINE	名詞	生放送
+＃ノワールゔェスパー	#VespART	名詞	ファンアート
+＃ノワールゔェスパー	#ClipNoir	名詞	切り抜き
+＃ノワールゔェスパー	#Noirgrounds	名詞	memes
+～ノワールゔェスパー	VESFRIENDS	名詞
+＠ノワールゔェスパー	@noirvesper_en	名詞
 ガビスベッテル	GavisBettel	人名
 ガビス	Gavis	人名
 ベッテル	Bettel	人名
