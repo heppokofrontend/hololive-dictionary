@@ -3,13 +3,11 @@ export const himemoriLuna: LiverData = {
   alias: [['るーなたん'], ['んなひめ', 'んな姫'], ['ひめさま', '姫様']],
   marks: ['🍬'],
   tags: [
-    '#姫森ルーナ', // 一般
-    '#なのらいぶ', // 生放送
-    '#ルーナート', // ファンアート
+    ['#姫森ルーナ', '一般／切り抜き動画'],
+    ['#なのらいぶ', '生放送'],
+    ['#ルーナート', 'ファンアート'],
   ],
-  sensitiveTags: [
-    '#セクシールーナート', // R-18アート
-  ],
+  sensitiveTags: [['#セクシールーナート', 'R-18アート']],
   fans: ['ルーナイト'],
-  twitter: ['@himemoriluna'],
+  twitter: ['@himemoriluna', ['@lunatan_nanora', '日常']],
 };

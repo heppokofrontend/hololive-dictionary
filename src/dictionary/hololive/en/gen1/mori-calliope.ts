@@ -7,7 +7,12 @@ export const moriCalliope: LiverData = {
     ['かりおぺ', 'Calliope'],
   ],
   marks: ['💀'],
-  tags: ['#callillust', '#calliolive', '#callioP '],
+  tags: [
+    ['#calliolive', '配信タグ(英)'],
+    ['#カリオライブ', '配信タグ(日)'],
+    ['#callillust', 'ファンアート(英)'],
+    ['#カリイラスト', 'ファンアート(日)'],
+  ],
   fans: ['Dead Beats', 'デッドビーツ'],
   twitter: ['@moricalliope'],
   others: [

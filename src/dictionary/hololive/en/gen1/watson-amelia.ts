@@ -7,7 +7,10 @@ export const watsonAmelia: LiverData = {
     ['わとそんあめりあ', 'Watson Amelia'],
   ],
   marks: ['🔎'],
-  tags: ['#amelive', '#ameliaRT', '#teamates'],
+  tags: [
+    ['#amelive', '配信タグ'],
+    ['#ameliaRT', 'ファンアート'],
+  ],
   fans: ['teamates'],
   twitter: ['@watsonameliaEN'],
 };
