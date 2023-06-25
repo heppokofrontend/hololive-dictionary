@@ -8,7 +8,10 @@ export const tsukumoSana: LiverData = {
     ['つくもさな', 'Speaker of "Space"'],
   ],
   marks: ['🪐'],
-  tags: ['#galaxillust', '#SanaLanding'],
+  tags: [
+    ['#SanaLanding', '配信タグ'],
+    ['#galaxillust', 'ファンアート'],
+  ],
   fans: ['Sanallite'],
   twitter: ['@tsukumosana'],
   others: [
@@ -18,4 +21,7 @@ export const tsukumoSana: LiverData = {
     ['ほろぎかい', 'Council'],
     ['ほろぎかい', 'Hololive English -議会-'],
   ],
+  flags: {
+    isActive: false,
+  },
 };

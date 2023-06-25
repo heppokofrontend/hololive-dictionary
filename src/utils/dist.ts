@@ -71,7 +71,9 @@ export const dist = (argWordSet: WordSet[], fileName: string) => {
     .join('\n');
   fs.writeFileSync(
     path.join(dictionary, 'mac', `mac-ime-dict--${fileName}.txt`),
-    CSV.replace(/,名詞$/gm, ',普通名詞').replace(/'/g, ''), // 'があるとmacOSは読み込めない
+    CSV.replace(/,名詞,/gm, ',普通名詞,')
+      .replace(/,名詞$/gm, ',普通名詞')
+      .replace(/'/g, ''), // 'があるとmacOSは読み込めない
   );
 
   // Win標準向け辞書データの書き出し

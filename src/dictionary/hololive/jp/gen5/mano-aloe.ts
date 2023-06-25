@@ -3,8 +3,8 @@ export const manoAloe: LiverData = {
   alias: [['まのあろ']],
   marks: ['👅'],
   tags: [
-    '#まのあろ絵', // ファンアート
-    '#魔のライブ', // 生放送
+    ['#まのあろ絵', 'ファンアート'],
+    ['#魔のライブ', '生放送'],
   ],
   fans: ['魔の友'],
   twitter: ['@manoaloe'],

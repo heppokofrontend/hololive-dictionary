@@ -4,13 +4,13 @@ export const kanadeIzuru: LiverData = {
     ['かなでいずる', '奏手イヅル'],
     ['いずる', 'イヅル'],
   ],
-  marks: [''],
+  marks: [],
   tags: [
     ['#奏手イヅル', '全般/生放送'],
     ['#イヅル描いたぞ', 'ファンアート'],
     ['#IZR_cover', 'Cover Movie'],
   ],
   sensitiveTags: [['#イヅル見るなよ', '18禁ファンアート']],
-  fans: [''],
+  fans: [],
   twitter: ['@kanadeizuru'],
 };

@@ -7,7 +7,12 @@ export const takanashiKiara: LiverData = {
     ['てんちょう', '店長'],
   ],
   marks: ['🐔'],
-  tags: ['#artsofashes', '#絵ニックス', '#kfp', '#キアライブ', '#kfpmemes'],
+  tags: [
+    ['#kfp', '配信タグ(英)'],
+    ['#キアライブ', '配信タグ(日)'],
+    ['#kfpmemes', 'ミーム'],
+    ['#KFPicasso', 'ファンアート'],
+  ],
   fans: ['KiaraFanClub'],
   twitter: ['@takanashikiara'],
   others: [['えにっくす', '絵ニックス']],
