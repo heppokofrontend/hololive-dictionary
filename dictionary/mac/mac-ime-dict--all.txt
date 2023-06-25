@@ -2174,6 +2174,102 @@ V,Vtuべｒ,普通名詞
 ＠ぱゔぉりあれいね,@pavoliareine,普通名詞
 ＠ぱゔぉりあ,@pavoliareine,普通名詞
 ＠れいね,@pavoliareine,普通名詞
+ゔぇすてぃあぜーた,VestiaZeta,人名
+ゔぇすてぃあ,Vestia,人名
+ぜーた,Zeta,人名
+ゔぇすてぃあぜーた,Vestia Zeta,人名
+：ゔぇすてぃあぜーた,📜,普通名詞
+：ゔぇすてぃあ,📜,普通名詞
+：ぜーた,📜,普通名詞
+＃ゔぇすてぃあぜーた,#VestiaZeta,名詞,一般
+＃ゔぇすてぃあぜーた,#Zecretary,名詞,ファンネーム
+＃ゔぇすてぃあぜーた,#ZecretLive,名詞,配信
+＃ゔぇすてぃあぜーた,#Zetacrylic,名詞,ファンアート
+＃ゔぇすてぃあぜーた,#Zetassets,名詞,ファンアート(素材提供)
+＃ゔぇすてぃあぜーた,#DEEZeta,名詞,ミーム
+＃ゔぇすてぃあ,#VestiaZeta,名詞,一般
+＃ゔぇすてぃあ,#Zecretary,名詞,ファンネーム
+＃ゔぇすてぃあ,#ZecretLive,名詞,配信
+＃ゔぇすてぃあ,#Zetacrylic,名詞,ファンアート
+＃ゔぇすてぃあ,#Zetassets,名詞,ファンアート(素材提供)
+＃ゔぇすてぃあ,#DEEZeta,名詞,ミーム
+＃ぜーた,#VestiaZeta,名詞,一般
+＃ぜーた,#Zecretary,名詞,ファンネーム
+＃ぜーた,#ZecretLive,名詞,配信
+＃ぜーた,#Zetacrylic,名詞,ファンアート
+＃ぜーた,#Zetassets,名詞,ファンアート(素材提供)
+＃ぜーた,#DEEZeta,名詞,ミーム
+〜ゔぇすてぃあぜーた,Zecretary,普通名詞
+〜ゔぇすてぃあぜーた,Secret Unit,普通名詞
+〜ゔぇすてぃあ,Zecretary,普通名詞
+〜ゔぇすてぃあ,Secret Unit,普通名詞
+〜ぜーた,Zecretary,普通名詞
+〜ぜーた,Secret Unit,普通名詞
+＠ゔぇすてぃあぜーた,@vestiazeta,普通名詞
+＠ゔぇすてぃあ,@vestiazeta,普通名詞
+＠ぜーた,@vestiazeta,普通名詞
+かえらこゔぁるすきあ,KaelaKovalskia,人名
+かえら,Kaela,人名
+こゔぁるすきあ,Kovalskia,人名
+かえらこゔぁるすきあ,Kaela Kovalskia,人名
+：かえらこゔぁるすきあ,🔨,普通名詞
+：かえら,🔨,普通名詞
+：こゔぁるすきあ,🔨,普通名詞
+＃かえらこゔぁるすきあ,#KaelaKovalskia,名詞,一般
+＃かえらこゔぁるすきあ,#KaelAttention,名詞,告知
+＃かえらこゔぁるすきあ,#inKaela,名詞,ファンアート
+＃かえらこゔぁるすきあ,#KaeLaugh,名詞,ミーム
+＃かえらこゔぁるすきあ,#Kaelaif,名詞,配信＆切り抜き
+＃かえらこゔぁるすきあ,#ElaOnDuty,名詞,League Streams
+＃かえらこゔぁるすきあ,#Kaelaboration,名詞,Heart-to-heart Stream
+＃かえら,#KaelaKovalskia,名詞,一般
+＃かえら,#KaelAttention,名詞,告知
+＃かえら,#inKaela,名詞,ファンアート
+＃かえら,#KaeLaugh,名詞,ミーム
+＃かえら,#Kaelaif,名詞,配信＆切り抜き
+＃かえら,#ElaOnDuty,名詞,League Streams
+＃かえら,#Kaelaboration,名詞,Heart-to-heart Stream
+＃こゔぁるすきあ,#KaelaKovalskia,名詞,一般
+＃こゔぁるすきあ,#KaelAttention,名詞,告知
+＃こゔぁるすきあ,#inKaela,名詞,ファンアート
+＃こゔぁるすきあ,#KaeLaugh,名詞,ミーム
+＃こゔぁるすきあ,#Kaelaif,名詞,配信＆切り抜き
+＃こゔぁるすきあ,#ElaOnDuty,名詞,League Streams
+＃こゔぁるすきあ,#Kaelaboration,名詞,Heart-to-heart Stream
+〜かえらこゔぁるすきあ,PEMALOE,普通名詞
+〜かえら,PEMALOE,普通名詞
+〜こゔぁるすきあ,PEMALOE,普通名詞
+＠かえらこゔぁるすきあ,@kaelakovalskia,普通名詞
+＠かえら,@kaelakovalskia,普通名詞
+＠こゔぁるすきあ,@kaelakovalskia,普通名詞
+こぼかなえる,KoboKanaeru,人名
+こぼ,Kobo,人名
+かなえる,Kanaeru,人名
+こぼかなえる,Kobo Kanaeru,人名
+：こぼかなえる,☔,普通名詞
+：こぼ,☔,普通名詞
+：かなえる,☔,普通名詞
+＃こぼかなえる,#KoboKanaeru,名詞,一般
+＃こぼかなえる,#KoboCast,名詞,告知
+＃こぼかなえる,#OnAeru,名詞,配信
+＃こぼかなえる,#AeruSeni,名詞,ファンアート
+＃こぼかなえる,#Kobobrok,名詞,ミーム
+＃こぼ,#KoboKanaeru,名詞,一般
+＃こぼ,#KoboCast,名詞,告知
+＃こぼ,#OnAeru,名詞,配信
+＃こぼ,#AeruSeni,名詞,ファンアート
+＃こぼ,#Kobobrok,名詞,ミーム
+＃かなえる,#KoboKanaeru,名詞,一般
+＃かなえる,#KoboCast,名詞,告知
+＃かなえる,#OnAeru,名詞,配信
+＃かなえる,#AeruSeni,名詞,ファンアート
+＃かなえる,#Kobobrok,名詞,ミーム
+〜こぼかなえる,Kobokerz,普通名詞
+〜こぼ,Kobokerz,普通名詞
+〜かなえる,Kobokerz,普通名詞
+＠こぼかなえる,@kobokanaeru,普通名詞
+＠こぼ,@kobokanaeru,普通名詞
+＠かなえる,@kobokanaeru,普通名詞
 おめがあるふぁ,オメガα,人名
 おめが,Omegaα,人名
 あるふぁ,Omegaα,人名
