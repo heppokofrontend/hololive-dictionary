@@ -15,6 +15,6 @@ export const manoAloe: LiverData = {
     ['まのあろえ', 'まのあろ絵'],
   ],
   flags: {
-    activity: '活動終了',
+    isActive: false,
   },
 };

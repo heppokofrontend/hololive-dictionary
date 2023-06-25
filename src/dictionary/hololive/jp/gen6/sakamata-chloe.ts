@@ -14,7 +14,4 @@ export const sakamataChloe: LiverData = {
   fans: ['飼育員'],
   twitter: ['@sakamatachloe'],
   others: [],
-  flags: {
-    activity: '活動中',
-  },
 };

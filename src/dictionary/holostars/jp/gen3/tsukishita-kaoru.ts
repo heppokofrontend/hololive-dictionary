@@ -14,6 +14,6 @@ export const tsukishitaKaoru: LiverData = {
   fans: ['FUNデーション'],
   twitter: ['@tsukishitakaoru'],
   flags: {
-    activity: '活動終了',
+    isActive: false,
   },
 };

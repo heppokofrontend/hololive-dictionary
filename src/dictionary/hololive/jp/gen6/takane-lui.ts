@@ -19,7 +19,4 @@ export const takaneLui: LiverData = {
     ['まったかね', 'まっ鷹嶺'],
     ['まったかね', '待っ鷹嶺'],
   ],
-  flags: {
-    activity: '活動中',
-  },
 };

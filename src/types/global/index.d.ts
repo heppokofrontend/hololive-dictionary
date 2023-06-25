@@ -7,19 +7,19 @@ declare type LiverData = {
   /** 推しマーク */
   marks: string[];
   /** ハッシュタグ */
-  tags: string[];
+  tags: ([string, string] | string)[];
   /** センシティブなハッシュタグ */
-  sensitiveTags?: string[];
+  sensitiveTags?: ([string, string] | string)[];
   /** ファンネーム */
   fans: string[];
   /** Twitter */
-  twitter: string[];
+  twitter: ([string, string] | string)[];
   /** 通常の変換が難しいその他の関連用語を[よみがな, 語句][]形式で */
   others?: [string, string][];
   /** メンバーの属性 */
   flags?: {
     /** 活動しているかどうか */
-    activity: '活動中' | '卒業' | '活動終了';
+    isActive: boolean;
   };
 };
 
@@ -44,5 +44,7 @@ declare namespace PartsOfSpeech {
     | '動詞';
 }
 
-/** 辞書データ１行分。[よびがな、語句、品詞] */
-declare type WordSet = [string, string, PartsOfSpeech.win];
+/** 辞書データ１行分。[よびがな、語句、品詞、メモ] */
+declare type WordSet =
+  | [string, string, PartsOfSpeech.win, string]
+  | [string, string, PartsOfSpeech.win];
