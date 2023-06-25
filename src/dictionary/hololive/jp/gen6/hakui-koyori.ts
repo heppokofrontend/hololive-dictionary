@@ -9,7 +9,4 @@ export const hakuiKoyori: LiverData = {
   fans: ['こよりの助手くん', 'こよりの助手', '助手'],
   twitter: ['@hakuikoyori'],
   others: [],
-  flags: {
-    activity: '活動中',
-  },
 };

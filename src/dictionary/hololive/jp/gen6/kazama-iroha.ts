@@ -10,7 +10,4 @@ export const kazamaIroha: LiverData = {
   fans: ['かざま隊'],
   twitter: ['@kazamairohach'],
   others: [['いろはにもえを', 'いろはにも絵を']],
-  flags: {
-    activity: '活動中',
-  },
 };

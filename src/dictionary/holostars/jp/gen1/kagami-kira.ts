@@ -14,6 +14,6 @@ export const kagamiKira: LiverData = {
   fans: ['きらりあん'],
   twitter: ['@kagamikirach'],
   flags: {
-    activity: '卒業',
+    isActive: false,
   },
 };

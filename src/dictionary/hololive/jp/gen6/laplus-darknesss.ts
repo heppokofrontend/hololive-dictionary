@@ -20,7 +20,4 @@ export const laplusDarknesss: LiverData = {
     ['ほろっくす', '秘密結社holoX'],
     ['ほろっくす', 'holoX'],
   ],
-  flags: {
-    activity: '活動中',
-  },
 };

@@ -10,6 +10,6 @@ export const yakushijiSuzaku: LiverData = {
   fans: ['ヤクナー'],
   twitter: ['@YakushijiSuzaku'],
   flags: {
-    activity: '活動終了',
+    isActive: false,
   },
 };
