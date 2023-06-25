@@ -1,5 +1,5 @@
 export const moonaHoshinova: LiverData = {
-  name: ['むーな ほしのゔぁ', 'Moona Hoshinova'],
+  name: ['むーな ほしのヴぁ', 'Moona Hoshinova'],
   alias: [],
   marks: ['🔮'],
   tags: [

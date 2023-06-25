@@ -1,5 +1,5 @@
 export const vestiaZeta: LiverData = {
-  name: ['ゔぇすてぃあ ぜーた', 'Vestia Zeta'],
+  name: ['ヴぇすてぃあ ぜーた', 'Vestia Zeta'],
   alias: [['', '']],
   marks: ['📜'],
   tags: [

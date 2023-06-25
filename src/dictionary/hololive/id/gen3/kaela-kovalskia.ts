@@ -1,5 +1,5 @@
 export const kaelaKovalskia: LiverData = {
-  name: ['かえら こゔぁるすきあ', 'Kaela Kovalskia'],
+  name: ['かえら こヴぁるすきあ', 'Kaela Kovalskia'],
   alias: [['', '']],
   marks: ['🔨'],
   tags: [
