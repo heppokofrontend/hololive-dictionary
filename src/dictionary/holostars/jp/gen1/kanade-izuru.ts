@@ -6,14 +6,11 @@ export const kanadeIzuru: LiverData = {
   ],
   marks: [''],
   tags: [
-    '#奏手イヅル', // 全般
-    '#奏手イヅル', // 生放送
-    '#イヅル描いたぞ', // ファンアート
-    '#IZR_cover', // Cover Movie
+    ['#奏手イヅル', '全般/生放送'],
+    ['#イヅル描いたぞ', 'ファンアート'],
+    ['#IZR_cover', 'Cover Movie'],
   ],
-  sensitiveTags: [
-    '#イヅル見るなよ', // 18禁ファンアート
-  ],
+  sensitiveTags: [['#イヅル見るなよ', '18禁ファンアート']],
   fans: [''],
   twitter: ['@kanadeizuru'],
 };
