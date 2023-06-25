@@ -3129,3 +3129,117 @@
 ＠ノワールヴェスパー	@noirvesper_en	名詞
 ＠ノワール	@noirvesper_en	名詞
 ＠ヴェスパー	@noirvesper_en	名詞
+ガビスベッテル	GavisBettel	人名
+ガビス	Gavis	人名
+ベッテル	Bettel	人名
+ガビスベッテル	Gavis Bettel	人名
+ガゔィス	Gavis	人名
+：ガビスベッテル	🎩	名詞
+：ガビス	🎩	名詞
+：ベッテル	🎩	名詞
+：ガゔィス	🎩	名詞
+＃ガビスベッテル	#BettelBeThere	名詞	生放送
+＃ガビスベッテル	#Bettelful	名詞	ファンアート
+＃ガビスベッテル	#BettelCallLol	名詞	memes
+＃ガビスベッテル	#ABettelProduction	名詞	切り抜き
+＃ガビス	#BettelBeThere	名詞	生放送
+＃ガビス	#Bettelful	名詞	ファンアート
+＃ガビス	#BettelCallLol	名詞	memes
+＃ガビス	#ABettelProduction	名詞	切り抜き
+＃ベッテル	#BettelBeThere	名詞	生放送
+＃ベッテル	#Bettelful	名詞	ファンアート
+＃ベッテル	#BettelCallLol	名詞	memes
+＃ベッテル	#ABettelProduction	名詞	切り抜き
+＃ガゔィス	#BettelBeThere	名詞	生放送
+＃ガゔィス	#Bettelful	名詞	ファンアート
+＃ガゔィス	#BettelCallLol	名詞	memes
+＃ガゔィス	#ABettelProduction	名詞	切り抜き
+～ガビスベッテル	Bettelion	名詞
+～ガビス	Bettelion	名詞
+～ベッテル	Bettelion	名詞
+～ガゔィス	Bettelion	名詞
+＠ガビスベッテル	@gavisbettel	名詞
+＠ガビス	@gavisbettel	名詞
+＠ベッテル	@gavisbettel	名詞
+＠ガゔィス	@gavisbettel	名詞
+マキナ	Machina	人名
+フレオン	Flayon	人名
+マキナフレオン	Machina X Flayon	人名
+：マキナ	🪫	名詞
+：フレオン	🪫	名詞
+：マキナフレオン	🪫	名詞
+＃マキナ	#FlayOnAir	名詞	生放送
+＃マキナ	#FlayonsCrayons	名詞	ファンアート
+＃マキナ	#MachironiXCheese	名詞	memes
+＃マキナ	#FlayOnWords	名詞	切り抜き
+＃フレオン	#FlayOnAir	名詞	生放送
+＃フレオン	#FlayonsCrayons	名詞	ファンアート
+＃フレオン	#MachironiXCheese	名詞	memes
+＃フレオン	#FlayOnWords	名詞	切り抜き
+＃マキナフレオン	#FlayOnAir	名詞	生放送
+＃マキナフレオン	#FlayonsCrayons	名詞	ファンアート
+＃マキナフレオン	#MachironiXCheese	名詞	memes
+＃マキナフレオン	#FlayOnWords	名詞	切り抜き
+～マキナ	Machiroons	名詞
+～フレオン	Machiroons	名詞
+～マキナフレオン	Machiroons	名詞
+＠マキナ	@machinaxflayon	名詞
+＠フレオン	@machinaxflayon	名詞
+＠マキナフレオン	@machinaxflayon	名詞
+マンショウインハッカ	万象院ハッカ	人名
+マンショウイン	万象院	人名
+ハッカ	ハッカ	人名
+マンショウイン	Banzoin	人名
+ハッカ	Hakka	人名
+マンショウインハッカ	Banzoin Hakka	人名
+：マンショウインハッカ	🔅	名詞
+：マンショウイン	🔅	名詞
+：ハッカ	🔅	名詞
+＃マンショウインハッカ	#Hakkast	名詞	生放送
+＃マンショウインハッカ	#PIHAKKASSO	名詞	ファンアート
+＃マンショウインハッカ	#HakHakHak	名詞	memes
+＃マンショウインハッカ	#Hakkasings	名詞	歌
+＃マンショウインハッカ	#Tengunails	名詞	サムネイル
+＃マンショウイン	#Hakkast	名詞	生放送
+＃マンショウイン	#PIHAKKASSO	名詞	ファンアート
+＃マンショウイン	#HakHakHak	名詞	memes
+＃マンショウイン	#Hakkasings	名詞	歌
+＃マンショウイン	#Tengunails	名詞	サムネイル
+＃ハッカ	#Hakkast	名詞	生放送
+＃ハッカ	#PIHAKKASSO	名詞	ファンアート
+＃ハッカ	#HakHakHak	名詞	memes
+＃ハッカ	#Hakkasings	名詞	歌
+＃ハッカ	#Tengunails	名詞	サムネイル
+～マンショウインハッカ	Hakkitos	名詞
+～マンショウイン	Hakkitos	名詞
+～ハッカ	Hakkitos	名詞
+＠マンショウインハッカ	@banzoinhakka	名詞
+＠マンショウイン	@banzoinhakka	名詞
+＠ハッカ	@banzoinhakka	名詞
+ジョウスイジシンリ	定水寺シンリ	人名
+ジョウスイジ	定水寺	人名
+シンリ	シンリ	人名
+ジョウスイジ	Josuiji	人名
+シンリ	Shinri	人名
+ジョウスイジシンリ	Josuiji Shinri	人名
+：ジョウスイジシンリ	🏹	名詞
+：ジョウスイジ	🏹	名詞
+：シンリ	🏹	名詞
+＃ジョウスイジシンリ	#Streamri	名詞	生放送
+＃ジョウスイジシンリ	#JosuijiArt	名詞	ファンアート
+＃ジョウスイジシンリ	#Jokesuiji	名詞	memes
+＃ジョウスイジシンリ	#ShinriTakeThis	名詞	素材
+＃ジョウスイジ	#Streamri	名詞	生放送
+＃ジョウスイジ	#JosuijiArt	名詞	ファンアート
+＃ジョウスイジ	#Jokesuiji	名詞	memes
+＃ジョウスイジ	#ShinriTakeThis	名詞	素材
+＃シンリ	#Streamri	名詞	生放送
+＃シンリ	#JosuijiArt	名詞	ファンアート
+＃シンリ	#Jokesuiji	名詞	memes
+＃シンリ	#ShinriTakeThis	名詞	素材
+～ジョウスイジシンリ	ComfyKois	名詞
+～ジョウスイジ	ComfyKois	名詞
+～シンリ	ComfyKois	名詞
+＠ジョウスイジシンリ	@josuijishinri	名詞
+＠ジョウスイジ	@josuijishinri	名詞
+＠シンリ	@josuijishinri	名詞
