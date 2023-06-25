@@ -4,19 +4,12 @@ export const ninomaeInanis: LiverData = {
     ['いな', 'イナ'],
     ['たこ', 'Tako'],
     ['にのまえ', 'Ninomae'],
-    ['いなにす', 'Ina\'nis'],
-    ['にのまえいなにす', 'Ninomae Ina\'nis'],
+    ['いなにす', "Ina'nis"],
+    ['にのまえいなにす', "Ninomae Ina'nis"],
   ],
   marks: ['🐙'],
-  tags: [
-    '#TAKOTIME',
-    '#タコタイム',
-    '#inART',
-    '#いなート',
-  ],
+  tags: ['#TAKOTIME', '#タコタイム', '#inART', '#いなート'],
   fans: ['Takodachi'],
   twitter: ['@ninomaeinanis'],
-  others: [
-    ['いなーと', 'いなート'],
-  ],
+  others: [['いなーと', 'いなート']],
 };

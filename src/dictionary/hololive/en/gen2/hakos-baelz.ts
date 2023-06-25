@@ -8,15 +8,8 @@ export const hakosBaelz: LiverData = {
     ['はこすべーるず', 'Chaos'],
   ],
   marks: ['🎲'],
-  tags: [
-    '#enterbaelz',
-    '#ベール登場',
-    '#illustrayBAE',
-    '#ベーアート',
-    '#MADDOOFS',
-  ],
+  tags: ['#enterbaelz', '#ベール登場', '#illustrayBAE', '#ベーアート', '#MADDOOFS'],
   fans: ['BAERATS'],
   twitter: ['@hakosbaelz'],
-  others: [
-  ],
+  others: [],
 };

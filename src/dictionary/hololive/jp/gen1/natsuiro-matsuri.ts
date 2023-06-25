@@ -1,8 +1,6 @@
 export const natsuiroMatsuri: LiverData = {
   name: ['なついろ まつり', '夏色 まつり'],
-  alias: [
-    ['', ''],
-  ],
+  alias: [['', '']],
   marks: ['🏮'],
   tags: [
     '#祭絵', // ファンアート（読みは「さいかい」）
@@ -18,7 +16,5 @@ export const natsuiroMatsuri: LiverData = {
   ],
   fans: ['まつりす'],
   twitter: ['@natsuiromatsuri', '@7216_2nd'],
-  others: [
-    ['さいかい', '祭絵'],
-  ],
+  others: [['さいかい', '祭絵']],
 };

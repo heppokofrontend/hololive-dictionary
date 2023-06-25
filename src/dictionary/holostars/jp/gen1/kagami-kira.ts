@@ -1,8 +1,6 @@
 export const kagamiKira: LiverData = {
   name: ['かがみ きら', '鏡見 キラ'],
-  alias: [
-    ['', ''],
-  ],
+  alias: [['', '']],
   marks: ['🎸'],
   tags: [
     '#鏡見キラ', // 全般

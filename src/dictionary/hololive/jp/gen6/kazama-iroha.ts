@@ -1,8 +1,6 @@
 export const kazamaIroha: LiverData = {
   name: ['かざま いろは', '風真 いろは'],
-  alias: [
-    ['さむらい'],
-  ],
+  alias: [['さむらい']],
   marks: ['🍃'],
   tags: [
     '#かざま修行中', // 生放送
@@ -11,9 +9,7 @@ export const kazamaIroha: LiverData = {
   ],
   fans: ['かざま隊'],
   twitter: ['@kazamairohach'],
-  others: [
-    ['いろはにもえを', 'いろはにも絵を'],
-  ],
+  others: [['いろはにもえを', 'いろはにも絵を']],
   flags: {
     activity: '活動中',
   },

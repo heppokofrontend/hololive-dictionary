@@ -1,8 +1,6 @@
 export const hoshimachiSuisei: LiverData = {
   name: ['ほしまち すいせい', '星街 すいせい'],
-  alias: [
-    ['すいちゃん'],
-  ],
+  alias: [['すいちゃん']],
   marks: ['☄️'],
   tags: [
     '#星街すいせい', // 一般

@@ -1,8 +1,6 @@
 export const hanasakiMiyabi: LiverData = {
   name: ['はなさき みやび', '花咲 みやび'],
-  alias: [
-    ['', ''],
-  ],
+  alias: [['', '']],
   marks: ['🌺'],
   tags: [
     '#花咲みやび', // 全般

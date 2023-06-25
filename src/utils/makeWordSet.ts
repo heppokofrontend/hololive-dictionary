@@ -1,6 +1,5 @@
-
 type Options = {
-  noSensitive?: boolean,
+  noSensitive?: boolean;
 };
 
 /**
@@ -11,7 +10,12 @@ type Options = {
  * @param prefix - 変換時に使うプレフィックス記号
  * @returns - 辞書データのまとまり
  */
-const compile = (yomiSet: string[] = [], kakiSet: string[] = [], type: PartsOfSpeech.win, prefix: string = '') => {
+const compile = (
+  yomiSet: string[] = [],
+  kakiSet: string[] = [],
+  type: PartsOfSpeech.win,
+  prefix: string = '',
+) => {
   const result: WordSet[] = [];
 
   for (const yomi of yomiSet) {
@@ -20,11 +24,7 @@ const compile = (yomiSet: string[] = [], kakiSet: string[] = [], type: PartsOfSp
     }
 
     for (const kaki of kakiSet) {
-      result.push([
-        `${prefix}${yomi}`,
-        kaki,
-        type,
-      ]);
+      result.push([`${prefix}${yomi}`, kaki, type]);
     }
   }
 
@@ -41,17 +41,7 @@ export const makeWordSet = (argDict: LiverData[], argOptions: Options = {}) => {
       noSensitive: false,
       ...argOptions,
     };
-    const {
-      name,
-      alias,
-      marks,
-      tags,
-      fans,
-      sensitiveTags,
-      twitter,
-      others,
-      flags,
-    } = data;
+    const { name, alias, marks, tags, fans, sensitiveTags, twitter, others, flags } = data;
     /** １人分の辞書データのまとまり */
     const wordsets: WordSet[] = [];
     /** 名前の読みと書き。各変換のよみとして利用される */
@@ -97,7 +87,7 @@ export const makeWordSet = (argDict: LiverData[], argOptions: Options = {}) => {
     }
 
     return wordsets;
-  })
+  });
 
   // ネストを解除し、読みと語句（書き）が揃っている物だけにフィルタする
   return dictionaryData.flat().filter(([yomi, kaki]) => !!yomi && !!kaki);

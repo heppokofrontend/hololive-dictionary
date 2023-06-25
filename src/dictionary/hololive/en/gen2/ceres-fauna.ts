@@ -8,13 +8,8 @@ export const ceresFauna: LiverData = {
     ['せれすふぁうな', 'Keeper of "Nature"'],
   ],
   marks: ['🌿'],
-  tags: [
-    '#faunline',
-    '#FineFaunart',
-    '#Saplings',
-  ],
+  tags: ['#faunline', '#FineFaunart', '#Saplings'],
   fans: ['Saplings'],
   twitter: ['@ceresfauna'],
-  others: [
-  ],
+  others: [],
 };

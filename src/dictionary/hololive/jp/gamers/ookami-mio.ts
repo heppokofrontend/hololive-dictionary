@@ -1,9 +1,6 @@
 export const ookamiMio: LiverData = {
   name: ['おおかみ みお', '大神 ミオ'],
-  alias: [
-    ['みおしゃ'],
-    ['みおまま', 'ミオママ'],
-  ],
+  alias: [['みおしゃ'], ['みおまま', 'ミオママ']],
   marks: ['🌲'],
   tags: [
     '#みおーん絵', // ファンアート
@@ -15,7 +12,5 @@ export const ookamiMio: LiverData = {
   ],
   fans: ['みおーんファミリー', 'ミオファ'],
   twitter: ['@ookamimio'],
-  others: [
-    ['みおーんえ', 'みおーん絵'],
-  ],
+  others: [['みおーんえ', 'みおーん絵']],
 };

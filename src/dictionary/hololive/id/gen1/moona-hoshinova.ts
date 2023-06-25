@@ -1,8 +1,6 @@
 export const moonaHoshinova: LiverData = {
   name: ['むーな ほしのゔぁ', 'Moona Hoshinova'],
-  alias: [
-    ['ぶちょう', '部長'],
-  ],
+  alias: [['ぶちょう', '部長']],
   marks: ['🔮'],
   tags: [
     '#Moona_LiveSchedule',

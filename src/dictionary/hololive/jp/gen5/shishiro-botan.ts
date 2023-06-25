@@ -1,8 +1,6 @@
 export const shishiroBotan: LiverData = {
   name: ['ししろ ぼたん', '獅白 ぼたん'],
-  alias: [
-    ['ししろん'],
-  ],
+  alias: [['ししろん']],
   marks: ['♌'],
   tags: [
     '#ぐうたらいぶ', // 配信タグ・切り抜き
@@ -12,7 +10,5 @@ export const shishiroBotan: LiverData = {
   ],
   fans: ['SSRB', 'ししろぼ団'],
   twitter: ['@shishirobotan'],
-  others: [
-    ['たいば', '大葉'],
-  ],
+  others: [['たいば', '大葉']],
 };

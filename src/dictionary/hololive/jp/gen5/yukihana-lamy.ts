@@ -1,8 +1,6 @@
 export const yukihanaLamy: LiverData = {
   name: ['ゆきはな らみぃ', '雪花 ラミィ'],
-  alias: [
-    ['', ''],
-  ],
+  alias: [['', '']],
   marks: ['☃️'],
   tags: [
     '#雪花ラミィ', // 一般
@@ -14,7 +12,5 @@ export const yukihanaLamy: LiverData = {
   ],
   fans: ['雪民'],
   twitter: ['@yukihanalamy'],
-  others: [
-    ['ゆきみん', '雪民'],
-  ],
+  others: [['ゆきみん', '雪民']],
 };

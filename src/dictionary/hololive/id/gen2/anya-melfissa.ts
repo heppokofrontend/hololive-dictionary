@@ -1,15 +1,8 @@
 export const anyaMelfissa: LiverData = {
   name: ['あーにゃ めるふぃっさ', 'Anya Melfissa'],
-  alias: [
-    ['', ''],
-  ],
+  alias: [['', '']],
   marks: ['🍂'],
-  tags: [
-    '#Anya_Melfissa',
-    '#anyatelier',
-    '#Melfriends',
-    '#Liveissa',
-  ],
+  tags: ['#Anya_Melfissa', '#anyatelier', '#Melfriends', '#Liveissa'],
   fans: ['Melfriends'],
   twitter: ['@anyamelfissa'],
 };

@@ -1,8 +1,6 @@
 export const kageyamaShien: LiverData = {
   name: ['かげやま しえん', '影山シエン'],
-  alias: [
-    ['', ''],
-  ],
+  alias: [['', '']],
   marks: ['🟣'],
   tags: [
     '#影山シエン', // 全般

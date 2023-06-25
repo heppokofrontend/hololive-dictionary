@@ -1,8 +1,6 @@
 export const robocosan: LiverData = {
   name: ['ろぼこ さん', 'ロボ子 さん'],
-  alias: [
-    ['', ''],
-  ],
+  alias: [['', '']],
   marks: ['🤖'],
   tags: [
     '#robo_co', // 公式

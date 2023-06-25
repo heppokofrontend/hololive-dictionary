@@ -1,5 +1,3 @@
-import { irys } from "./irys";
+import { irys } from './irys';
 
-export const hololiveEnGen1_5 = [
-  irys,
-];
+export const hololiveEnGen1_5 = [irys];

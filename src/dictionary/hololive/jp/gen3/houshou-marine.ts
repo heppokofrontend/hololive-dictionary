@@ -16,7 +16,5 @@ export const houshouMarine: LiverData = {
   ],
   fans: ['宝鐘の一味'],
   twitter: ['@houshoumarine'],
-  others: [
-    ['あほい', 'Ahoy'],
-  ],
+  others: [['あほい', 'Ahoy']],
 };

@@ -8,13 +8,8 @@ export const nanashiMumei: LiverData = {
     ['ななしむめい', 'Guardian of "Civilization"'],
   ],
   marks: ['🪶'],
-  tags: [
-    '#watchMEI',
-    '#drawMEI',
-    '#memeMEI',
-  ],
+  tags: ['#watchMEI', '#drawMEI', '#memeMEI'],
   fans: ['Hoomans'],
   twitter: ['@nanashimumei_en'],
-  others: [
-  ],
+  others: [],
 };
