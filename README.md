@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/6637993/124358896-5b7e3880-dc5d-11eb-8
 | まきなふれおん   | Machina X Flayon |
 | やごー           | YAGOO            |
 
-[単語の一覧はこちら](./LIST.md)（めちゃくちゃ長いのでご注意ください）。
+[単語の一覧はこちら](./WORD_LIST.md)（めちゃくちゃ長いのでご注意ください）。
 
 ## 単語の追加・修正リクエスト
 

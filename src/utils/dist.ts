@@ -86,7 +86,7 @@ export const dist = (argWordSet: WordSet[], fileName: string) => {
     .join('\n')
     .replace(/〜/g, '～');
 
-  fs.writeFileSync(path.join(__dirname, '..', '..', `list.md`), list);
+  fs.writeFileSync(path.join(__dirname, '..', '..', `WORD_LIST.md`), list);
 
   // Mac向け辞書データの書き出し
   const CSV = addHalfWidthPattern(
