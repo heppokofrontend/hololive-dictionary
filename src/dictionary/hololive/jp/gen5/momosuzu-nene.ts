@@ -17,7 +17,7 @@ export const momosuzuNene: LiverData = {
   fans: ['ねっ子'],
   twitter: ['@momosuzunene', ['@_nenechidayo', 'サブ']],
   others: [
-    ['ｖ', 'Vtuべｒ'],
+    ['v', 'Vtuべｒ'],
     ['ねっこ', 'ねっ子'],
     ['ねぽらぼ', 'ねぽらぼ'],
     ['おーれんず', "O'riends"],

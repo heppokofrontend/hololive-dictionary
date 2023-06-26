@@ -4,7 +4,6 @@ export const takanashiKiara: LiverData = {
     ['たかなし', 'Takanashi'],
     ['きあら', 'Kiara'],
     ['たかなしきあら', 'Takanashi Kiara'],
-    ['てんちょう', '店長'],
   ],
   marks: ['🐔'],
   tags: [

@@ -90,7 +90,7 @@ export const makeWordSet = (argDict: LiverData[], argOptions: Options = {}) => {
       }
     }
 
-    // 重複を削除
+    // 読み書きが同一のものを削除
     return wordsets.filter(([yomi, kaki]) => {
       return yomi !== kaki;
     });

@@ -13,4 +13,5 @@ export const shiranuiFlare: LiverData = {
   ],
   fans: ['エルフレンド', 'エルフレ'],
   twitter: ['@shiranuiflare', ['@fuu_tan_sub', 'サブアカウント']],
+  others: [['しらけん', 'しら建']],
 };
