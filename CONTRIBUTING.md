@@ -19,15 +19,25 @@
 
 その名詞で最初に登場する配信者の`.ts`ファイルの`others`に記述します。
 
-- ねぽらぼ　→　momosuzu-nene.ts
-- 紫龍組　→　murasaki-shion.ts
+- ねぽらぼ　 → 　 momosuzu-nene.ts
+- 紫龍組　 → 　 murasaki-shion.ts
 
 名前が明示的に登場しない場合は、デビューが早い配信者の`.ts`ファイルの`others`に記述します。
 
-- 同居ーず　→　hoshimachi-suisei.ts
-- バカタレ共　→　shirakami-fubuki.ts
+- 同居ーず　 → 　 hoshimachi-suisei.ts
+- バカタレ共　 → 　 shirakami-fubuki.ts
 
 ※ 名前などについては他の項目の変換元に利用されるためその限りではないですが、基本的には変換が難しいもののみを管理します。
+
+### アルファベットで検索する用語
+
+例：
+
+- `ｍｙｔｈ` -> `myth`
+- `ｔｍｔ` -> `tmt`
+
+Windows ではアルファベットの大文字小文字を区別しないため、データ内では全角小文字統一で登録します。  
+出力時は macOS 向けのときのみ全角に変換し、1 文字目を大文字のパターンを追加します。
 
 ## pull request
 

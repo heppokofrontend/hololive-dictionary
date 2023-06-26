@@ -1,6 +1,6 @@
 export const yukihanaLamy: LiverData = {
   name: ['ゆきはな らみぃ', '雪花 ラミィ'],
-  alias: [],
+  alias: [['らみい']],
   marks: ['☃️'],
   tags: [
     ['#雪花ラミィ', '一般'],

@@ -3,6 +3,7 @@ export const hakosBaelz: LiverData = {
   alias: [
     ['はこす', 'Hakos'],
     ['べーるず', 'Baelz'],
+    ['べー', 'Bae'],
     ['はこすべーるず', 'Hakos Baelz'],
     ['はこすべーるず', 'カオス'],
     ['はこすべーるず', 'Chaos'],

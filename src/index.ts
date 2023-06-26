@@ -1,4 +1,4 @@
-import { dictionary } from './dictionary/all';
+import { dictionary } from './dictionary';
 import { makeWordSet } from './utils/makeWordSet';
 import { dist } from './utils/dist';
 

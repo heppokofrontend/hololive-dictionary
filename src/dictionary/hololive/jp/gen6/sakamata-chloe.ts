@@ -1,9 +1,6 @@
 export const sakamataChloe: LiverData = {
   name: ['さかまた くろえ', '沙花叉 クロヱ'],
-  alias: [
-    ['くろたん', 'クロたん'],
-    ['しんじん', 'しんじん'],
-  ],
+  alias: [],
   marks: ['🎣'],
   tags: [
     ['#またまたさかまた', '配信タグ'],
@@ -12,5 +9,5 @@ export const sakamataChloe: LiverData = {
   ],
   fans: ['飼育員'],
   twitter: ['@sakamatachloe'],
-  others: [],
+  others: [['くろたん', 'クロたん']],
 };

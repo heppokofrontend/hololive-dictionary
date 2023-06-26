@@ -1,6 +1,6 @@
 export const minatoAqua: LiverData = {
   name: ['みなと あくあ', '湊 あくあ'],
-  alias: [['あくたん'], ['だいてんしあくあ', '大天使あくあ'], ['あくきん', 'AKUKIN']],
+  alias: [['あくたん']],
   marks: ['⚓'],
   tags: [
     ['#湊あくあ', '一般'],
@@ -13,4 +13,5 @@ export const minatoAqua: LiverData = {
   ],
   fans: ['あくあクルー'],
   twitter: ['@minatoaqua'],
+  others: [['あくきん', 'AKUKIN']],
 };
