@@ -15,5 +15,8 @@ export const houshouMarine: LiverData = {
   sensitiveTags: [['#沈没後悔日記', 'R-18アート']],
   fans: ['宝鐘の一味'],
   twitter: ['@houshoumarine'],
-  others: [['あほい', 'Ahoy']],
+  others: [
+    ['あほい', 'Ahoy'],
+    ['まざい', '魔剤'],
+  ],
 };
