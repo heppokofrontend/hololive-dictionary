@@ -1,7 +1,6 @@
 export const gawrGura: LiverData = {
   name: ['がうる ぐら', 'がうる ぐら'],
   alias: [
-    ['あ', 'ａ'],
     ['さめ', 'さめ'],
     ['さめちゃん', 'サメちゃん'],
     ['がうる', 'Gawr'],
@@ -9,7 +8,10 @@ export const gawrGura: LiverData = {
     ['がうるぐら', 'Gawr Gura'],
   ],
   marks: ['🔱'],
-  tags: ['#gawrt', '#chumbuds', '#gawrgura'],
+  tags: [
+    ['#gawrgura', '配信タグ'],
+    ['#gawrt', 'ファンアート'],
+  ],
   fans: ['chumbuds'],
   twitter: ['@gawrgura'],
 };

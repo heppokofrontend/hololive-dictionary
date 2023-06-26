@@ -13,7 +13,12 @@ export const ouroKronii: LiverData = {
     ['おうろくろにー', 'Warden of "Time"'],
   ],
   marks: ['⏳'],
-  tags: ['#kronillust', '#krotime', '#クロニーラ', '#kroniijokes'],
+  tags: [
+    ['#krotime', '配信タグ'],
+    ['#kronillust', 'ファンアート(英)'],
+    ['#クロニーラ', 'ファンアート(日)'],
+    ['#kroniijokes', 'ミーム'],
+  ],
   fans: ['Kronies'],
   twitter: ['@ourokronii'],
   others: [],

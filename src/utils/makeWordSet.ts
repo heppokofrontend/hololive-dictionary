@@ -12,7 +12,7 @@ type Options = {
  */
 const compile = (
   yomiSet: string[] = [],
-  kakiSet: string[] = [],
+  kakiSet: ([string, string] | string)[] = [],
   type: PartsOfSpeech.win,
   prefix: string = '',
 ) => {
@@ -24,7 +24,11 @@ const compile = (
     }
 
     for (const kaki of kakiSet) {
-      result.push([`${prefix}${yomi}`, kaki, type]);
+      if (typeof kaki === 'string') {
+        result.push([`${prefix}${yomi}`, kaki, type]);
+      } else {
+        result.push([`${prefix}${yomi}`, kaki[0], type, kaki[1]]);
+      }
     }
   }
 
@@ -86,7 +90,10 @@ export const makeWordSet = (argDict: LiverData[], argOptions: Options = {}) => {
       }
     }
 
-    return wordsets;
+    // 読み書きが同一のものを削除
+    return wordsets.filter(([yomi, kaki]) => {
+      return yomi !== kaki;
+    });
   });
 
   // ネストを解除し、読みと語句（書き）が揃っている物だけにフィルタする

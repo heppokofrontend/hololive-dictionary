@@ -11,7 +11,10 @@ export const hololiveEn: LiverData[] = [
       ['おめがあるふぁ', 'Omegaα'],
     ],
     marks: [],
-    tags: ['#omegallery', '#omegarchive'],
+    tags: [
+      ['#omegallery', 'ファンアート'],
+      ['#omegarchive', 'Q&A'],
+    ],
     fans: [],
     twitter: ['@omegaalpha_en'],
   },
