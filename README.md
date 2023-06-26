@@ -46,6 +46,7 @@ https://user-images.githubusercontent.com/6637993/124358896-5b7e3880-dc5d-11eb-8
 | ふれおん         | Flayon           |
 | まきなｘふれおん | Machina X Flayon |
 | まきなふれおん   | Machina X Flayon |
+| あっぷろー       | UPROAR‼︎          |
 | やごー           | YAGOO            |
 
 [単語の一覧はこちら](./WORD_LIST.md)（めちゃくちゃ長いのでご注意ください）。
