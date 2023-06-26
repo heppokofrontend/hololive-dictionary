@@ -3323,10 +3323,10 @@
 |`＠がヴぃす`|@gavisbettel||
 |`まきな`|Machina||
 |`ふれおん`|Flayon||
-|`まきなふれおん`|Machina X Flayon||
+|`まきなｘふれおん`|Machina X Flayon||
 |`：まきな`|🪫||
 |`：ふれおん`|🪫||
-|`：まきなふれおん`|🪫||
+|`：まきなｘふれおん`|🪫||
 |`＃まきな`|#FlayOnAir|生放送|
 |`＃まきな`|#FlayonsCrayons|ファンアート|
 |`＃まきな`|#MachironiXCheese|memes|
@@ -3335,16 +3335,17 @@
 |`＃ふれおん`|#FlayonsCrayons|ファンアート|
 |`＃ふれおん`|#MachironiXCheese|memes|
 |`＃ふれおん`|#FlayOnWords|切り抜き|
-|`＃まきなふれおん`|#FlayOnAir|生放送|
-|`＃まきなふれおん`|#FlayonsCrayons|ファンアート|
-|`＃まきなふれおん`|#MachironiXCheese|memes|
-|`＃まきなふれおん`|#FlayOnWords|切り抜き|
+|`＃まきなｘふれおん`|#FlayOnAir|生放送|
+|`＃まきなｘふれおん`|#FlayonsCrayons|ファンアート|
+|`＃まきなｘふれおん`|#MachironiXCheese|memes|
+|`＃まきなｘふれおん`|#FlayOnWords|切り抜き|
 |`～まきな`|Machiroons||
 |`～ふれおん`|Machiroons||
-|`～まきなふれおん`|Machiroons||
+|`～まきなｘふれおん`|Machiroons||
 |`＠まきな`|@machinaxflayon||
 |`＠ふれおん`|@machinaxflayon||
-|`＠まきなふれおん`|@machinaxflayon||
+|`＠まきなｘふれおん`|@machinaxflayon||
+|`まきなふれおん`|Machina X Flayon||
 |`まんしょういんはっか`|万象院ハッカ||
 |`まんしょういん`|万象院||
 |`はっか`|ハッカ||

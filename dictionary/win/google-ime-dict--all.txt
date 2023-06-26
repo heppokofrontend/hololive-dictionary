@@ -3366,10 +3366,10 @@ myth	Hololive English -Myth-	名詞
 ＠ガヴィス	@gavisbettel	名詞
 マキナ	Machina	人名
 フレオン	Flayon	人名
-マキナフレオン	Machina X Flayon	人名
+マキナｘフレオン	Machina X Flayon	人名
 ：マキナ	🪫	名詞
 ：フレオン	🪫	名詞
-：マキナフレオン	🪫	名詞
+：マキナｘフレオン	🪫	名詞
 ＃マキナ	#FlayOnAir	名詞	生放送
 ＃マキナ	#FlayonsCrayons	名詞	ファンアート
 ＃マキナ	#MachironiXCheese	名詞	memes
@@ -3378,16 +3378,17 @@ myth	Hololive English -Myth-	名詞
 ＃フレオン	#FlayonsCrayons	名詞	ファンアート
 ＃フレオン	#MachironiXCheese	名詞	memes
 ＃フレオン	#FlayOnWords	名詞	切り抜き
-＃マキナフレオン	#FlayOnAir	名詞	生放送
-＃マキナフレオン	#FlayonsCrayons	名詞	ファンアート
-＃マキナフレオン	#MachironiXCheese	名詞	memes
-＃マキナフレオン	#FlayOnWords	名詞	切り抜き
+＃マキナｘフレオン	#FlayOnAir	名詞	生放送
+＃マキナｘフレオン	#FlayonsCrayons	名詞	ファンアート
+＃マキナｘフレオン	#MachironiXCheese	名詞	memes
+＃マキナｘフレオン	#FlayOnWords	名詞	切り抜き
 ～マキナ	Machiroons	名詞
 ～フレオン	Machiroons	名詞
-～マキナフレオン	Machiroons	名詞
+～マキナｘフレオン	Machiroons	名詞
 ＠マキナ	@machinaxflayon	名詞
 ＠フレオン	@machinaxflayon	名詞
-＠マキナフレオン	@machinaxflayon	名詞
+＠マキナｘフレオン	@machinaxflayon	名詞
+マキナフレオン	Machina X Flayon	名詞
 マンショウインハッカ	万象院ハッカ	人名
 マンショウイン	万象院	人名
 ハッカ	ハッカ	人名

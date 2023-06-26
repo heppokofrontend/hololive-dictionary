@@ -3316,10 +3316,10 @@
 ＠がゔぃす,@gavisbettel,普通名詞
 まきな,Machina,人名
 ふれおん,Flayon,人名
-まきなふれおん,Machina X Flayon,人名
+まきなｘふれおん,Machina X Flayon,人名
 ：まきな,🪫,普通名詞
 ：ふれおん,🪫,普通名詞
-：まきなふれおん,🪫,普通名詞
+：まきなｘふれおん,🪫,普通名詞
 ＃まきな,#FlayOnAir,普通名詞,生放送
 ＃まきな,#FlayonsCrayons,普通名詞,ファンアート
 ＃まきな,#MachironiXCheese,普通名詞,memes
@@ -3328,16 +3328,17 @@
 ＃ふれおん,#FlayonsCrayons,普通名詞,ファンアート
 ＃ふれおん,#MachironiXCheese,普通名詞,memes
 ＃ふれおん,#FlayOnWords,普通名詞,切り抜き
-＃まきなふれおん,#FlayOnAir,普通名詞,生放送
-＃まきなふれおん,#FlayonsCrayons,普通名詞,ファンアート
-＃まきなふれおん,#MachironiXCheese,普通名詞,memes
-＃まきなふれおん,#FlayOnWords,普通名詞,切り抜き
+＃まきなｘふれおん,#FlayOnAir,普通名詞,生放送
+＃まきなｘふれおん,#FlayonsCrayons,普通名詞,ファンアート
+＃まきなｘふれおん,#MachironiXCheese,普通名詞,memes
+＃まきなｘふれおん,#FlayOnWords,普通名詞,切り抜き
 〜まきな,Machiroons,普通名詞
 〜ふれおん,Machiroons,普通名詞
-〜まきなふれおん,Machiroons,普通名詞
+〜まきなｘふれおん,Machiroons,普通名詞
 ＠まきな,@machinaxflayon,普通名詞
 ＠ふれおん,@machinaxflayon,普通名詞
-＠まきなふれおん,@machinaxflayon,普通名詞
+＠まきなｘふれおん,@machinaxflayon,普通名詞
+まきなふれおん,Machina X Flayon,普通名詞
 まんしょういんはっか,万象院ハッカ,人名
 まんしょういん,万象院,人名
 はっか,ハッカ,人名

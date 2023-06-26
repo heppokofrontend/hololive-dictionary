@@ -3,7 +3,7 @@ export const machinaXFlayon: LiverData = {
   alias: [
     ['まきな', 'Machina'],
     ['ふれおん', 'Flayon'],
-    ['まきなふれおん', 'Machina X Flayon'],
+    ['まきなｘふれおん', 'Machina X Flayon'],
   ],
   marks: ['🪫'],
   tags: [
@@ -14,4 +14,5 @@ export const machinaXFlayon: LiverData = {
   ],
   fans: ['Machiroons'],
   twitter: ['@machinaxflayon'],
+  others: [['まきなふれおん', 'Machina X Flayon']],
 };

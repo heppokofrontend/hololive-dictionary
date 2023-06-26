@@ -44,6 +44,7 @@ https://user-images.githubusercontent.com/6637993/124358896-5b7e3880-dc5d-11eb-8
 | かりおぺ         | Calliope         |
 | まきな           | Machina          |
 | ふれおん         | Flayon           |
+| まきなｘふれおん | Machina X Flayon |
 | まきなふれおん   | Machina X Flayon |
 | やごー           | YAGOO            |
 
