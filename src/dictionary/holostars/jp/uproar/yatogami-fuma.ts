@@ -10,4 +10,5 @@ export const yatogamiFuma: LiverData = {
   ],
   fans: ['憑人'],
   twitter: ['@yatogamifuma'],
+  others: [['あっぷろー', 'UPROAR‼︎']],
 };

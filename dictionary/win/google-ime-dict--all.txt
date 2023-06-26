@@ -3157,6 +3157,7 @@ myth	Hololive English -Myth-	名詞
 ＠ヤトガミフウマ	@yatogamifuma	名詞
 ＠ヤトガミ	@yatogamifuma	名詞
 ＠フウマ	@yatogamifuma	名詞
+アップロー	UPROAR‼︎	名詞
 ウツギウユウ	羽継烏有	人名
 ウツギ	羽継	人名
 ウユウ	烏有	人名
