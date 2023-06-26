@@ -67,6 +67,8 @@ export const dist = (argWordSet: WordSet[], fileName: string) => {
 
   // 登録単語一覧
   const list = [
+    '<!-- このファイルは自動生成です。生成するには build コマンドを叩いてください -->',
+    '',
     '# 登録される単語一覧',
     '',
     '⚠ WindowsとmacOSでは一部差異があります。',
