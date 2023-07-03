@@ -10,7 +10,6 @@
 ＠タニゴウ	@tanigox	名詞
 ＠モトアキ	@tanigox	名詞
 ＠ヤゴー	@tanigox	名詞
-ヤゴー	YAGOO	名詞
 オシマ	推しマ	名詞
 オシゴト	推し事	名詞
 アオガミ	青上	名詞
@@ -21,14 +20,114 @@
 トツマチ	凸待ち	名詞
 ホロライブ	Hololive	名詞
 ホロ	Hololive	名詞
+ホォ	Hololive	名詞
+holo	Hololive	名詞
+ホォィヴェ	Hololive	名詞
 ：ホロライブ	▶	名詞
 ：ホロ	▶	名詞
+：ホォ	▶	名詞
+：holo	▶	名詞
+：ホォィヴェ	▶	名詞
 ～ホロライブ	ホロリス	名詞
 ～ホロ	ホロリス	名詞
-＠ホロライブ	@hololivetv	名詞
-＠ホロライブ	@hololive_En	名詞
-＠ホロ	@hololivetv	名詞
-＠ホロ	@hololive_En	名詞
+～ホォ	ホロリス	名詞
+～holo	ホロリス	名詞
+～ホォィヴェ	ホロリス	名詞
+＠ホロライブ	@hololivetv	名詞	ホロライブプロダクション公式
+＠ホロライブ	@hololive_En	名詞	ホロライブプロダクションEN公式
+＠ホロライブ	@hololive_Id	名詞	ホロライブID公式
+＠ホロ	@hololivetv	名詞	ホロライブプロダクション公式
+＠ホロ	@hololive_En	名詞	ホロライブプロダクションEN公式
+＠ホロ	@hololive_Id	名詞	ホロライブID公式
+＠ホォ	@hololivetv	名詞	ホロライブプロダクション公式
+＠ホォ	@hololive_En	名詞	ホロライブプロダクションEN公式
+＠ホォ	@hololive_Id	名詞	ホロライブID公式
+＠holo	@hololivetv	名詞	ホロライブプロダクション公式
+＠holo	@hololive_En	名詞	ホロライブプロダクションEN公式
+＠holo	@hololive_Id	名詞	ホロライブID公式
+＠ホォィヴェ	@hololivetv	名詞	ホロライブプロダクション公式
+＠ホォィヴェ	@hololive_En	名詞	ホロライブプロダクションEN公式
+＠ホォィヴェ	@hololive_Id	名詞	ホロライブID公式
+ホロｊｐ	HololiveJP	名詞
+ホロライブｊｐ	HololiveJP	名詞
+：ホロｊｐ	▶	名詞
+：ホロライブｊｐ	▶	名詞
+＠ホロｊｐ	@hololivetv	名詞	ホロライブプロダクション公式
+＠ホロライブｊｐ	@hololivetv	名詞	ホロライブプロダクション公式
+ホロライブen	hololive English	名詞
+ホロen	HololiveEN	名詞
+ホロライブエｎ	hololive English	名詞
+ホロエｎ	HololiveEN	名詞
+ホロライブエン	hololive English	名詞
+ホロエン	HololiveEN	名詞
+ホォィヴェen	hololive English	名詞
+ホォen	HololiveEN	名詞
+ホォィヴェエｎ	hololive English	名詞
+ホォエｎ	HololiveEN	名詞
+ホォィヴェエン	hololive English	名詞
+ホォエン	HololiveEN	名詞
+hololiveen	hololive English	名詞
+holoen	hololive English	名詞
+holoen	HololiveEN	名詞
+：ホロライブen	▶	名詞
+：ホロen	▶	名詞
+：ホロライブエｎ	▶	名詞
+：ホロエｎ	▶	名詞
+：ホロライブエン	▶	名詞
+：ホロエン	▶	名詞
+：ホォィヴェen	▶	名詞
+：ホォen	▶	名詞
+：ホォィヴェエｎ	▶	名詞
+：ホォエｎ	▶	名詞
+：ホォィヴェエン	▶	名詞
+：ホォエン	▶	名詞
+：hololiveen	▶	名詞
+：holoen	▶	名詞
+＠ホロライブen	@hololive_En	名詞
+＠ホロen	@hololive_En	名詞
+＠ホロライブエｎ	@hololive_En	名詞
+＠ホロエｎ	@hololive_En	名詞
+＠ホロライブエン	@hololive_En	名詞
+＠ホロエン	@hololive_En	名詞
+＠ホォィヴェen	@hololive_En	名詞
+＠ホォen	@hololive_En	名詞
+＠ホォィヴェエｎ	@hololive_En	名詞
+＠ホォエｎ	@hololive_En	名詞
+＠ホォィヴェエン	@hololive_En	名詞
+＠ホォエン	@hololive_En	名詞
+＠hololiveen	@hololive_En	名詞
+＠holoen	@hololive_En	名詞
+ホロライブid	hololive Indonesia	名詞
+ホロid	HololiveID	名詞
+ホロライブイｄ	hololive Indonesia	名詞
+ホロイｄ	HololiveID	名詞
+ホォィヴェid	hololive Indonesia	名詞
+ホォid	HololiveID	名詞
+ホォィヴェイｄ	hololive Indonesia	名詞
+ホォイｄ	HololiveID	名詞
+hololiveid	hololive Indonesia	名詞
+holoid	hololive Indonesia	名詞
+holoid	HololiveID	名詞
+：ホロライブid	▶	名詞
+：ホロid	▶	名詞
+：ホロライブイｄ	▶	名詞
+：ホロイｄ	▶	名詞
+：ホォィヴェid	▶	名詞
+：ホォid	▶	名詞
+：ホォィヴェイｄ	▶	名詞
+：ホォイｄ	▶	名詞
+：hololiveid	▶	名詞
+：holoid	▶	名詞
+＠ホロライブid	@hololive_Id	名詞
+＠ホロid	@hololive_Id	名詞
+＠ホロライブイｄ	@hololive_Id	名詞
+＠ホロイｄ	@hololive_Id	名詞
+＠ホォィヴェid	@hololive_Id	名詞
+＠ホォid	@hololive_Id	名詞
+＠ホォィヴェイｄ	@hololive_Id	名詞
+＠ホォイｄ	@hololive_Id	名詞
+＠hololiveid	@hololive_Id	名詞
+＠holoid	@hololive_Id	名詞
 ユウジンエー	友人A	人名
 エーチャン	Aちゃん	人名
 ：ユウジンエー	👓	名詞

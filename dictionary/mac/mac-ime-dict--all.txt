@@ -10,7 +10,6 @@
 ＠たにごう,@tanigox,普通名詞
 ＠もとあき,@tanigox,普通名詞
 ＠やごー,@tanigox,普通名詞
-やごー,YAGOO,普通名詞
 おしま,推しマ,普通名詞
 おしごと,推し事,普通名詞
 あおがみ,青上,普通名詞
@@ -21,14 +20,121 @@
 とつまち,凸待ち,普通名詞
 ほろらいぶ,Hololive,普通名詞
 ほろ,Hololive,普通名詞
+ほぉ,Hololive,普通名詞
+ｈｏｌｏ,Hololive,普通名詞
+Ｈｏｌｏ,Hololive,普通名詞
+ほぉぃゔぇ,Hololive,普通名詞
 ：ほろらいぶ,▶,普通名詞
 ：ほろ,▶,普通名詞
+：ほぉ,▶,普通名詞
+：holo,▶,普通名詞
+：ほぉぃゔぇ,▶,普通名詞
 〜ほろらいぶ,ホロリス,普通名詞
 〜ほろ,ホロリス,普通名詞
-＠ほろらいぶ,@hololivetv,普通名詞
-＠ほろらいぶ,@hololive_En,普通名詞
-＠ほろ,@hololivetv,普通名詞
-＠ほろ,@hololive_En,普通名詞
+〜ほぉ,ホロリス,普通名詞
+〜holo,ホロリス,普通名詞
+〜ほぉぃゔぇ,ホロリス,普通名詞
+＠ほろらいぶ,@hololivetv,普通名詞,ホロライブプロダクション公式
+＠ほろらいぶ,@hololive_En,普通名詞,ホロライブプロダクションEN公式
+＠ほろらいぶ,@hololive_Id,普通名詞,ホロライブID公式
+＠ほろ,@hololivetv,普通名詞,ホロライブプロダクション公式
+＠ほろ,@hololive_En,普通名詞,ホロライブプロダクションEN公式
+＠ほろ,@hololive_Id,普通名詞,ホロライブID公式
+＠ほぉ,@hololivetv,普通名詞,ホロライブプロダクション公式
+＠ほぉ,@hololive_En,普通名詞,ホロライブプロダクションEN公式
+＠ほぉ,@hololive_Id,普通名詞,ホロライブID公式
+＠holo,@hololivetv,普通名詞,ホロライブプロダクション公式
+＠holo,@hololive_En,普通名詞,ホロライブプロダクションEN公式
+＠holo,@hololive_Id,普通名詞,ホロライブID公式
+＠ほぉぃゔぇ,@hololivetv,普通名詞,ホロライブプロダクション公式
+＠ほぉぃゔぇ,@hololive_En,普通名詞,ホロライブプロダクションEN公式
+＠ほぉぃゔぇ,@hololive_Id,普通名詞,ホロライブID公式
+ほろｊｐ,HololiveJP,普通名詞
+ほろらいぶｊｐ,HololiveJP,普通名詞
+：ほろｊｐ,▶,普通名詞
+：ほろらいぶｊｐ,▶,普通名詞
+＠ほろｊｐ,@hololivetv,普通名詞,ホロライブプロダクション公式
+＠ほろらいぶｊｐ,@hololivetv,普通名詞,ホロライブプロダクション公式
+ほろらいぶen,hololive English,普通名詞
+ほろen,HololiveEN,普通名詞
+ほろらいぶえｎ,hololive English,普通名詞
+ほろえｎ,HololiveEN,普通名詞
+ほろらいぶえん,hololive English,普通名詞
+ほろえん,HololiveEN,普通名詞
+ほぉぃゔぇen,hololive English,普通名詞
+ほぉen,HololiveEN,普通名詞
+ほぉぃゔぇえｎ,hololive English,普通名詞
+ほぉえｎ,HololiveEN,普通名詞
+ほぉぃゔぇえん,hololive English,普通名詞
+ほぉえん,HololiveEN,普通名詞
+ｈｏｌｏｌｉｖｅｅｎ,hololive English,普通名詞
+Ｈｏｌｏｌｉｖｅｅｎ,hololive English,普通名詞
+ｈｏｌｏｅｎ,hololive English,普通名詞
+Ｈｏｌｏｅｎ,hololive English,普通名詞
+ｈｏｌｏｅｎ,HololiveEN,普通名詞
+Ｈｏｌｏｅｎ,HololiveEN,普通名詞
+：ほろらいぶen,▶,普通名詞
+：ほろen,▶,普通名詞
+：ほろらいぶえｎ,▶,普通名詞
+：ほろえｎ,▶,普通名詞
+：ほろらいぶえん,▶,普通名詞
+：ほろえん,▶,普通名詞
+：ほぉぃゔぇen,▶,普通名詞
+：ほぉen,▶,普通名詞
+：ほぉぃゔぇえｎ,▶,普通名詞
+：ほぉえｎ,▶,普通名詞
+：ほぉぃゔぇえん,▶,普通名詞
+：ほぉえん,▶,普通名詞
+：hololiveen,▶,普通名詞
+：holoen,▶,普通名詞
+＠ほろらいぶen,@hololive_En,普通名詞
+＠ほろen,@hololive_En,普通名詞
+＠ほろらいぶえｎ,@hololive_En,普通名詞
+＠ほろえｎ,@hololive_En,普通名詞
+＠ほろらいぶえん,@hololive_En,普通名詞
+＠ほろえん,@hololive_En,普通名詞
+＠ほぉぃゔぇen,@hololive_En,普通名詞
+＠ほぉen,@hololive_En,普通名詞
+＠ほぉぃゔぇえｎ,@hololive_En,普通名詞
+＠ほぉえｎ,@hololive_En,普通名詞
+＠ほぉぃゔぇえん,@hololive_En,普通名詞
+＠ほぉえん,@hololive_En,普通名詞
+＠hololiveen,@hololive_En,普通名詞
+＠holoen,@hololive_En,普通名詞
+ほろらいぶid,hololive Indonesia,普通名詞
+ほろid,HololiveID,普通名詞
+ほろらいぶいｄ,hololive Indonesia,普通名詞
+ほろいｄ,HololiveID,普通名詞
+ほぉぃゔぇid,hololive Indonesia,普通名詞
+ほぉid,HololiveID,普通名詞
+ほぉぃゔぇいｄ,hololive Indonesia,普通名詞
+ほぉいｄ,HololiveID,普通名詞
+ｈｏｌｏｌｉｖｅｉｄ,hololive Indonesia,普通名詞
+Ｈｏｌｏｌｉｖｅｉｄ,hololive Indonesia,普通名詞
+ｈｏｌｏｉｄ,hololive Indonesia,普通名詞
+Ｈｏｌｏｉｄ,hololive Indonesia,普通名詞
+ｈｏｌｏｉｄ,HololiveID,普通名詞
+Ｈｏｌｏｉｄ,HololiveID,普通名詞
+：ほろらいぶid,▶,普通名詞
+：ほろid,▶,普通名詞
+：ほろらいぶいｄ,▶,普通名詞
+：ほろいｄ,▶,普通名詞
+：ほぉぃゔぇid,▶,普通名詞
+：ほぉid,▶,普通名詞
+：ほぉぃゔぇいｄ,▶,普通名詞
+：ほぉいｄ,▶,普通名詞
+：hololiveid,▶,普通名詞
+：holoid,▶,普通名詞
+＠ほろらいぶid,@hololive_Id,普通名詞
+＠ほろid,@hololive_Id,普通名詞
+＠ほろらいぶいｄ,@hololive_Id,普通名詞
+＠ほろいｄ,@hololive_Id,普通名詞
+＠ほぉぃゔぇid,@hololive_Id,普通名詞
+＠ほぉid,@hololive_Id,普通名詞
+＠ほぉぃゔぇいｄ,@hololive_Id,普通名詞
+＠ほぉいｄ,@hololive_Id,普通名詞
+＠hololiveid,@hololive_Id,普通名詞
+＠holoid,@hololive_Id,普通名詞
 ゆうじんえー,友人A,人名
 えーちゃん,Aちゃん,人名
 ：ゆうじんえー,👓,普通名詞

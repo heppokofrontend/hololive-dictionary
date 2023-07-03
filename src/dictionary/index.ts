@@ -24,7 +24,6 @@ export const dictionary: LiverData[] = [
     fans: [],
     twitter: ['@tanigox'],
     others: [
-      ['やごー', 'YAGOO'],
       ['おしま', '推しマ'],
       ['おしごと', '推し事'],
       ['あおがみ', '青上'],
