@@ -3,6 +3,20 @@ import { holostars } from './holostars';
 
 export const dictionary: LiverData[] = [
   {
+    name: ['', ''],
+    alias: [
+      ['かばー', 'Cover'],
+      ['かばー', 'カバー株式会社'],
+    ],
+    marks: [''],
+    tags: ['#カバー株式会社'],
+    fans: [],
+    twitter: ['@cover_corp'],
+    flags: {
+      isGroupName: true,
+    },
+  },
+  {
     name: ['たにごう もとあき', '谷郷 元昭'],
     alias: [['やごー', 'YAGOO']],
     marks: [],

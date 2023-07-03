@@ -19,7 +19,9 @@ declare type LiverData = {
   /** メンバーの属性 */
   flags?: {
     /** 活動しているかどうか */
-    isActive: boolean;
+    isActive?: boolean;
+    /** 組織名かどうか */
+    isGroupName?: boolean;
   };
 };
 
