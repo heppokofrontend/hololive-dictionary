@@ -70,7 +70,7 @@ export const makeWordSet = (argDict: LiverData[], argOptions: Options = {}) => {
 
     // 名前を辞書データに追加
     nameSet.yomi.forEach((yomi, idx) => {
-      wordsets.push([yomi, nameSet.kaki[idx], '人名']);
+      wordsets.push([yomi, nameSet.kaki[idx], flags?.isGroupName === true ? '名詞' : '人名']);
     });
 
     // 名前意外の情報を辞書データに追加。残りの候補「！？＋＊｜ー」

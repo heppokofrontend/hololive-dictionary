@@ -3,10 +3,20 @@ import { hololiveId } from './id';
 import { hololiveJp } from './jp';
 
 export const hololive: LiverData[] = [
-  ...hololiveJp,
-  ...hololiveId,
-  ...hololiveEn,
-
+  {
+    name: ['', ''],
+    alias: [
+      ['ほろらいぶ', 'Hololive'],
+      ['ほろ', 'Hololive'],
+    ],
+    marks: ['▶'],
+    tags: [],
+    fans: ['ホロリス'],
+    twitter: ['@hololivetv', '@hololive_En'],
+    flags: {
+      isGroupName: true,
+    },
+  },
   {
     name: ['ゆうじんえー', '友人A'],
     alias: [['えーちゃん', 'Aちゃん']],
@@ -26,4 +36,8 @@ export const hololive: LiverData[] = [
     fans: [],
     twitter: ['@harusakinodoka'],
   },
+
+  ...hololiveJp,
+  ...hololiveId,
+  ...hololiveEn,
 ];
