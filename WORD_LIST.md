@@ -24,7 +24,6 @@
 |`＠たにごう`|@tanigox||
 |`＠もとあき`|@tanigox||
 |`＠やごー`|@tanigox||
-|`やごー`|YAGOO||
 |`おしま`|推しマ||
 |`おしごと`|推し事||
 |`あおがみ`|青上||
@@ -35,14 +34,114 @@
 |`とつまち`|凸待ち||
 |`ほろらいぶ`|Hololive||
 |`ほろ`|Hololive||
+|`ほぉ`|Hololive||
+|`holo`|Hololive||
+|`ほぉぃヴぇ`|Hololive||
 |`：ほろらいぶ`|▶||
 |`：ほろ`|▶||
+|`：ほぉ`|▶||
+|`：holo`|▶||
+|`：ほぉぃヴぇ`|▶||
 |`～ほろらいぶ`|ホロリス||
 |`～ほろ`|ホロリス||
-|`＠ほろらいぶ`|@hololivetv||
-|`＠ほろらいぶ`|@hololive_En||
-|`＠ほろ`|@hololivetv||
-|`＠ほろ`|@hololive_En||
+|`～ほぉ`|ホロリス||
+|`～holo`|ホロリス||
+|`～ほぉぃヴぇ`|ホロリス||
+|`＠ほろらいぶ`|@hololivetv|ホロライブプロダクション公式|
+|`＠ほろらいぶ`|@hololive_En|ホロライブプロダクションEN公式|
+|`＠ほろらいぶ`|@hololive_Id|ホロライブID公式|
+|`＠ほろ`|@hololivetv|ホロライブプロダクション公式|
+|`＠ほろ`|@hololive_En|ホロライブプロダクションEN公式|
+|`＠ほろ`|@hololive_Id|ホロライブID公式|
+|`＠ほぉ`|@hololivetv|ホロライブプロダクション公式|
+|`＠ほぉ`|@hololive_En|ホロライブプロダクションEN公式|
+|`＠ほぉ`|@hololive_Id|ホロライブID公式|
+|`＠holo`|@hololivetv|ホロライブプロダクション公式|
+|`＠holo`|@hololive_En|ホロライブプロダクションEN公式|
+|`＠holo`|@hololive_Id|ホロライブID公式|
+|`＠ほぉぃヴぇ`|@hololivetv|ホロライブプロダクション公式|
+|`＠ほぉぃヴぇ`|@hololive_En|ホロライブプロダクションEN公式|
+|`＠ほぉぃヴぇ`|@hololive_Id|ホロライブID公式|
+|`ほろｊｐ`|HololiveJP||
+|`ほろらいぶｊｐ`|HololiveJP||
+|`：ほろｊｐ`|▶||
+|`：ほろらいぶｊｐ`|▶||
+|`＠ほろｊｐ`|@hololivetv|ホロライブプロダクション公式|
+|`＠ほろらいぶｊｐ`|@hololivetv|ホロライブプロダクション公式|
+|`ほろらいぶen`|hololive English||
+|`ほろen`|HololiveEN||
+|`ほろらいぶえｎ`|hololive English||
+|`ほろえｎ`|HololiveEN||
+|`ほろらいぶえん`|hololive English||
+|`ほろえん`|HololiveEN||
+|`ほぉぃヴぇen`|hololive English||
+|`ほぉen`|HololiveEN||
+|`ほぉぃヴぇえｎ`|hololive English||
+|`ほぉえｎ`|HololiveEN||
+|`ほぉぃヴぇえん`|hololive English||
+|`ほぉえん`|HololiveEN||
+|`hololiveen`|hololive English||
+|`holoen`|hololive English||
+|`holoen`|HololiveEN||
+|`：ほろらいぶen`|▶||
+|`：ほろen`|▶||
+|`：ほろらいぶえｎ`|▶||
+|`：ほろえｎ`|▶||
+|`：ほろらいぶえん`|▶||
+|`：ほろえん`|▶||
+|`：ほぉぃヴぇen`|▶||
+|`：ほぉen`|▶||
+|`：ほぉぃヴぇえｎ`|▶||
+|`：ほぉえｎ`|▶||
+|`：ほぉぃヴぇえん`|▶||
+|`：ほぉえん`|▶||
+|`：hololiveen`|▶||
+|`：holoen`|▶||
+|`＠ほろらいぶen`|@hololive_En||
+|`＠ほろen`|@hololive_En||
+|`＠ほろらいぶえｎ`|@hololive_En||
+|`＠ほろえｎ`|@hololive_En||
+|`＠ほろらいぶえん`|@hololive_En||
+|`＠ほろえん`|@hololive_En||
+|`＠ほぉぃヴぇen`|@hololive_En||
+|`＠ほぉen`|@hololive_En||
+|`＠ほぉぃヴぇえｎ`|@hololive_En||
+|`＠ほぉえｎ`|@hololive_En||
+|`＠ほぉぃヴぇえん`|@hololive_En||
+|`＠ほぉえん`|@hololive_En||
+|`＠hololiveen`|@hololive_En||
+|`＠holoen`|@hololive_En||
+|`ほろらいぶid`|hololive Indonesia||
+|`ほろid`|HololiveID||
+|`ほろらいぶいｄ`|hololive Indonesia||
+|`ほろいｄ`|HololiveID||
+|`ほぉぃヴぇid`|hololive Indonesia||
+|`ほぉid`|HololiveID||
+|`ほぉぃヴぇいｄ`|hololive Indonesia||
+|`ほぉいｄ`|HololiveID||
+|`hololiveid`|hololive Indonesia||
+|`holoid`|hololive Indonesia||
+|`holoid`|HololiveID||
+|`：ほろらいぶid`|▶||
+|`：ほろid`|▶||
+|`：ほろらいぶいｄ`|▶||
+|`：ほろいｄ`|▶||
+|`：ほぉぃヴぇid`|▶||
+|`：ほぉid`|▶||
+|`：ほぉぃヴぇいｄ`|▶||
+|`：ほぉいｄ`|▶||
+|`：hololiveid`|▶||
+|`：holoid`|▶||
+|`＠ほろらいぶid`|@hololive_Id||
+|`＠ほろid`|@hololive_Id||
+|`＠ほろらいぶいｄ`|@hololive_Id||
+|`＠ほろいｄ`|@hololive_Id||
+|`＠ほぉぃヴぇid`|@hololive_Id||
+|`＠ほぉid`|@hololive_Id||
+|`＠ほぉぃヴぇいｄ`|@hololive_Id||
+|`＠ほぉいｄ`|@hololive_Id||
+|`＠hololiveid`|@hololive_Id||
+|`＠holoid`|@hololive_Id||
 |`ゆうじんえー`|友人A||
 |`えーちゃん`|Aちゃん||
 |`：ゆうじんえー`|👓||
