@@ -23,16 +23,20 @@
 ほぉ,Hololive,普通名詞
 ｈｏｌｏ,Hololive,普通名詞
 Ｈｏｌｏ,Hololive,普通名詞
+Ｈｏｌｏ,Hololive,普通名詞
+Ｈｏｌｏ,Hololive,普通名詞
 ほぉぃゔぇ,Hololive,普通名詞
 ：ほろらいぶ,▶,普通名詞
 ：ほろ,▶,普通名詞
 ：ほぉ,▶,普通名詞
 ：holo,▶,普通名詞
+：Holo,▶,普通名詞
 ：ほぉぃゔぇ,▶,普通名詞
 〜ほろらいぶ,ホロリス,普通名詞
 〜ほろ,ホロリス,普通名詞
 〜ほぉ,ホロリス,普通名詞
 〜holo,ホロリス,普通名詞
+〜Holo,ホロリス,普通名詞
 〜ほぉぃゔぇ,ホロリス,普通名詞
 ＠ほろらいぶ,@hololivetv,普通名詞,ホロライブプロダクション公式
 ＠ほろらいぶ,@hololive_En,普通名詞,ホロライブプロダクションEN公式
@@ -46,6 +50,9 @@
 ＠holo,@hololivetv,普通名詞,ホロライブプロダクション公式
 ＠holo,@hololive_En,普通名詞,ホロライブプロダクションEN公式
 ＠holo,@hololive_Id,普通名詞,ホロライブID公式
+＠Holo,@hololivetv,普通名詞,ホロライブプロダクション公式
+＠Holo,@hololive_En,普通名詞,ホロライブプロダクションEN公式
+＠Holo,@hololive_Id,普通名詞,ホロライブID公式
 ＠ほぉぃゔぇ,@hololivetv,普通名詞,ホロライブプロダクション公式
 ＠ほぉぃゔぇ,@hololive_En,普通名詞,ホロライブプロダクションEN公式
 ＠ほぉぃゔぇ,@hololive_Id,普通名詞,ホロライブID公式
@@ -73,6 +80,8 @@
 Ｈｏｌｏｅｎ,hololive English,普通名詞
 ｈｏｌｏｅｎ,HololiveEN,普通名詞
 Ｈｏｌｏｅｎ,HololiveEN,普通名詞
+Ｈｏｌｏｅｎ,HololiveEN,普通名詞
+Ｈｏｌｏｅｎ,HololiveEN,普通名詞
 ：ほろらいぶen,▶,普通名詞
 ：ほろen,▶,普通名詞
 ：ほろらいぶえｎ,▶,普通名詞
@@ -87,6 +96,7 @@
 ：ほぉえん,▶,普通名詞
 ：hololiveen,▶,普通名詞
 ：holoen,▶,普通名詞
+：Holoen,▶,普通名詞
 ＠ほろらいぶen,@hololive_En,普通名詞
 ＠ほろen,@hololive_En,普通名詞
 ＠ほろらいぶえｎ,@hololive_En,普通名詞
@@ -101,6 +111,7 @@
 ＠ほぉえん,@hololive_En,普通名詞
 ＠hololiveen,@hololive_En,普通名詞
 ＠holoen,@hololive_En,普通名詞
+＠Holoen,@hololive_En,普通名詞
 ほろらいぶid,hololive Indonesia,普通名詞
 ほろid,HololiveID,普通名詞
 ほろらいぶいｄ,hololive Indonesia,普通名詞
@@ -115,6 +126,8 @@
 Ｈｏｌｏｉｄ,hololive Indonesia,普通名詞
 ｈｏｌｏｉｄ,HololiveID,普通名詞
 Ｈｏｌｏｉｄ,HololiveID,普通名詞
+Ｈｏｌｏｉｄ,HololiveID,普通名詞
+Ｈｏｌｏｉｄ,HololiveID,普通名詞
 ：ほろらいぶid,▶,普通名詞
 ：ほろid,▶,普通名詞
 ：ほろらいぶいｄ,▶,普通名詞
@@ -125,6 +138,7 @@
 ：ほぉいｄ,▶,普通名詞
 ：hololiveid,▶,普通名詞
 ：holoid,▶,普通名詞
+：Holoid,▶,普通名詞
 ＠ほろらいぶid,@hololive_Id,普通名詞
 ＠ほろid,@hololive_Id,普通名詞
 ＠ほろらいぶいｄ,@hololive_Id,普通名詞
@@ -135,6 +149,7 @@
 ＠ほぉいｄ,@hololive_Id,普通名詞
 ＠hololiveid,@hololive_Id,普通名詞
 ＠holoid,@hololive_Id,普通名詞
+＠Holoid,@hololive_Id,普通名詞
 ゆうじんえー,友人A,人名
 えーちゃん,Aちゃん,人名
 ：ゆうじんえー,👓,普通名詞
