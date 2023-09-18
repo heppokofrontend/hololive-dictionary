@@ -1,5 +1,12 @@
 # Contributing
 
+このリポジトリにコントリビューロしてくださる方へ。
+
+## npm comannds
+
+- `prettier` - コードをフォーマットします
+- `generate` - 辞書データを出力します
+
 ## `./src/dictionary/**` - 配信者情報
 
 各配信者情報を次のような構造で管理しています。
@@ -29,6 +36,10 @@
 
 ※ 名前などについては他の項目の変換元に利用されるためその限りではないですが、基本的には変換が難しいもののみを管理します。
 
+### 「う＋濁音」
+
+macOS では「ゔ」を変換で用いますが生成時に調整されるので、辞書データ上は「ヴ」と表記してください。
+
 ### アルファベットで検索する用語
 
 例：
@@ -39,10 +50,15 @@
 Windows ではアルファベットの大文字小文字を区別しないため、データ内では全角小文字統一で登録します。  
 出力時は macOS 向けのときのみ全角に変換し、1 文字目を大文字のパターンを追加します。
 
-## pull request
+## Pull Request
 
-1. Fork it!
-2. Create your feature branch: git checkout -b my-new-feature
-3. Commit your changes: git commit -am 'Add some feature'
-4. Push to the branch: git push origin my-new-feature
-5. Submit a pull request :D
+見ていただきありがとうございます！
+
+1. [フォークしてください](https://github.com/heppokofrontend/hololive-dictionary/fork)
+2. 作業ブランチを作成してください: `git switch -c my-new-feature`
+3. 差分をコミットしてください: `git commit -am 'Add some feature'`
+4. ブランチをプッシュしてください: `git push origin my-new-feature`
+5. [PR を立ててください](https://github.com/heppokofrontend/hololive-dictionary/pulls)
+
+PR は main ブランチで大丈夫です。  
+取り込み作業を開始すると競合することがありますが、そうした PR は取り込み時にこちらで解決します。
