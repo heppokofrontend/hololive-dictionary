@@ -19,5 +19,5 @@ export const fuwawaAbyssgard: LiverData = {
   ],
   fans: ['Ruffians'],
   twitter: ['@fuwamoco_en'],
-  others: [],
+  others: [['まかいのばんけん', '魔界乃番犬']],
 };
