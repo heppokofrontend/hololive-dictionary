@@ -1,8 +1,9 @@
 export const shioriNovella: LiverData = {
-  name: ['しおり のヴぇら', 'シオリ ノベラ'],
+  name: ['しおり のヴぇら', 'シオリ ノヴェラ'],
   alias: [
     ['しおり', 'Shiori'],
     ['のヴぇら', 'Novella'],
+    ['のべら', 'Novella'],
     ['しおりのヴぇら', 'Shiori Novella'],
     ['しおりのヴぇら', '収集家'],
     ['しおりのヴぇら', 'The Archiver'],
@@ -17,6 +18,6 @@ export const shioriNovella: LiverData = {
   twitter: ['@shiorinovella'],
   others: [
     ['advent', 'Advent'],
-    ['advent', 'Hololive English -Advent-']
+    ['advent', 'Hololive English -Advent-'],
   ],
 };

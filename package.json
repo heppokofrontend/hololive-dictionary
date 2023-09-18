@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "prettier": "prettier --write --ignore-path .gitignore \"./**/*.{js,jsx,ts,tsx,json}\"",
-    "build": "ts-node ./src/index.ts"
+    "build": "yarn generate",
+    "generate": "ts-node ./src/index.ts"
   },
   "repository": {
     "type": "git",

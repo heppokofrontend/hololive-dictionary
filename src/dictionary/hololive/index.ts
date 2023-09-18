@@ -1,6 +1,7 @@
 import { hololiveEn } from './en';
 import { hololiveId } from './id';
 import { hololiveJp } from './jp';
+import { hololiveDevIs } from './dev_is';
 
 export const hololive: LiverData[] = [
   {
@@ -10,6 +11,7 @@ export const hololive: LiverData[] = [
       ['ほろ', 'Hololive'],
       ['ほぉ', 'Hololive'],
       ['holo', 'Hololive'],
+      ['Holo', 'Hololive'],
       ['ほぉぃヴぇ', 'Hololive'],
     ],
     marks: ['▶'],
@@ -56,6 +58,7 @@ export const hololive: LiverData[] = [
       ['hololiveen', 'hololive English'],
       ['holoen', 'hololive English'],
       ['holoen', 'HololiveEN'],
+      ['Holoen', 'HololiveEN'],
     ],
     marks: ['▶'],
     tags: [],
@@ -79,11 +82,46 @@ export const hololive: LiverData[] = [
       ['hololiveid', 'hololive Indonesia'],
       ['holoid', 'hololive Indonesia'],
       ['holoid', 'HololiveID'],
+      ['Holoid', 'HololiveID'],
     ],
     marks: ['▶'],
     tags: [],
     fans: [],
     twitter: ['@hololive_Id'],
+    flags: {
+      isGroupName: true,
+    },
+  },
+  {
+    name: ['', ''],
+    alias: [
+      ['ほろらいぶでばいす', 'hololive DEV_IS'],
+      ['ほろでばいす', 'hololive DEV_IS'],
+      ['ほぉぃヴぇでばいす', 'hololive DEV_IS'],
+      ['ほぉでばいす', 'hololive DEV_IS'],
+      ['ほろらいぶdev_is', 'hololive DEV_IS'],
+      ['ほろdev_is', 'hololive DEV_IS'],
+      ['ほぉぃヴぇdev_is', 'hololive DEV_IS'],
+      ['ほぉdev_is', 'hololive DEV_IS'],
+      ['ほろらいぶdevis', 'hololive DEV_IS'],
+      ['ほろdevis', 'hololive DEV_IS'],
+      ['ほぉぃヴぇdevis', 'hololive DEV_IS'],
+      ['ほぉdevis', 'hololive DEV_IS'],
+      ['ほろらいぶでヴぃｓ', 'hololive DEV_IS'],
+      ['ほろでヴぃｓ', 'hololive DEV_IS'],
+      ['ほぉいヴぇでヴぃｓ', 'hololive DEV_IS'],
+      ['ほぉでヴぃｓ', 'hololive DEV_IS'],
+      ['hololivedevis', 'hololive DEV_IS'],
+      ['holodevis', 'hololive DEV_IS'],
+      ['でばいす', 'DEV_IS'],
+      ['でヴぃｓ', 'DEV_IS'],
+      ['dev_is', 'DEV_IS'],
+      ['devis', 'DEV_IS'],
+    ],
+    marks: ['▶'],
+    tags: [],
+    fans: [],
+    twitter: [],
     flags: {
       isGroupName: true,
     },
@@ -109,6 +147,7 @@ export const hololive: LiverData[] = [
   },
 
   ...hololiveJp,
+  ...hololiveDevIs,
   ...hololiveId,
   ...hololiveEn,
 ];

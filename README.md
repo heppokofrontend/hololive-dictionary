@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/6637993/124358896-5b7e3880-dc5d-11eb-8
 | ふれおん         | Flayon           |
 | まきなｘふれおん | Machina X Flayon |
 | まきなふれおん   | Machina X Flayon |
-| あっぷろー       | UPROAR‼︎          |
+| あっぷろー       | UPROAR‼︎         |
 | やごー           | YAGOO            |
 
 [単語の一覧はこちら](./WORD_LIST.md)（めちゃくちゃ長いのでご注意ください）。
@@ -56,6 +56,10 @@ https://user-images.githubusercontent.com/6637993/124358896-5b7e3880-dc5d-11eb-8
 以下のページからご連絡ください。
 
 <https://github.com/heppokofrontend/hololive-dictionary/issues/new/choose>
+
+作業してください方はこちらを参照してください。
+
+[CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## 配信者情報の参考資料
 
