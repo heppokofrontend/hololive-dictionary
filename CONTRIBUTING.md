@@ -1,6 +1,6 @@
 # Contributing
 
-このリポジトリにコントリビューロしてくださる方へ。
+このリポジトリにコントリビュートしてくださる方へ。
 
 ## npm comannds
 
@@ -60,5 +60,5 @@ Windows ではアルファベットの大文字小文字を区別しないため
 4. ブランチをプッシュしてください: `git push origin my-new-feature`
 5. [PR を立ててください](https://github.com/heppokofrontend/hololive-dictionary/pulls)
 
-PR は main ブランチで大丈夫です。  
+PR の向き先は main ブランチで大丈夫です。  
 取り込み作業を開始すると競合することがありますが、そうした PR は取り込み時にこちらで解決します。
