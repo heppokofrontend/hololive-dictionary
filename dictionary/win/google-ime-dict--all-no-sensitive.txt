@@ -3071,6 +3071,155 @@ myth	Hololive English -Myth-	名詞
 ＠クロニー	@ourokronii	名詞
 ＠オウロ	@ourokronii	名詞
 ＠オウロクロニー	@ourokronii	名詞
+シオリノヴェラ	シオリノベラ	人名
+シオリ	シオリ	人名
+ノヴェラ	ノベラ	人名
+シオリ	Shiori	人名
+ノヴェラ	Novella	人名
+シオリノヴェラ	Shiori Novella	人名
+シオリノヴェラ	収集家	人名
+シオリノヴェラ	The Archiver	人名
+：シオリノヴェラ	👁️‍🗨️	名詞
+：シオリ	👁️‍🗨️	名詞
+：ノヴェラ	👁️‍🗨️	名詞
+＃シオリノヴェラ	#ShiorinOnAir	名詞	配信タグ
+＃シオリノヴェラ	#ShiorinSketch	名詞	ファンアート
+＃シオリノヴェラ	#ShiorinStories	名詞	ファン・フィクション
+＃シオリ	#ShiorinOnAir	名詞	配信タグ
+＃シオリ	#ShiorinSketch	名詞	ファンアート
+＃シオリ	#ShiorinStories	名詞	ファン・フィクション
+＃ノヴェラ	#ShiorinOnAir	名詞	配信タグ
+＃ノヴェラ	#ShiorinSketch	名詞	ファンアート
+＃ノヴェラ	#ShiorinStories	名詞	ファン・フィクション
+～シオリノヴェラ	Novelites	名詞
+～シオリ	Novelites	名詞
+～ノヴェラ	Novelites	名詞
+＠シオリノヴェラ	@shiorinovella	名詞
+＠シオリ	@shiorinovella	名詞
+＠ノヴェラ	@shiorinovella	名詞
+advent	Advent	名詞
+advent	Hololive English -Advent-	名詞
+コセキビジュウ	古石ビジュー	人名
+コセキ	古石	人名
+ビジュウ	ビジュー	人名
+コセキ	Koseki	人名
+ビジュウ	Bijou	人名
+コセキビジュウ	Koseki Bijou	人名
+：コセキビジュウ	🗿	名詞
+：コセキ	🗿	名詞
+：ビジュウ	🗿	名詞
+＃コセキビジュウ	#LIVEseki	名詞	配信タグ
+＃コセキビジュウ	#LMOAI	名詞	ミーム
+＃コセキビジュウ	#bijouwled	名詞	ファンアート
+＃コセキビジュウ	#pebblesona	名詞	石ころイラスト
+＃コセキ	#LIVEseki	名詞	配信タグ
+＃コセキ	#LMOAI	名詞	ミーム
+＃コセキ	#bijouwled	名詞	ファンアート
+＃コセキ	#pebblesona	名詞	石ころイラスト
+＃ビジュウ	#LIVEseki	名詞	配信タグ
+＃ビジュウ	#LMOAI	名詞	ミーム
+＃ビジュウ	#bijouwled	名詞	ファンアート
+＃ビジュウ	#pebblesona	名詞	石ころイラスト
+～コセキビジュウ	Pebbles	名詞
+～コセキ	Pebbles	名詞
+～ビジュウ	Pebbles	名詞
+＠コセキビジュウ	@kosekibijou	名詞
+＠コセキ	@kosekibijou	名詞
+＠ビジュウ	@kosekibijou	名詞
+ネリッサレイヴンクロフト	ネリッサレイヴンクロフト	人名
+ネリッサ	ネリッサ	人名
+レイヴンクロフト	レイヴンクロフト	人名
+ネリッサ	Nerissa	人名
+レイヴンクロフト	Ravencroft	人名
+ネリッサレイヴンクロフト	Nerissa Ravencroft	人名
+ネリッサレイヴンクロフト	音の魔人	人名
+ネリッサレイヴンクロフト	The Demon of Sound	人名
+：ネリッサレイヴンクロフト	🎼	名詞
+：ネリッサ	🎼	名詞
+：レイヴンクロフト	🎼	名詞
+＃ネリッサレイヴンクロフト	#RissaLIVE	名詞	配信タグ
+＃ネリッサレイヴンクロフト	#MemeRissa	名詞	インターネット・ミーム
+＃ネリッサレイヴンクロフト	#RissaMusic	名詞	音楽
+＃ネリッサレイヴンクロフト	#RavenCrafts	名詞	ファンアート
+＃ネリッサ	#RissaLIVE	名詞	配信タグ
+＃ネリッサ	#MemeRissa	名詞	インターネット・ミーム
+＃ネリッサ	#RissaMusic	名詞	音楽
+＃ネリッサ	#RavenCrafts	名詞	ファンアート
+＃レイヴンクロフト	#RissaLIVE	名詞	配信タグ
+＃レイヴンクロフト	#MemeRissa	名詞	インターネット・ミーム
+＃レイヴンクロフト	#RissaMusic	名詞	音楽
+＃レイヴンクロフト	#RavenCrafts	名詞	ファンアート
+～ネリッサレイヴンクロフト	Jailbirds	名詞
+～ネリッサ	Jailbirds	名詞
+～レイヴンクロフト	Jailbirds	名詞
+＠ネリッサレイヴンクロフト	@nerissa_en	名詞
+＠ネリッサ	@nerissa_en	名詞
+＠レイヴンクロフト	@nerissa_en	名詞
+フワワアビスガード	フワワアビスガード	人名
+フワワ	フワワ	人名
+アビスガード	アビスガード	人名
+フワワ	Fuwawa	人名
+アビスガード	Abyssgard	人名
+フワワアビスガード	Fuwawa Abyssgard	人名
+フワワアビスガード	魔界乃番犬	人名
+フワワアビスガード	The Demonic Guard Dogs	人名
+：フワワアビスガード	🐾🩵	名詞
+：フワワ	🐾🩵	名詞
+：アビスガード	🐾🩵	名詞
+＃フワワアビスガード	#FUWAMOCO	名詞	配信タグ
+＃フワワアビスガード	#FWMCpix	名詞	ファンアート
+＃フワワアビスガード	#helpFWMC	名詞	リクエスト
+＃フワワアビスガード	#FWMCMORNING	名詞	朝活動
+＃フワワアビスガード	#lilFWMC	名詞	切り抜き
+＃フワワアビスガード	#FWMCbeats	名詞	音楽
+＃フワワアビスガード	#FWMCwww	名詞	インターネット・ミーム
+＃フワワ	#FUWAMOCO	名詞	配信タグ
+＃フワワ	#FWMCpix	名詞	ファンアート
+＃フワワ	#helpFWMC	名詞	リクエスト
+＃フワワ	#FWMCMORNING	名詞	朝活動
+＃フワワ	#lilFWMC	名詞	切り抜き
+＃フワワ	#FWMCbeats	名詞	音楽
+＃フワワ	#FWMCwww	名詞	インターネット・ミーム
+＃アビスガード	#FUWAMOCO	名詞	配信タグ
+＃アビスガード	#FWMCpix	名詞	ファンアート
+＃アビスガード	#helpFWMC	名詞	リクエスト
+＃アビスガード	#FWMCMORNING	名詞	朝活動
+＃アビスガード	#lilFWMC	名詞	切り抜き
+＃アビスガード	#FWMCbeats	名詞	音楽
+＃アビスガード	#FWMCwww	名詞	インターネット・ミーム
+～フワワアビスガード	Ruffians	名詞
+～フワワ	Ruffians	名詞
+～アビスガード	Ruffians	名詞
+＠フワワアビスガード	@fuwamoco_en	名詞
+＠フワワ	@fuwamoco_en	名詞
+＠アビスガード	@fuwamoco_en	名詞
+モココアビスガード	モココアビスガード	人名
+モココ	モココ	人名
+モココ	Mococo	人名
+モココアビスガード	Mococo Abyssgard	人名
+モココアビスガード	魔界乃番犬	人名
+モココアビスガード	The Demonic Guard Dogs	人名
+：モココアビスガード	🐾🩷	名詞
+：モココ	🐾🩷	名詞
+：アビスガード	🐾🩷	名詞
+＃モココアビスガード	#FUWAMOCO	名詞	配信タグ
+＃モココアビスガード	#FWMCpix	名詞	ファンアート
+＃モココアビスガード	#helpFWMC	名詞	リクエスト
+＃モココアビスガード	#FWMCMORNING	名詞	朝活動
+＃モココアビスガード	#lilFWMC	名詞	切り抜き
+＃モココアビスガード	#FWMCbeats	名詞	音楽
+＃モココアビスガード	#FWMCwww	名詞	インターネット・ミーム
+＃モココ	#FUWAMOCO	名詞	配信タグ
+＃モココ	#FWMCpix	名詞	ファンアート
+＃モココ	#helpFWMC	名詞	リクエスト
+＃モココ	#FWMCMORNING	名詞	朝活動
+＃モココ	#lilFWMC	名詞	切り抜き
+＃モココ	#FWMCbeats	名詞	音楽
+＃モココ	#FWMCwww	名詞	インターネット・ミーム
+～モココアビスガード	Ruffians	名詞
+～モココ	Ruffians	名詞
+＠モココアビスガード	@fuwamoco_en	名詞
+＠モココ	@fuwamoco_en	名詞
 ホロスターズ	HOLOSTARS	名詞
 ホロスタ	HOLOSTARS	名詞
 ＃ホロスターズ	#ホロスタ民	名詞	ファンネーム
