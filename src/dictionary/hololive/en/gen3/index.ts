@@ -4,4 +4,10 @@ import { nerissaRavencroft } from './nerissa-ravencroft';
 import { fuwawaAbyssgard } from './fuwawa-abyssgard';
 import { mococoAbyssgard } from './mococo-abyssgard';
 
-export const hololiveEnGen3 = [shioriNovella, kosekiBijou, nerissaRavencroft, fuwawaAbyssgard, mococoAbyssgard];
+export const hololiveEnGen3 = [
+  shioriNovella,
+  kosekiBijou,
+  nerissaRavencroft,
+  fuwawaAbyssgard,
+  mococoAbyssgard,
+];

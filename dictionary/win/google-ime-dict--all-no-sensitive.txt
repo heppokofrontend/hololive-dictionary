@@ -2291,25 +2291,25 @@ v	Vtuべｒ	名詞
 ＃ヒオドシアオ	#火威青	名詞	一般タグ
 ＃ヒオドシアオ	#青原稿中	名詞	配信タグ
 ＃ヒオドシアオ	#青ペン	名詞	ファンアート
-＃ヒオドシアオ	clip青	名詞	切り抜きタグ
+＃ヒオドシアオ	#clip青	名詞	切り抜きタグ
 ＃ヒオドシアオ	#ぷち幸	名詞	ぷち幸タグ
 ＃ヒオドシアオ	#青くん聞いたよ	名詞	ボイス感想
 ＃ヒオドシ	#火威青	名詞	一般タグ
 ＃ヒオドシ	#青原稿中	名詞	配信タグ
 ＃ヒオドシ	#青ペン	名詞	ファンアート
-＃ヒオドシ	clip青	名詞	切り抜きタグ
+＃ヒオドシ	#clip青	名詞	切り抜きタグ
 ＃ヒオドシ	#ぷち幸	名詞	ぷち幸タグ
 ＃ヒオドシ	#青くん聞いたよ	名詞	ボイス感想
 ＃アオ	#火威青	名詞	一般タグ
 ＃アオ	#青原稿中	名詞	配信タグ
 ＃アオ	#青ペン	名詞	ファンアート
-＃アオ	clip青	名詞	切り抜きタグ
+＃アオ	#clip青	名詞	切り抜きタグ
 ＃アオ	#ぷち幸	名詞	ぷち幸タグ
 ＃アオ	#青くん聞いたよ	名詞	ボイス感想
 ＃アオクン	#火威青	名詞	一般タグ
 ＃アオクン	#青原稿中	名詞	配信タグ
 ＃アオクン	#青ペン	名詞	ファンアート
-＃アオクン	clip青	名詞	切り抜きタグ
+＃アオクン	#clip青	名詞	切り抜きタグ
 ＃アオクン	#ぷち幸	名詞	ぷち幸タグ
 ＃アオクン	#青くん聞いたよ	名詞	ボイス感想
 ～ヒオドシアオ	読者	名詞
@@ -2415,6 +2415,7 @@ v	Vtuべｒ	名詞
 ＠ジュウフウテイラデン	@juufuuteiraden	名詞
 ＠ジュウフウテイ	@juufuuteiraden	名詞
 ＠ラデン	@juufuuteiraden	名詞
+デンドウシ	でん同士	名詞
 トドロキハジメ	轟はじめ	人名
 トドロキ	轟	人名
 バンチョウ	番長	人名
@@ -2450,6 +2451,7 @@ v	Vtuべｒ	名詞
 ＠トドロキ	@todoroki_hajime	名詞
 ＠ハジメ	@todoroki_hajime	名詞
 ＠バンチョウ	@todoroki_hajime	名詞
+マッスグミ	真っす組	名詞
 アユンダリス	AyundaRisu	人名
 アユンダ	Ayunda	人名
 リス	Risu	人名
@@ -3083,17 +3085,19 @@ myth	Hololive English -Myth-	名詞
 ＠クロニー	@ourokronii	名詞
 ＠オウロ	@ourokronii	名詞
 ＠オウロクロニー	@ourokronii	名詞
-シオリノヴェラ	シオリノベラ	人名
+シオリノヴェラ	シオリノヴェラ	人名
 シオリ	シオリ	人名
-ノヴェラ	ノベラ	人名
+ノヴェラ	ノヴェラ	人名
 シオリ	Shiori	人名
 ノヴェラ	Novella	人名
+ノベラ	Novella	人名
 シオリノヴェラ	Shiori Novella	人名
 シオリノヴェラ	収集家	人名
 シオリノヴェラ	The Archiver	人名
 ：シオリノヴェラ	👁️‍🗨️	名詞
 ：シオリ	👁️‍🗨️	名詞
 ：ノヴェラ	👁️‍🗨️	名詞
+：ノベラ	👁️‍🗨️	名詞
 ＃シオリノヴェラ	#ShiorinOnAir	名詞	配信タグ
 ＃シオリノヴェラ	#ShiorinSketch	名詞	ファンアート
 ＃シオリノヴェラ	#ShiorinStories	名詞	ファン・フィクション
@@ -3103,41 +3107,63 @@ myth	Hololive English -Myth-	名詞
 ＃ノヴェラ	#ShiorinOnAir	名詞	配信タグ
 ＃ノヴェラ	#ShiorinSketch	名詞	ファンアート
 ＃ノヴェラ	#ShiorinStories	名詞	ファン・フィクション
+＃ノベラ	#ShiorinOnAir	名詞	配信タグ
+＃ノベラ	#ShiorinSketch	名詞	ファンアート
+＃ノベラ	#ShiorinStories	名詞	ファン・フィクション
 ～シオリノヴェラ	Novelites	名詞
 ～シオリ	Novelites	名詞
 ～ノヴェラ	Novelites	名詞
+～ノベラ	Novelites	名詞
 ＠シオリノヴェラ	@shiorinovella	名詞
 ＠シオリ	@shiorinovella	名詞
 ＠ノヴェラ	@shiorinovella	名詞
+＠ノベラ	@shiorinovella	名詞
 advent	Advent	名詞
 advent	Hololive English -Advent-	名詞
-コセキビジュウ	古石ビジュー	人名
+コセキビジュー	古石ビジュー	人名
 コセキ	古石	人名
-ビジュウ	ビジュー	人名
+ビジュー	ビジュー	人名
 コセキ	Koseki	人名
 ビジュウ	Bijou	人名
+ビジュー	Bijou	人名
+コセキビジュー	Koseki Bijou	人名
 コセキビジュウ	Koseki Bijou	人名
-：コセキビジュウ	🗿	名詞
+コセキビジュウ	古石ビジュー	人名
+：コセキビジュー	🗿	名詞
 ：コセキ	🗿	名詞
+：ビジュー	🗿	名詞
 ：ビジュウ	🗿	名詞
-＃コセキビジュウ	#LIVEseki	名詞	配信タグ
-＃コセキビジュウ	#LMOAI	名詞	ミーム
-＃コセキビジュウ	#bijouwled	名詞	ファンアート
-＃コセキビジュウ	#pebblesona	名詞	石ころイラスト
+：コセキビジュウ	🗿	名詞
+＃コセキビジュー	#LIVEseki	名詞	配信タグ
+＃コセキビジュー	#LMOAI	名詞	ミーム
+＃コセキビジュー	#bijouwled	名詞	ファンアート
+＃コセキビジュー	#pebblesona	名詞	石ころイラスト
 ＃コセキ	#LIVEseki	名詞	配信タグ
 ＃コセキ	#LMOAI	名詞	ミーム
 ＃コセキ	#bijouwled	名詞	ファンアート
 ＃コセキ	#pebblesona	名詞	石ころイラスト
+＃ビジュー	#LIVEseki	名詞	配信タグ
+＃ビジュー	#LMOAI	名詞	ミーム
+＃ビジュー	#bijouwled	名詞	ファンアート
+＃ビジュー	#pebblesona	名詞	石ころイラスト
 ＃ビジュウ	#LIVEseki	名詞	配信タグ
 ＃ビジュウ	#LMOAI	名詞	ミーム
 ＃ビジュウ	#bijouwled	名詞	ファンアート
 ＃ビジュウ	#pebblesona	名詞	石ころイラスト
-～コセキビジュウ	Pebbles	名詞
+＃コセキビジュウ	#LIVEseki	名詞	配信タグ
+＃コセキビジュウ	#LMOAI	名詞	ミーム
+＃コセキビジュウ	#bijouwled	名詞	ファンアート
+＃コセキビジュウ	#pebblesona	名詞	石ころイラスト
+～コセキビジュー	Pebbles	名詞
 ～コセキ	Pebbles	名詞
+～ビジュー	Pebbles	名詞
 ～ビジュウ	Pebbles	名詞
-＠コセキビジュウ	@kosekibijou	名詞
+～コセキビジュウ	Pebbles	名詞
+＠コセキビジュー	@kosekibijou	名詞
 ＠コセキ	@kosekibijou	名詞
+＠ビジュー	@kosekibijou	名詞
 ＠ビジュウ	@kosekibijou	名詞
+＠コセキビジュウ	@kosekibijou	名詞
 ネリッサレイヴンクロフト	ネリッサレイヴンクロフト	人名
 ネリッサ	ネリッサ	人名
 レイヴンクロフト	レイヴンクロフト	人名
@@ -3205,6 +3231,7 @@ advent	Hololive English -Advent-	名詞
 ＠フワワアビスガード	@fuwamoco_en	名詞
 ＠フワワ	@fuwamoco_en	名詞
 ＠アビスガード	@fuwamoco_en	名詞
+マカイノバンケン	魔界乃番犬	名詞
 モココアビスガード	モココアビスガード	人名
 モココ	モココ	人名
 モココ	Mococo	人名
