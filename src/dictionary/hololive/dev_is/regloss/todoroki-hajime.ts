@@ -11,5 +11,5 @@ export const todorokiHajime: LiverData = {
   ],
   fans: ['真っす組'],
   twitter: ['@todoroki_hajime'],
-  others: []
-}
+  others: [],
+};

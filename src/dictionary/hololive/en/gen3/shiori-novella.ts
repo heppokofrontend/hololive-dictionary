@@ -17,6 +17,6 @@ export const shioriNovella: LiverData = {
   twitter: ['@shiorinovella'],
   others: [
     ['advent', 'Advent'],
-    ['advent', 'Hololive English -Advent-']
+    ['advent', 'Hololive English -Advent-'],
   ],
 };

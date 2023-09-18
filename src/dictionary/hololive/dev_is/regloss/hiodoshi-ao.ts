@@ -16,5 +16,5 @@ export const hiodoshiAo: LiverData = {
     ['ひめ', '火女'],
     ['ひょっとこ', '火男'],
     ['りぐろす', 'ReGLOSS'],
-  ]
-}
+  ],
+};

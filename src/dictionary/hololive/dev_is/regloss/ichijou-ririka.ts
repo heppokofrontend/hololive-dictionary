@@ -10,10 +10,8 @@ export const ichijouRirika: LiverData = {
     ['#ririclip', '切り抜きタグ'],
     ['#ririSKD', 'スケジュール'],
   ],
-  sensitiveTags: [
-    ['いちじょーのひみつ', '18禁'],
-  ],
+  sensitiveTags: [['いちじょーのひみつ', '18禁']],
   fans: ['秘書見習い'],
   twitter: ['@ichijouririka'],
-  others: []
-}
+  others: [],
+};

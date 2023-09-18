@@ -10,7 +10,7 @@ export const kosekiBijou: LiverData = {
     ['#LIVEseki', '配信タグ'],
     ['#LMOAI', 'ミーム'],
     ['#bijouwled', 'ファンアート'],
-    ['#pebblesona', '石ころイラスト']
+    ['#pebblesona', '石ころイラスト'],
   ],
   fans: ['Pebbles'],
   twitter: ['@kosekibijou'],

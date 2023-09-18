@@ -13,5 +13,5 @@ export const juufuuteiRaden: LiverData = {
   ],
   fans: ['でん同士'],
   twitter: ['@juufuuteiraden'],
-  others: []
-}
+  others: [],
+};

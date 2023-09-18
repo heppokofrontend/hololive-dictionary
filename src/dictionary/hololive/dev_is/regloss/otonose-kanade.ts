@@ -9,7 +9,5 @@ export const otonoseKanade: LiverData = {
   ],
   fans: ['音の勢'],
   twitter: ['@otonosekanade'],
-  others: [
-    ['おとのぜい', '音の勢'],
-  ]
-}
+  others: [['おとのぜい', '音の勢']],
+};

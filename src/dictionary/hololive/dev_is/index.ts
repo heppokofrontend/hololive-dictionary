@@ -1,5 +1,3 @@
-import { hololiveDevIsReGLOSS } from "./regloss"
+import { hololiveDevIsReGLOSS } from './regloss';
 
-export const hololiveDevIs: LiverData[] = [
-  ...hololiveDevIsReGLOSS,
-]
+export const hololiveDevIs: LiverData[] = [...hololiveDevIsReGLOSS];
