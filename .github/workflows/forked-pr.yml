@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Clone the repository
+        uses: actions/checkout@v2
       - name: Check if PR is from a fork
         run: |
           if [[ "${{ github.event.pull_request.head.repo.fork }}" == "true" ]]; then
@@ -20,7 +22,11 @@ jobs:
               PR_NUMBER="${{ github.event.pull_request.number }}"
               BRANCH_NAME="resolve/pr-${PR_NUMBER}"
 
+              FULL_REPO_NAME="${{ github.repository }}"
+              REPO_NAME="${FULL_REPO_NAME#*/}"
+
               # resolve ブランチを作成
+              cd "$REPO_NAME"
               git checkout main
               git checkout -b "$BRANCH_NAME"
               git push origin "$BRANCH_NAME"
