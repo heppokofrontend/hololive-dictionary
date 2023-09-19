@@ -23,8 +23,11 @@ jobs:
               PR_NUMBER="${{ github.event.pull_request.number }}"
               BRANCH_NAME="resolve/pr-${PR_NUMBER}"
 
-              # resolve ブランチを作成
               cd workspace
+              git config --global user.name "github-actions[bot]"
+              git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+              # resolve ブランチを作成
               git checkout main
               git checkout -b "$BRANCH_NAME"
               git push origin "$BRANCH_NAME"
