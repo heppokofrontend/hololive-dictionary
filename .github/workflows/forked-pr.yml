@@ -16,6 +16,7 @@ jobs:
       - name: Check if PR is from a fork
         env:
           GITHUB_TOKEN: ${{ secrets.CI_TOKEN }}
+          USER: heppokofrontend
           EMAIL: github-actions[bot]@users.noreply.github.com
         run: |
           if [[ "${{ github.event.pull_request.head.repo.fork }}" == "true" ]]; then
@@ -28,11 +29,11 @@ jobs:
               echo "* Setup..."
               git clone https://github.com/${{ github.repository }} workspace
               cd workspace
-              git config user.name "${{ github.actor }}"
+              git config user.name "${{ env.USER }}"
               git config user.email "${{ env.EMAIL }}"
 
               echo "* Creating the resolve branch..."
-              git remote set-url origin "https://${{ github.actor }}:${{ env.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+              git remote set-url origin "https://${{ env.USER }}:${{ env.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
               git switch main
               git switch -c "$BRANCH_NAME"
 
