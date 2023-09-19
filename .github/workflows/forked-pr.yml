@@ -12,39 +12,41 @@ jobs:
 
     steps:
       - name: Check if PR is from a fork
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           if [[ "${{ github.event.pull_request.head.repo.fork }}" == "true" ]]; then
-            echo "PR is from a fork, continuing with workflow..."
+            echo "* PR is from a fork, continuing with workflow..."
 
             if [[ "${{ github.event.pull_request.base.ref }}" == "main" ]]; then
               PR_NUMBER="${{ github.event.pull_request.number }}"
               BRANCH_NAME="resolve/pr-${PR_NUMBER}"
 
-              echo "Cloning..."
+              echo "* Cloning..."
               git clone https://github.com/${{ github.repository }} workspace
               cd workspace
+
+              echo "* Creating the resolve branch..."
               git config --global user.name "github-actions[bot]"
               git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-              echo "Creating the resolve branch..."
               git switch main
               git switch -c "$BRANCH_NAME"
-              git push -u origin HEAD
+              git push origin "$BRANCH_NAME"
 
-              echo "Changing the base branch..."
+              echo "* Changing the base branch..."
               curl -X PATCH -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
                 -d "{\"base\": \"$BRANCH_NAME\"}" \
                 "https://api.github.com/repos/${{ github.repository }}/pulls/${PR_NUMBER}"
 
-              echo "Assigning reviewer..."
+              echo "* Assigning reviewer..."
               curl -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
                 -d '{"reviewers": ["heppokofrontend"]}' \
                 "https://api.github.com/repos/${{ github.repository }}/pulls/${PR_NUMBER}/requested_reviewers"
             else
-              echo "PR base branch is not main, skipping workflow..."
+              echo "* PR base branch is not main, skipping workflow..."
             fi
           else
-            echo "PR is not from a fork, skipping workflow..."
+            echo "* PR is not from a fork, skipping workflow..."
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
