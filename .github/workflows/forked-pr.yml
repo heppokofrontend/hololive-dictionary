@@ -33,11 +33,13 @@ jobs:
               cd workspace
 
               echo "* Creating the resolve branch..."
-              git remote set-url origin https://${{ env.GITHUB_NAME }}:${{ env.CI_TOKEN }}@github.com/${{ github.repository }}
               git config --local user.email ${{ env.GITHUB_MAIL }}
               git config --local user.name ${{ env.GITHUB_NAME }}
               git switch main
               git switch -c "$BRANCH_NAME"
+
+              echo "* Pushing..."
+              git remote set-url origin https://${{ env.GITHUB_NAME }}:${{ env.CI_TOKEN }}@github.com/${{ github.repository }}
               git push origin "$BRANCH_NAME"
 
               echo "* Changing the base branch..."
