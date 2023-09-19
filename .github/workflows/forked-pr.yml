@@ -35,7 +35,7 @@ jobs:
               git switch -c "$BRANCH_NAME"
 
               echo "* Pushing..."
-              git remote set-url origin https://heppokofrontend:${{ env.CI_TOKEN }}@github.com/${{ github.repository }}
+              git remote set-url origin https://${{ env.CI_TOKEN }}@github.com/${{ github.repository }}.git
               git push origin "$BRANCH_NAME"
 
               echo "* Changing the base branch..."
