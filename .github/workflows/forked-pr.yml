@@ -27,10 +27,13 @@ jobs:
               cd workspace
 
               echo "* Creating the resolve branch..."
+              git config --global --add safe.directory "${GITHUB_WORKSPACE}"
               git config --global user.name "github-actions[bot]"
               git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
               git switch main
               git switch -c "$BRANCH_NAME"
+              git config --global user.name
+              git config --global user.email
               git push origin "$BRANCH_NAME"
 
               echo "* Changing the base branch..."
