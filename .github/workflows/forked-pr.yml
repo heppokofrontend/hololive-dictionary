@@ -18,8 +18,8 @@ jobs:
       - name: Check if PR is from a fork
         env:
           CI_TOKEN: ${{ secrets.CI_TOKEN }}
-          GITHUB_MAIL: 41898282+github-actions[bot]@users.noreply.github.com
-          GITHUB_NAME: github-actions[bot]
+          GITHUB_MAIL: ${{ secrets.EMAIL }}
+          GITHUB_NAME: heppokofrontend
         run: |
           if [[ "${{ github.event.pull_request.head.repo.fork }}" == "true" ]]; then
             echo "* PR is from a fork, continuing with workflow..."
@@ -33,7 +33,7 @@ jobs:
               cd workspace
 
               echo "* Creating the resolve branch..."
-              git remote set-url origin https://github-actions:${{ secrets.CI_TOKEN }}@github.com/${{ github.repository }}
+              git remote set-url origin https://${{ env.GITHUB_NAME }}:${{ env.CI_TOKEN }}@github.com/${{ github.repository }}
               git config --local user.email ${{ env.GITHUB_MAIL }}
               git config --local user.name ${{ env.GITHUB_NAME }}
               git switch main
@@ -41,12 +41,12 @@ jobs:
               git push origin "$BRANCH_NAME"
 
               echo "* Changing the base branch..."
-              curl -X PATCH -H "Authorization: token ${{ secrets.CI_TOKEN }}" \
+              curl -X PATCH -H "Authorization: token ${{ env.CI_TOKEN }}" \
                 -d "{\"base\": \"$BRANCH_NAME\"}" \
                 "https://api.github.com/repos/${{ github.repository }}/pulls/${PR_NUMBER}"
 
               echo "* Assigning reviewer..."
-              curl -X POST -H "Authorization: token ${{ secrets.CI_TOKEN }}" \
+              curl -X POST -H "Authorization: token ${{ env.CI_TOKEN }}" \
                 -d '{"reviewers": ["heppokofrontend"]}' \
                 "https://api.github.com/repos/${{ github.repository }}/pulls/${PR_NUMBER}/requested_reviewers"
             else
