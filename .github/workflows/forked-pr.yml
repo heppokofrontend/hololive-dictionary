@@ -8,11 +8,7 @@ on:
 
 jobs:
   create-resolve-branch:
-    permissions:
-      contents: write
-      pull-requests: write
-      actions: write
-      checks: write
+    permissions: write-all
 
     runs-on: ubuntu-latest
 
