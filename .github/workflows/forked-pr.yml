@@ -12,7 +12,8 @@ jobs:
 
     steps:
       - name: Clone the repository
-        uses: actions/checkout@v2
+        run: git clone https://github.com/${{ github.repository }} workspace
+
       - name: Check if PR is from a fork
         run: |
           if [[ "${{ github.event.pull_request.head.repo.fork }}" == "true" ]]; then
@@ -22,11 +23,8 @@ jobs:
               PR_NUMBER="${{ github.event.pull_request.number }}"
               BRANCH_NAME="resolve/pr-${PR_NUMBER}"
 
-              FULL_REPO_NAME="${{ github.repository }}"
-              REPO_NAME="${FULL_REPO_NAME#*/}"
-
               # resolve ブランチを作成
-              cd "$REPO_NAME"
+              cd workspace
               git checkout main
               git checkout -b "$BRANCH_NAME"
               git push origin "$BRANCH_NAME"
