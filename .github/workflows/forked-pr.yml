@@ -11,13 +11,16 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
+      actions: write
+      checks: write
 
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v1
       - name: Check if PR is from a fork
         env:
-          CI_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           if [[ "${{ github.event.pull_request.head.repo.fork }}" == "true" ]]; then
             echo "* PR is from a fork, continuing with workflow..."
@@ -26,25 +29,25 @@ jobs:
               PR_NUMBER="${{ github.event.pull_request.number }}"
               BRANCH_NAME="resolve/pr-${PR_NUMBER}"
 
-              echo "* Cloning..."
-              git clone https://github.com/${{ github.repository }} workspace
-              cd workspace
+              echo "* Setup..."
+              git config user.name ${NAME}
+              git config user.email ${EMAIL}
 
               echo "* Creating the resolve branch..."
               git switch main
               git switch -c "$BRANCH_NAME"
 
               echo "* Pushing..."
-              git remote set-url origin https://heppokofrontend:${{ env.CI_TOKEN }}@github.com/${{ github.repository }}.git
+              git remote set-url origin https://github-actions:${{ env.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
               git push origin "$BRANCH_NAME"
 
               echo "* Changing the base branch..."
-              curl -X PATCH -H "Authorization: token ${{ env.CI_TOKEN }}" \
+              curl -X PATCH -H "Authorization: token ${{ env.GITHUB_TOKEN }}" \
                 -d "{\"base\": \"$BRANCH_NAME\"}" \
                 "https://api.github.com/repos/${{ github.repository }}/pulls/${PR_NUMBER}"
 
               echo "* Assigning reviewer..."
-              curl -X POST -H "Authorization: token ${{ env.CI_TOKEN }}" \
+              curl -X POST -H "Authorization: token ${{ env.GITHUB_TOKEN }}" \
                 -d '{"reviewers": ["heppokofrontend"]}' \
                 "https://api.github.com/repos/${{ github.repository }}/pulls/${PR_NUMBER}/requested_reviewers"
             else
