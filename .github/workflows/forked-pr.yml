@@ -18,8 +18,8 @@ jobs:
       - name: Check if PR is from a fork
         env:
           CI_TOKEN: ${{ secrets.CI_TOKEN }}
-          EMAIL: ${{ secrets.EMAIL }}
-          GITHUB_NAME: heppokofrontend
+          USER_EMAIL: ${{ secrets.EMAIL }}
+          USER_NAME: heppokofrontend
         run: |
           if [[ "${{ github.event.pull_request.head.repo.fork }}" == "true" ]]; then
             echo "* PR is from a fork, continuing with workflow..."
@@ -33,13 +33,13 @@ jobs:
               cd workspace
 
               echo "* Creating the resolve branch..."
-              git config --local user.email ${{ env.EMAIL }}
-              git config --local user.name ${{ env.GITHUB_NAME }}
               git switch main
               git switch -c "$BRANCH_NAME"
+              git config --local user.email ${{ env.USER_EMAIL }}
+              git config --local user.name ${{ env.USER_NAME }}
 
               echo "* Pushing..."
-              git remote set-url origin https://${{ env.GITHUB_NAME }}:${{ env.CI_TOKEN }}@github.com/${{ github.repository }}
+              git remote set-url origin https://${{ env.USER_NAME }}:${{ env.CI_TOKEN }}@github.com/${{ github.repository }}
               git push origin "$BRANCH_NAME"
 
               echo "* Changing the base branch..."
