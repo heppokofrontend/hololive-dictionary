@@ -1,0 +1,44 @@
+name: Fork PR Workflow
+
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+
+jobs:
+  create-resolve-branch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check if PR is from a fork
+        run: |
+          if [[ "${{ github.event.pull_request.head.repo.fork }}" == "true" ]]; then
+            echo "PR is from a fork, continuing with workflow..."
+
+            if [[ "${{ github.event.pull_request.base.ref }}" == "main" ]]; then
+              PR_NUMBER="${{ github.event.pull_request.number }}"
+              BRANCH_NAME="resolve/pr-${PR_NUMBER}"
+
+              # resolve ブランチを作成
+              git checkout main
+              git checkout -b "$BRANCH_NAME"
+              git push origin "$BRANCH_NAME"
+
+              # PR の向き先を resolve ブランチに変更
+              curl -X PATCH -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+                -d "{\"base\": \"$BRANCH_NAME\"}" \
+                "https://api.github.com/repos/${{ github.repository }}/pulls/${PR_NUMBER}"
+
+              # レビューアを指定
+              curl -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+                -d '{"reviewers": ["heppokofrontend"]}' \
+                "https://api.github.com/repos/${{ github.repository }}/pulls/${PR_NUMBER}/requested_reviewers"
+            else
+              echo "PR base branch is not main, skipping workflow..."
+            fi
+          else
+            echo "PR is not from a fork, skipping workflow..."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
