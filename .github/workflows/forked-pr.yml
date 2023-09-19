@@ -48,5 +48,3 @@ jobs:
           else
             echo "* PR is not from a fork, skipping workflow..."
           fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
