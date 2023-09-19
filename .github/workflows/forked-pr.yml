@@ -32,8 +32,8 @@ jobs:
               BRANCH_NAME="resolve/pr-${PR_NUMBER}"
 
               echo "* Setup..."
-              git config user.name ${NAME}
-              git config user.email ${EMAIL}
+              git config user.name ${{ env.NAME }}
+              git config user.email ${{ env.EMAIL }}
 
               echo "* Creating the resolve branch..."
               git switch main
