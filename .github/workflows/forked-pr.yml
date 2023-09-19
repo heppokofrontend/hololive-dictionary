@@ -31,7 +31,7 @@ jobs:
               BRANCH_NAME="resolve/pr-${PR_NUMBER}"
 
               echo "* Setup..."
-              git config user.name ${{ github.actor }}
+              git config user.name github-actions
               git config user.email ${{ env.EMAIL }}
 
               echo "* Creating the resolve branch..."
