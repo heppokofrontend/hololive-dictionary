@@ -36,7 +36,7 @@ jobs:
               git config user.email "${{ env.EMAIL }}"
 
               echo "* Creating the resolve branch..."
-              git remote set-url origin "https://${{ env.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+              git remote set-url origin "https://${{ github.actor }}:${{ env.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
               git switch main
               git switch -c "$BRANCH_NAME"
 
