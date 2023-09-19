@@ -21,7 +21,7 @@ jobs:
       - name: Check if PR is from a fork
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          EMAIL: ${{ secrets.EMAIL }}
+          EMAIL: github-actions[bot]@users.noreply.github.com
         run: |
           if [[ "${{ github.event.pull_request.head.repo.fork }}" == "true" ]]; then
             echo "* PR is from a fork, continuing with workflow..."
@@ -31,8 +31,8 @@ jobs:
               BRANCH_NAME="resolve/pr-${PR_NUMBER}"
 
               echo "* Setup..."
-              git config user.name github-actions
-              git config user.email ${{ env.EMAIL }}
+              git config user.name "${{ github.actor }}"
+              git config user.email "${{ env.EMAIL }}"
 
               echo "* Creating the resolve branch..."
               git switch main
