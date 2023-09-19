@@ -35,8 +35,6 @@ jobs:
               echo "* Creating the resolve branch..."
               git switch main
               git switch -c "$BRANCH_NAME"
-              git config --local user.email ${{ env.USER_EMAIL }}
-              git config --local user.name ${{ env.USER_NAME }}
 
               echo "* Pushing..."
               git remote set-url origin https://${{ env.USER_NAME }}:${{ env.CI_TOKEN }}@github.com/${{ github.repository }}
