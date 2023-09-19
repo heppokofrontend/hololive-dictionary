@@ -21,6 +21,8 @@ jobs:
       - name: Check if PR is from a fork
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NAME: ${{ github.actor }}
+          EMAIL: ${{ secrets.EMAIL }}
         run: |
           if [[ "${{ github.event.pull_request.head.repo.fork }}" == "true" ]]; then
             echo "* PR is from a fork, continuing with workflow..."
