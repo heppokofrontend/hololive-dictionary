@@ -18,8 +18,6 @@ jobs:
       - name: Check if PR is from a fork
         env:
           CI_TOKEN: ${{ secrets.CI_TOKEN }}
-          USER_EMAIL: ${{ secrets.EMAIL }}
-          USER_NAME: heppokofrontend
         run: |
           if [[ "${{ github.event.pull_request.head.repo.fork }}" == "true" ]]; then
             echo "* PR is from a fork, continuing with workflow..."
@@ -37,7 +35,7 @@ jobs:
               git switch -c "$BRANCH_NAME"
 
               echo "* Pushing..."
-              git remote set-url origin https://${{ env.USER_NAME }}:${{ env.CI_TOKEN }}@github.com/${{ github.repository }}
+              git remote set-url origin https://heppokofrontend:${{ env.CI_TOKEN }}@github.com/${{ github.repository }}
               git push origin "$BRANCH_NAME"
 
               echo "* Changing the base branch..."
