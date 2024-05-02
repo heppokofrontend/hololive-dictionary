@@ -749,9 +749,13 @@ devis	DEV_IS	名詞
 ～アキロゼ	ロゼ隊	名詞
 ～ムキロゼ	ロゼ隊	名詞
 ＠アキローゼンタール	@akirosenthal	名詞
+＠アキローゼンタール	@akirose_sub	名詞	アキロゼの日常
 ＠アキ	@akirosenthal	名詞
+＠アキ	@akirose_sub	名詞	アキロゼの日常
 ＠アキロゼ	@akirosenthal	名詞
+＠アキロゼ	@akirose_sub	名詞	アキロゼの日常
 ＠ムキロゼ	@akirosenthal	名詞
+＠ムキロゼ	@akirose_sub	名詞	アキロゼの日常
 アロエ	アロ絵	名詞
 ミナトアクア	湊あくあ	人名
 ミナト	湊	人名
