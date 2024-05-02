@@ -3,6 +3,7 @@ export const azuki: LiverData = {
   alias: [['あずきち']],
   marks: ['⚒️'],
   tags: [
+    ['#AZKi', '総合'],
     ['#AZKiART', 'ファンアート'],
     ['#あずきんち', '自宅生放送（通常）'],
     ['#AZKi生放送', 'ライブ生放送'],
