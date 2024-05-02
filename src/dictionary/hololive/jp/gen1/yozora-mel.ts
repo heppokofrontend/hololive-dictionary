@@ -11,6 +11,13 @@ export const yozoraMel: LiverData = {
     ['#メルメルD', 'MMD素材'],
   ],
   fans: ['かぷ民'],
-  twitter: ['@yozoramel', '@YozoramelS'],
+  twitter: [
+    '@yozoramel',
+    ['@YozoramelS', 'パスワード紛失により動かせないサブ垢'],
+    ['@mel_kapu', 'サブ垢'],
+  ],
   others: [['かぷみん', 'かぷ民']],
+  flags: {
+    isActive: false,
+  },
 };
