@@ -20,6 +20,6 @@ export const akiRosenthal: LiverData = {
   ],
   sensitiveTags: [['#スケベなアロ絵', 'R-18アート']],
   fans: ['ロゼ隊'],
-  twitter: ['@akirosenthal'],
+  twitter: ['@akirosenthal', ['@akirose_sub', 'アキロゼの日常']],
   others: [['あろえ', 'アロ絵']],
 };
