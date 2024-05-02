@@ -626,13 +626,17 @@ devis	DEV_IS	名詞
 ～メル	かぷ民	名詞
 ～メルメル	かぷ民	名詞
 ＠ヨゾラメル	@yozoramel	名詞
-＠ヨゾラメル	@YozoramelS	名詞
+＠ヨゾラメル	@YozoramelS	名詞	パスワード紛失により動かせないサブ垢
+＠ヨゾラメル	@mel_kapu	名詞	サブ垢
 ＠ヨゾラ	@yozoramel	名詞
-＠ヨゾラ	@YozoramelS	名詞
+＠ヨゾラ	@YozoramelS	名詞	パスワード紛失により動かせないサブ垢
+＠ヨゾラ	@mel_kapu	名詞	サブ垢
 ＠メル	@yozoramel	名詞
-＠メル	@YozoramelS	名詞
+＠メル	@YozoramelS	名詞	パスワード紛失により動かせないサブ垢
+＠メル	@mel_kapu	名詞	サブ垢
 ＠メルメル	@yozoramel	名詞
-＠メルメル	@YozoramelS	名詞
+＠メルメル	@YozoramelS	名詞	パスワード紛失により動かせないサブ垢
+＠メルメル	@mel_kapu	名詞	サブ垢
 カプミン	かぷ民	名詞
 アカイハアト	赤井はあと	人名
 アカイ	赤井	人名
