@@ -12,5 +12,5 @@ export const tokoyamiTowa: LiverData = {
   ],
   fans: ['常闇眷属', '眷属'],
   twitter: ['@tokoyamitowa'],
-  others: [['ｔｍｔ', 'トワ様マジ天使']],
+  others: [['tmt', 'トワ様マジ天使']],
 };

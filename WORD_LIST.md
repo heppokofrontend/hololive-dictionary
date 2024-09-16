@@ -68,22 +68,22 @@
 |`＠ほぉぃヴぇ`|@hololivetv|ホロライブプロダクション公式|
 |`＠ほぉぃヴぇ`|@hololive_En|ホロライブプロダクションEN公式|
 |`＠ほぉぃヴぇ`|@hololive_Id|ホロライブID公式|
-|`ほろｊｐ`|HololiveJP||
-|`ほろらいぶｊｐ`|HololiveJP||
-|`：ほろｊｐ`|▶||
-|`：ほろらいぶｊｐ`|▶||
-|`＠ほろｊｐ`|@hololivetv|ホロライブプロダクション公式|
-|`＠ほろらいぶｊｐ`|@hololivetv|ホロライブプロダクション公式|
+|`ほろjp`|HololiveJP||
+|`ほろらいぶjp`|HololiveJP||
+|`：ほろjp`|▶||
+|`：ほろらいぶjp`|▶||
+|`＠ほろjp`|@hololivetv|ホロライブプロダクション公式|
+|`＠ほろらいぶjp`|@hololivetv|ホロライブプロダクション公式|
 |`ほろらいぶen`|hololive English||
 |`ほろen`|HololiveEN||
-|`ほろらいぶえｎ`|hololive English||
-|`ほろえｎ`|HololiveEN||
+|`ほろらいぶえn`|hololive English||
+|`ほろえn`|HololiveEN||
 |`ほろらいぶえん`|hololive English||
 |`ほろえん`|HololiveEN||
 |`ほぉぃヴぇen`|hololive English||
 |`ほぉen`|HololiveEN||
-|`ほぉぃヴぇえｎ`|hololive English||
-|`ほぉえｎ`|HololiveEN||
+|`ほぉぃヴぇえn`|hololive English||
+|`ほぉえn`|HololiveEN||
 |`ほぉぃヴぇえん`|hololive English||
 |`ほぉえん`|HololiveEN||
 |`hololiveen`|hololive English||
@@ -92,14 +92,14 @@
 |`Holoen`|HololiveEN||
 |`：ほろらいぶen`|▶||
 |`：ほろen`|▶||
-|`：ほろらいぶえｎ`|▶||
-|`：ほろえｎ`|▶||
+|`：ほろらいぶえn`|▶||
+|`：ほろえn`|▶||
 |`：ほろらいぶえん`|▶||
 |`：ほろえん`|▶||
 |`：ほぉぃヴぇen`|▶||
 |`：ほぉen`|▶||
-|`：ほぉぃヴぇえｎ`|▶||
-|`：ほぉえｎ`|▶||
+|`：ほぉぃヴぇえn`|▶||
+|`：ほぉえn`|▶||
 |`：ほぉぃヴぇえん`|▶||
 |`：ほぉえん`|▶||
 |`：hololiveen`|▶||
@@ -107,14 +107,14 @@
 |`：Holoen`|▶||
 |`＠ほろらいぶen`|@hololive_En||
 |`＠ほろen`|@hololive_En||
-|`＠ほろらいぶえｎ`|@hololive_En||
-|`＠ほろえｎ`|@hololive_En||
+|`＠ほろらいぶえn`|@hololive_En||
+|`＠ほろえn`|@hololive_En||
 |`＠ほろらいぶえん`|@hololive_En||
 |`＠ほろえん`|@hololive_En||
 |`＠ほぉぃヴぇen`|@hololive_En||
 |`＠ほぉen`|@hololive_En||
-|`＠ほぉぃヴぇえｎ`|@hololive_En||
-|`＠ほぉえｎ`|@hololive_En||
+|`＠ほぉぃヴぇえn`|@hololive_En||
+|`＠ほぉえn`|@hololive_En||
 |`＠ほぉぃヴぇえん`|@hololive_En||
 |`＠ほぉえん`|@hololive_En||
 |`＠hololiveen`|@hololive_En||
@@ -122,35 +122,35 @@
 |`＠Holoen`|@hololive_En||
 |`ほろらいぶid`|hololive Indonesia||
 |`ほろid`|HololiveID||
-|`ほろらいぶいｄ`|hololive Indonesia||
-|`ほろいｄ`|HololiveID||
+|`ほろらいぶいd`|hololive Indonesia||
+|`ほろいd`|HololiveID||
 |`ほぉぃヴぇid`|hololive Indonesia||
 |`ほぉid`|HololiveID||
-|`ほぉぃヴぇいｄ`|hololive Indonesia||
-|`ほぉいｄ`|HololiveID||
+|`ほぉぃヴぇいd`|hololive Indonesia||
+|`ほぉいd`|HololiveID||
 |`hololiveid`|hololive Indonesia||
 |`holoid`|hololive Indonesia||
 |`holoid`|HololiveID||
 |`Holoid`|HololiveID||
 |`：ほろらいぶid`|▶||
 |`：ほろid`|▶||
-|`：ほろらいぶいｄ`|▶||
-|`：ほろいｄ`|▶||
+|`：ほろらいぶいd`|▶||
+|`：ほろいd`|▶||
 |`：ほぉぃヴぇid`|▶||
 |`：ほぉid`|▶||
-|`：ほぉぃヴぇいｄ`|▶||
-|`：ほぉいｄ`|▶||
+|`：ほぉぃヴぇいd`|▶||
+|`：ほぉいd`|▶||
 |`：hololiveid`|▶||
 |`：holoid`|▶||
 |`：Holoid`|▶||
 |`＠ほろらいぶid`|@hololive_Id||
 |`＠ほろid`|@hololive_Id||
-|`＠ほろらいぶいｄ`|@hololive_Id||
-|`＠ほろいｄ`|@hololive_Id||
+|`＠ほろらいぶいd`|@hololive_Id||
+|`＠ほろいd`|@hololive_Id||
 |`＠ほぉぃヴぇid`|@hololive_Id||
 |`＠ほぉid`|@hololive_Id||
-|`＠ほぉぃヴぇいｄ`|@hololive_Id||
-|`＠ほぉいｄ`|@hololive_Id||
+|`＠ほぉぃヴぇいd`|@hololive_Id||
+|`＠ほぉいd`|@hololive_Id||
 |`＠hololiveid`|@hololive_Id||
 |`＠holoid`|@hololive_Id||
 |`＠Holoid`|@hololive_Id||
@@ -166,14 +166,14 @@
 |`ほろdevis`|hololive DEV_IS||
 |`ほぉぃヴぇdevis`|hololive DEV_IS||
 |`ほぉdevis`|hololive DEV_IS||
-|`ほろらいぶでヴぃｓ`|hololive DEV_IS||
-|`ほろでヴぃｓ`|hololive DEV_IS||
-|`ほぉいヴぇでヴぃｓ`|hololive DEV_IS||
-|`ほぉでヴぃｓ`|hololive DEV_IS||
+|`ほろらいぶでヴぃs`|hololive DEV_IS||
+|`ほろでヴぃs`|hololive DEV_IS||
+|`ほぉいヴぇでヴぃs`|hololive DEV_IS||
+|`ほぉでヴぃs`|hololive DEV_IS||
 |`hololivedevis`|hololive DEV_IS||
 |`holodevis`|hololive DEV_IS||
 |`でばいす`|DEV_IS||
-|`でヴぃｓ`|DEV_IS||
+|`でヴぃs`|DEV_IS||
 |`dev_is`|DEV_IS||
 |`devis`|DEV_IS||
 |`：ほろらいぶでばいす`|▶||
@@ -188,14 +188,14 @@
 |`：ほろdevis`|▶||
 |`：ほぉぃヴぇdevis`|▶||
 |`：ほぉdevis`|▶||
-|`：ほろらいぶでヴぃｓ`|▶||
-|`：ほろでヴぃｓ`|▶||
-|`：ほぉいヴぇでヴぃｓ`|▶||
-|`：ほぉでヴぃｓ`|▶||
+|`：ほろらいぶでヴぃs`|▶||
+|`：ほろでヴぃs`|▶||
+|`：ほぉいヴぇでヴぃs`|▶||
+|`：ほぉでヴぃs`|▶||
 |`：hololivedevis`|▶||
 |`：holodevis`|▶||
 |`：でばいす`|▶||
-|`：でヴぃｓ`|▶||
+|`：でヴぃs`|▶||
 |`：dev_is`|▶||
 |`：devis`|▶||
 |`ゆうじんえー`|友人A||
@@ -1737,7 +1737,7 @@
 |`＠とわ`|@tokoyamitowa||
 |`＠とわち`|@tokoyamitowa||
 |`＠とわさま`|@tokoyamitowa||
-|`ｔｍｔ`|トワ様マジ天使||
+|`tmt`|トワ様マジ天使||
 |`ひめもりるーな`|姫森ルーナ||
 |`ひめもり`|姫森||
 |`るーな`|ルーナ||
@@ -3864,10 +3864,10 @@
 |`＠がヴぃす`|@gavisbettel||
 |`まきな`|Machina||
 |`ふれおん`|Flayon||
-|`まきなｘふれおん`|Machina X Flayon||
+|`まきなxふれおん`|Machina X Flayon||
 |`：まきな`|🪫||
 |`：ふれおん`|🪫||
-|`：まきなｘふれおん`|🪫||
+|`：まきなxふれおん`|🪫||
 |`＃まきな`|#FlayOnAir|生放送|
 |`＃まきな`|#FlayonsCrayons|ファンアート|
 |`＃まきな`|#MachironiXCheese|memes|
@@ -3876,16 +3876,16 @@
 |`＃ふれおん`|#FlayonsCrayons|ファンアート|
 |`＃ふれおん`|#MachironiXCheese|memes|
 |`＃ふれおん`|#FlayOnWords|切り抜き|
-|`＃まきなｘふれおん`|#FlayOnAir|生放送|
-|`＃まきなｘふれおん`|#FlayonsCrayons|ファンアート|
-|`＃まきなｘふれおん`|#MachironiXCheese|memes|
-|`＃まきなｘふれおん`|#FlayOnWords|切り抜き|
+|`＃まきなxふれおん`|#FlayOnAir|生放送|
+|`＃まきなxふれおん`|#FlayonsCrayons|ファンアート|
+|`＃まきなxふれおん`|#MachironiXCheese|memes|
+|`＃まきなxふれおん`|#FlayOnWords|切り抜き|
 |`～まきな`|Machiroons||
 |`～ふれおん`|Machiroons||
-|`～まきなｘふれおん`|Machiroons||
+|`～まきなxふれおん`|Machiroons||
 |`＠まきな`|@machinaxflayon||
 |`＠ふれおん`|@machinaxflayon||
-|`＠まきなｘふれおん`|@machinaxflayon||
+|`＠まきなxふれおん`|@machinaxflayon||
 |`まきなふれおん`|Machina X Flayon||
 |`まんしょういんはっか`|万象院ハッカ||
 |`まんしょういん`|万象院||

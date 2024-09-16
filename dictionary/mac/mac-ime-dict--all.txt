@@ -56,22 +56,22 @@
 ＠ほぉぃゔぇ,@hololivetv,普通名詞,ホロライブプロダクション公式
 ＠ほぉぃゔぇ,@hololive_En,普通名詞,ホロライブプロダクションEN公式
 ＠ほぉぃゔぇ,@hololive_Id,普通名詞,ホロライブID公式
-ほろｊｐ,HololiveJP,普通名詞
-ほろらいぶｊｐ,HololiveJP,普通名詞
-：ほろｊｐ,▶,普通名詞
-：ほろらいぶｊｐ,▶,普通名詞
-＠ほろｊｐ,@hololivetv,普通名詞,ホロライブプロダクション公式
-＠ほろらいぶｊｐ,@hololivetv,普通名詞,ホロライブプロダクション公式
+ほろjp,HololiveJP,普通名詞
+ほろらいぶjp,HololiveJP,普通名詞
+：ほろjp,▶,普通名詞
+：ほろらいぶjp,▶,普通名詞
+＠ほろjp,@hololivetv,普通名詞,ホロライブプロダクション公式
+＠ほろらいぶjp,@hololivetv,普通名詞,ホロライブプロダクション公式
 ほろらいぶen,hololive English,普通名詞
 ほろen,HololiveEN,普通名詞
-ほろらいぶえｎ,hololive English,普通名詞
-ほろえｎ,HololiveEN,普通名詞
+ほろらいぶえn,hololive English,普通名詞
+ほろえn,HololiveEN,普通名詞
 ほろらいぶえん,hololive English,普通名詞
 ほろえん,HololiveEN,普通名詞
 ほぉぃゔぇen,hololive English,普通名詞
 ほぉen,HololiveEN,普通名詞
-ほぉぃゔぇえｎ,hololive English,普通名詞
-ほぉえｎ,HololiveEN,普通名詞
+ほぉぃゔぇえn,hololive English,普通名詞
+ほぉえn,HololiveEN,普通名詞
 ほぉぃゔぇえん,hololive English,普通名詞
 ほぉえん,HololiveEN,普通名詞
 ｈｏｌｏｌｉｖｅｅｎ,hololive English,普通名詞
@@ -84,14 +84,14 @@
 Ｈｏｌｏｅｎ,HololiveEN,普通名詞
 ：ほろらいぶen,▶,普通名詞
 ：ほろen,▶,普通名詞
-：ほろらいぶえｎ,▶,普通名詞
-：ほろえｎ,▶,普通名詞
+：ほろらいぶえn,▶,普通名詞
+：ほろえn,▶,普通名詞
 ：ほろらいぶえん,▶,普通名詞
 ：ほろえん,▶,普通名詞
 ：ほぉぃゔぇen,▶,普通名詞
 ：ほぉen,▶,普通名詞
-：ほぉぃゔぇえｎ,▶,普通名詞
-：ほぉえｎ,▶,普通名詞
+：ほぉぃゔぇえn,▶,普通名詞
+：ほぉえn,▶,普通名詞
 ：ほぉぃゔぇえん,▶,普通名詞
 ：ほぉえん,▶,普通名詞
 ：hololiveen,▶,普通名詞
@@ -99,14 +99,14 @@
 ：Holoen,▶,普通名詞
 ＠ほろらいぶen,@hololive_En,普通名詞
 ＠ほろen,@hololive_En,普通名詞
-＠ほろらいぶえｎ,@hololive_En,普通名詞
-＠ほろえｎ,@hololive_En,普通名詞
+＠ほろらいぶえn,@hololive_En,普通名詞
+＠ほろえn,@hololive_En,普通名詞
 ＠ほろらいぶえん,@hololive_En,普通名詞
 ＠ほろえん,@hololive_En,普通名詞
 ＠ほぉぃゔぇen,@hololive_En,普通名詞
 ＠ほぉen,@hololive_En,普通名詞
-＠ほぉぃゔぇえｎ,@hololive_En,普通名詞
-＠ほぉえｎ,@hololive_En,普通名詞
+＠ほぉぃゔぇえn,@hololive_En,普通名詞
+＠ほぉえn,@hololive_En,普通名詞
 ＠ほぉぃゔぇえん,@hololive_En,普通名詞
 ＠ほぉえん,@hololive_En,普通名詞
 ＠hololiveen,@hololive_En,普通名詞
@@ -114,12 +114,12 @@
 ＠Holoen,@hololive_En,普通名詞
 ほろらいぶid,hololive Indonesia,普通名詞
 ほろid,HololiveID,普通名詞
-ほろらいぶいｄ,hololive Indonesia,普通名詞
-ほろいｄ,HololiveID,普通名詞
+ほろらいぶいd,hololive Indonesia,普通名詞
+ほろいd,HololiveID,普通名詞
 ほぉぃゔぇid,hololive Indonesia,普通名詞
 ほぉid,HololiveID,普通名詞
-ほぉぃゔぇいｄ,hololive Indonesia,普通名詞
-ほぉいｄ,HololiveID,普通名詞
+ほぉぃゔぇいd,hololive Indonesia,普通名詞
+ほぉいd,HololiveID,普通名詞
 ｈｏｌｏｌｉｖｅｉｄ,hololive Indonesia,普通名詞
 Ｈｏｌｏｌｉｖｅｉｄ,hololive Indonesia,普通名詞
 ｈｏｌｏｉｄ,hololive Indonesia,普通名詞
@@ -130,23 +130,23 @@
 Ｈｏｌｏｉｄ,HololiveID,普通名詞
 ：ほろらいぶid,▶,普通名詞
 ：ほろid,▶,普通名詞
-：ほろらいぶいｄ,▶,普通名詞
-：ほろいｄ,▶,普通名詞
+：ほろらいぶいd,▶,普通名詞
+：ほろいd,▶,普通名詞
 ：ほぉぃゔぇid,▶,普通名詞
 ：ほぉid,▶,普通名詞
-：ほぉぃゔぇいｄ,▶,普通名詞
-：ほぉいｄ,▶,普通名詞
+：ほぉぃゔぇいd,▶,普通名詞
+：ほぉいd,▶,普通名詞
 ：hololiveid,▶,普通名詞
 ：holoid,▶,普通名詞
 ：Holoid,▶,普通名詞
 ＠ほろらいぶid,@hololive_Id,普通名詞
 ＠ほろid,@hololive_Id,普通名詞
-＠ほろらいぶいｄ,@hololive_Id,普通名詞
-＠ほろいｄ,@hololive_Id,普通名詞
+＠ほろらいぶいd,@hololive_Id,普通名詞
+＠ほろいd,@hololive_Id,普通名詞
 ＠ほぉぃゔぇid,@hololive_Id,普通名詞
 ＠ほぉid,@hololive_Id,普通名詞
-＠ほぉぃゔぇいｄ,@hololive_Id,普通名詞
-＠ほぉいｄ,@hololive_Id,普通名詞
+＠ほぉぃゔぇいd,@hololive_Id,普通名詞
+＠ほぉいd,@hololive_Id,普通名詞
 ＠hololiveid,@hololive_Id,普通名詞
 ＠holoid,@hololive_Id,普通名詞
 ＠Holoid,@hololive_Id,普通名詞
@@ -162,16 +162,16 @@
 ほろdevis,hololive DEV_IS,普通名詞
 ほぉぃゔぇdevis,hololive DEV_IS,普通名詞
 ほぉdevis,hololive DEV_IS,普通名詞
-ほろらいぶでゔぃｓ,hololive DEV_IS,普通名詞
-ほろでゔぃｓ,hololive DEV_IS,普通名詞
-ほぉいゔぇでゔぃｓ,hololive DEV_IS,普通名詞
-ほぉでゔぃｓ,hololive DEV_IS,普通名詞
+ほろらいぶでゔぃs,hololive DEV_IS,普通名詞
+ほろでゔぃs,hololive DEV_IS,普通名詞
+ほぉいゔぇでゔぃs,hololive DEV_IS,普通名詞
+ほぉでゔぃs,hololive DEV_IS,普通名詞
 ｈｏｌｏｌｉｖｅｄｅｖｉｓ,hololive DEV_IS,普通名詞
 Ｈｏｌｏｌｉｖｅｄｅｖｉｓ,hololive DEV_IS,普通名詞
 ｈｏｌｏｄｅｖｉｓ,hololive DEV_IS,普通名詞
 Ｈｏｌｏｄｅｖｉｓ,hololive DEV_IS,普通名詞
 でばいす,DEV_IS,普通名詞
-でゔぃｓ,DEV_IS,普通名詞
+でゔぃs,DEV_IS,普通名詞
 dev_is,DEV_IS,普通名詞
 ｄｅｖｉｓ,DEV_IS,普通名詞
 Ｄｅｖｉｓ,DEV_IS,普通名詞
@@ -187,14 +187,14 @@ dev_is,DEV_IS,普通名詞
 ：ほろdevis,▶,普通名詞
 ：ほぉぃゔぇdevis,▶,普通名詞
 ：ほぉdevis,▶,普通名詞
-：ほろらいぶでゔぃｓ,▶,普通名詞
-：ほろでゔぃｓ,▶,普通名詞
-：ほぉいゔぇでゔぃｓ,▶,普通名詞
-：ほぉでゔぃｓ,▶,普通名詞
+：ほろらいぶでゔぃs,▶,普通名詞
+：ほろでゔぃs,▶,普通名詞
+：ほぉいゔぇでゔぃs,▶,普通名詞
+：ほぉでゔぃs,▶,普通名詞
 ：hololivedevis,▶,普通名詞
 ：holodevis,▶,普通名詞
 ：でばいす,▶,普通名詞
-：でゔぃｓ,▶,普通名詞
+：でゔぃs,▶,普通名詞
 ：dev_is,▶,普通名詞
 ：devis,▶,普通名詞
 ゆうじんえー,友人A,人名
@@ -1767,6 +1767,7 @@ dev_is,DEV_IS,普通名詞
 ＠とわち,@tokoyamitowa,普通名詞
 ＠とわさま,@tokoyamitowa,普通名詞
 ｔｍｔ,トワ様マジ天使,普通名詞
+Ｔｍｔ,トワ様マジ天使,普通名詞
 ひめもりるーな,姫森ルーナ,人名
 ひめもり,姫森,人名
 るーな,ルーナ,人名
@@ -3928,10 +3929,10 @@ dev_is,DEV_IS,普通名詞
 ＠がゔぃす,@gavisbettel,普通名詞
 まきな,Machina,人名
 ふれおん,Flayon,人名
-まきなｘふれおん,Machina X Flayon,人名
+まきなxふれおん,Machina X Flayon,人名
 ：まきな,🪫,普通名詞
 ：ふれおん,🪫,普通名詞
-：まきなｘふれおん,🪫,普通名詞
+：まきなxふれおん,🪫,普通名詞
 ＃まきな,#FlayOnAir,普通名詞,生放送
 ＃まきな,#FlayonsCrayons,普通名詞,ファンアート
 ＃まきな,#MachironiXCheese,普通名詞,memes
@@ -3940,16 +3941,16 @@ dev_is,DEV_IS,普通名詞
 ＃ふれおん,#FlayonsCrayons,普通名詞,ファンアート
 ＃ふれおん,#MachironiXCheese,普通名詞,memes
 ＃ふれおん,#FlayOnWords,普通名詞,切り抜き
-＃まきなｘふれおん,#FlayOnAir,普通名詞,生放送
-＃まきなｘふれおん,#FlayonsCrayons,普通名詞,ファンアート
-＃まきなｘふれおん,#MachironiXCheese,普通名詞,memes
-＃まきなｘふれおん,#FlayOnWords,普通名詞,切り抜き
+＃まきなxふれおん,#FlayOnAir,普通名詞,生放送
+＃まきなxふれおん,#FlayonsCrayons,普通名詞,ファンアート
+＃まきなxふれおん,#MachironiXCheese,普通名詞,memes
+＃まきなxふれおん,#FlayOnWords,普通名詞,切り抜き
 〜まきな,Machiroons,普通名詞
 〜ふれおん,Machiroons,普通名詞
-〜まきなｘふれおん,Machiroons,普通名詞
+〜まきなxふれおん,Machiroons,普通名詞
 ＠まきな,@machinaxflayon,普通名詞
 ＠ふれおん,@machinaxflayon,普通名詞
-＠まきなｘふれおん,@machinaxflayon,普通名詞
+＠まきなxふれおん,@machinaxflayon,普通名詞
 まきなふれおん,Machina X Flayon,普通名詞
 まんしょういんはっか,万象院ハッカ,人名
 まんしょういん,万象院,人名

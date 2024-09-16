@@ -54,22 +54,22 @@ Holo	Hololive	名詞
 ＠ホォィヴェ	@hololivetv	名詞	ホロライブプロダクション公式
 ＠ホォィヴェ	@hololive_En	名詞	ホロライブプロダクションEN公式
 ＠ホォィヴェ	@hololive_Id	名詞	ホロライブID公式
-ホロｊｐ	HololiveJP	名詞
-ホロライブｊｐ	HololiveJP	名詞
-：ホロｊｐ	▶	名詞
-：ホロライブｊｐ	▶	名詞
-＠ホロｊｐ	@hololivetv	名詞	ホロライブプロダクション公式
-＠ホロライブｊｐ	@hololivetv	名詞	ホロライブプロダクション公式
+ホロjp	HololiveJP	名詞
+ホロライブjp	HololiveJP	名詞
+：ホロjp	▶	名詞
+：ホロライブjp	▶	名詞
+＠ホロjp	@hololivetv	名詞	ホロライブプロダクション公式
+＠ホロライブjp	@hololivetv	名詞	ホロライブプロダクション公式
 ホロライブen	hololive English	名詞
 ホロen	HololiveEN	名詞
-ホロライブエｎ	hololive English	名詞
-ホロエｎ	HololiveEN	名詞
+ホロライブエn	hololive English	名詞
+ホロエn	HololiveEN	名詞
 ホロライブエン	hololive English	名詞
 ホロエン	HololiveEN	名詞
 ホォィヴェen	hololive English	名詞
 ホォen	HololiveEN	名詞
-ホォィヴェエｎ	hololive English	名詞
-ホォエｎ	HololiveEN	名詞
+ホォィヴェエn	hololive English	名詞
+ホォエn	HololiveEN	名詞
 ホォィヴェエン	hololive English	名詞
 ホォエン	HololiveEN	名詞
 hololiveen	hololive English	名詞
@@ -78,14 +78,14 @@ holoen	HololiveEN	名詞
 Holoen	HololiveEN	名詞
 ：ホロライブen	▶	名詞
 ：ホロen	▶	名詞
-：ホロライブエｎ	▶	名詞
-：ホロエｎ	▶	名詞
+：ホロライブエn	▶	名詞
+：ホロエn	▶	名詞
 ：ホロライブエン	▶	名詞
 ：ホロエン	▶	名詞
 ：ホォィヴェen	▶	名詞
 ：ホォen	▶	名詞
-：ホォィヴェエｎ	▶	名詞
-：ホォエｎ	▶	名詞
+：ホォィヴェエn	▶	名詞
+：ホォエn	▶	名詞
 ：ホォィヴェエン	▶	名詞
 ：ホォエン	▶	名詞
 ：hololiveen	▶	名詞
@@ -93,14 +93,14 @@ Holoen	HololiveEN	名詞
 ：Holoen	▶	名詞
 ＠ホロライブen	@hololive_En	名詞
 ＠ホロen	@hololive_En	名詞
-＠ホロライブエｎ	@hololive_En	名詞
-＠ホロエｎ	@hololive_En	名詞
+＠ホロライブエn	@hololive_En	名詞
+＠ホロエn	@hololive_En	名詞
 ＠ホロライブエン	@hololive_En	名詞
 ＠ホロエン	@hololive_En	名詞
 ＠ホォィヴェen	@hololive_En	名詞
 ＠ホォen	@hololive_En	名詞
-＠ホォィヴェエｎ	@hololive_En	名詞
-＠ホォエｎ	@hololive_En	名詞
+＠ホォィヴェエn	@hololive_En	名詞
+＠ホォエn	@hololive_En	名詞
 ＠ホォィヴェエン	@hololive_En	名詞
 ＠ホォエン	@hololive_En	名詞
 ＠hololiveen	@hololive_En	名詞
@@ -108,35 +108,35 @@ Holoen	HololiveEN	名詞
 ＠Holoen	@hololive_En	名詞
 ホロライブid	hololive Indonesia	名詞
 ホロid	HololiveID	名詞
-ホロライブイｄ	hololive Indonesia	名詞
-ホロイｄ	HololiveID	名詞
+ホロライブイd	hololive Indonesia	名詞
+ホロイd	HololiveID	名詞
 ホォィヴェid	hololive Indonesia	名詞
 ホォid	HololiveID	名詞
-ホォィヴェイｄ	hololive Indonesia	名詞
-ホォイｄ	HololiveID	名詞
+ホォィヴェイd	hololive Indonesia	名詞
+ホォイd	HololiveID	名詞
 hololiveid	hololive Indonesia	名詞
 holoid	hololive Indonesia	名詞
 holoid	HololiveID	名詞
 Holoid	HololiveID	名詞
 ：ホロライブid	▶	名詞
 ：ホロid	▶	名詞
-：ホロライブイｄ	▶	名詞
-：ホロイｄ	▶	名詞
+：ホロライブイd	▶	名詞
+：ホロイd	▶	名詞
 ：ホォィヴェid	▶	名詞
 ：ホォid	▶	名詞
-：ホォィヴェイｄ	▶	名詞
-：ホォイｄ	▶	名詞
+：ホォィヴェイd	▶	名詞
+：ホォイd	▶	名詞
 ：hololiveid	▶	名詞
 ：holoid	▶	名詞
 ：Holoid	▶	名詞
 ＠ホロライブid	@hololive_Id	名詞
 ＠ホロid	@hololive_Id	名詞
-＠ホロライブイｄ	@hololive_Id	名詞
-＠ホロイｄ	@hololive_Id	名詞
+＠ホロライブイd	@hololive_Id	名詞
+＠ホロイd	@hololive_Id	名詞
 ＠ホォィヴェid	@hololive_Id	名詞
 ＠ホォid	@hololive_Id	名詞
-＠ホォィヴェイｄ	@hololive_Id	名詞
-＠ホォイｄ	@hololive_Id	名詞
+＠ホォィヴェイd	@hololive_Id	名詞
+＠ホォイd	@hololive_Id	名詞
 ＠hololiveid	@hololive_Id	名詞
 ＠holoid	@hololive_Id	名詞
 ＠Holoid	@hololive_Id	名詞
@@ -152,14 +152,14 @@ Holoid	HololiveID	名詞
 ホロdevis	hololive DEV_IS	名詞
 ホォィヴェdevis	hololive DEV_IS	名詞
 ホォdevis	hololive DEV_IS	名詞
-ホロライブデヴィｓ	hololive DEV_IS	名詞
-ホロデヴィｓ	hololive DEV_IS	名詞
-ホォイヴェデヴィｓ	hololive DEV_IS	名詞
-ホォデヴィｓ	hololive DEV_IS	名詞
+ホロライブデヴィs	hololive DEV_IS	名詞
+ホロデヴィs	hololive DEV_IS	名詞
+ホォイヴェデヴィs	hololive DEV_IS	名詞
+ホォデヴィs	hololive DEV_IS	名詞
 hololivedevis	hololive DEV_IS	名詞
 holodevis	hololive DEV_IS	名詞
 デバイス	DEV_IS	名詞
-デヴィｓ	DEV_IS	名詞
+デヴィs	DEV_IS	名詞
 dev_is	DEV_IS	名詞
 devis	DEV_IS	名詞
 ：ホロライブデバイス	▶	名詞
@@ -174,14 +174,14 @@ devis	DEV_IS	名詞
 ：ホロdevis	▶	名詞
 ：ホォィヴェdevis	▶	名詞
 ：ホォdevis	▶	名詞
-：ホロライブデヴィｓ	▶	名詞
-：ホロデヴィｓ	▶	名詞
-：ホォイヴェデヴィｓ	▶	名詞
-：ホォデヴィｓ	▶	名詞
+：ホロライブデヴィs	▶	名詞
+：ホロデヴィs	▶	名詞
+：ホォイヴェデヴィs	▶	名詞
+：ホォデヴィs	▶	名詞
 ：hololivedevis	▶	名詞
 ：holodevis	▶	名詞
 ：デバイス	▶	名詞
-：デヴィｓ	▶	名詞
+：デヴィs	▶	名詞
 ：dev_is	▶	名詞
 ：devis	▶	名詞
 ユウジンエー	友人A	人名
@@ -1753,7 +1753,7 @@ devis	DEV_IS	名詞
 ＠トワ	@tokoyamitowa	名詞
 ＠トワチ	@tokoyamitowa	名詞
 ＠トワサマ	@tokoyamitowa	名詞
-ｔｍｔ	トワ様マジ天使	名詞
+tmt	トワ様マジ天使	名詞
 ヒメモリルーナ	姫森ルーナ	人名
 ヒメモリ	姫森	人名
 ルーナ	ルーナ	人名
@@ -3908,10 +3908,10 @@ advent	Hololive English -Advent-	名詞
 ＠ガヴィス	@gavisbettel	名詞
 マキナ	Machina	人名
 フレオン	Flayon	人名
-マキナｘフレオン	Machina X Flayon	人名
+マキナxフレオン	Machina X Flayon	人名
 ：マキナ	🪫	名詞
 ：フレオン	🪫	名詞
-：マキナｘフレオン	🪫	名詞
+：マキナxフレオン	🪫	名詞
 ＃マキナ	#FlayOnAir	名詞	生放送
 ＃マキナ	#FlayonsCrayons	名詞	ファンアート
 ＃マキナ	#MachironiXCheese	名詞	memes
@@ -3920,16 +3920,16 @@ advent	Hololive English -Advent-	名詞
 ＃フレオン	#FlayonsCrayons	名詞	ファンアート
 ＃フレオン	#MachironiXCheese	名詞	memes
 ＃フレオン	#FlayOnWords	名詞	切り抜き
-＃マキナｘフレオン	#FlayOnAir	名詞	生放送
-＃マキナｘフレオン	#FlayonsCrayons	名詞	ファンアート
-＃マキナｘフレオン	#MachironiXCheese	名詞	memes
-＃マキナｘフレオン	#FlayOnWords	名詞	切り抜き
+＃マキナxフレオン	#FlayOnAir	名詞	生放送
+＃マキナxフレオン	#FlayonsCrayons	名詞	ファンアート
+＃マキナxフレオン	#MachironiXCheese	名詞	memes
+＃マキナxフレオン	#FlayOnWords	名詞	切り抜き
 ～マキナ	Machiroons	名詞
 ～フレオン	Machiroons	名詞
-～マキナｘフレオン	Machiroons	名詞
+～マキナxフレオン	Machiroons	名詞
 ＠マキナ	@machinaxflayon	名詞
 ＠フレオン	@machinaxflayon	名詞
-＠マキナｘフレオン	@machinaxflayon	名詞
+＠マキナxフレオン	@machinaxflayon	名詞
 マキナフレオン	Machina X Flayon	名詞
 マンショウインハッカ	万象院ハッカ	人名
 マンショウイン	万象院	人名
