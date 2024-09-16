@@ -14,4 +14,7 @@ export const minatoAqua: LiverData = {
   fans: ['あくあクルー'],
   twitter: ['@minatoaqua'],
   others: [['あくきん', 'AKUKIN']],
+  flags: {
+    isActive: false,
+  },
 };
