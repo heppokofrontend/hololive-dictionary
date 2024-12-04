@@ -10,8 +10,8 @@ export const koganeiNiko: LiverData = {
     ['#AIニコたん', 'AIファンアート'],
     ['#感想しタイガー', 'グッズやボイスなどの感想'],
     ['#どうなのニコたん', '質問'],
-    ['#うちの虎見せタイガー', 'アニマルタグ']
+    ['#うちの虎見せタイガー', 'アニマルタグ'],
   ],
   fans: ['ニコ担'],
-  twitter: ['@koganeiniko']
+  twitter: ['@koganeiniko'],
 };

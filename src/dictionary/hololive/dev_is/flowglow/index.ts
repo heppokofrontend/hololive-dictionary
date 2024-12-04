@@ -1,8 +1,8 @@
-import { isakiRiona } from "./isaki-riona";
-import { koganeiNiko } from "./koganei-niko";
-import { mizumiyaSu } from "./mizumiya-su";
-import { rindoChihaya } from "./rindo-chihaya";
-import { kikiraraVivi } from "./kikirara-vivi";
+import { isakiRiona } from './isaki-riona';
+import { koganeiNiko } from './koganei-niko';
+import { mizumiyaSu } from './mizumiya-su';
+import { rindoChihaya } from './rindo-chihaya';
+import { kikiraraVivi } from './kikirara-vivi';
 
 export const hololiveDevIsFlowGlow: LiverData[] = [
   isakiRiona,
@@ -10,4 +10,4 @@ export const hololiveDevIsFlowGlow: LiverData[] = [
   kikiraraVivi,
   mizumiyaSu,
   rindoChihaya,
-]
+];

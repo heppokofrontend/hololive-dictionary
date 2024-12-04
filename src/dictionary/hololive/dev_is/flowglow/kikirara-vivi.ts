@@ -10,8 +10,8 @@ export const kikiraraVivi: LiverData = {
     ['#ヴィヴィネイル', 'サムネイル'],
     ['#ヴィヴィアクセ', '配信用素材'],
     ['#ヴィヴィを彩る', 'コスメや美容'],
-    ['#ヴィヴィときゅん', 'かわいいや好きを共有']
+    ['#ヴィヴィときゅん', 'かわいいや好きを共有'],
   ],
   fans: ['vivid', 'ヴィヴィット'],
-  twitter: ['@kikiraravivi']
-}
+  twitter: ['@kikiraravivi'],
+};

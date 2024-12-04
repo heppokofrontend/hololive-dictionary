@@ -9,5 +9,5 @@ export const isakiRiona: LiverData = {
     ['#リオナート', 'ファンアート'],
   ],
   fans: ['響咲連合'],
-  twitter: ['@isakiriona']
+  twitter: ['@isakiriona'],
 };

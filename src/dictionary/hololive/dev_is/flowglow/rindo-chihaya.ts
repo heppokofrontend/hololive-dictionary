@@ -9,8 +9,8 @@ export const rindoChihaya: LiverData = {
     ['#ちは歌うだよ', '歌リクエスト'],
     ['#もはやちはや', 'ファンアート'],
     ['#絵っちはや', 'R-18ファンアート'],
-    ['#きりとりん堂', '切り抜き動画']
+    ['#きりとりん堂', '切り抜き動画'],
   ],
   fans: ['ちはニック'],
-  twitter: ['@rindochihaya']
-}
+  twitter: ['@rindochihaya'],
+};
